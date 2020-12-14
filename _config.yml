@@ -109,13 +109,7 @@ defaults:
       layout: single
       author_profile: true
       
-      ---
-      # table of contents
-      toc: true
-      toc_label: "Table of Contents"
-      toc_icon: "cog"
       
-      ---
 
 category_archive:
   type: liquid
