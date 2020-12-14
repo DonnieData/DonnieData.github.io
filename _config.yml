@@ -56,8 +56,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-header:
-  teaser: "/assets/images/header_sample.png"
 
 author:
   name   : "First Lastname"
