@@ -57,7 +57,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
 header:
-  teaser: 
+  teaser: "/assets/images/header_sample.png"
 
 author:
   name   : "First Lastname"
