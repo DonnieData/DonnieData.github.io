@@ -9,7 +9,7 @@ header:
   actions:
     - label: "GitHub"
       url: "https://github.com/DonnieData"
-excerpt: "Below are projects that highlet areas of work and that are benchmarks of my data analytics journey"
+excerpt: <h1>"Below are projects that highlet areas of work and that are benchmarks of my data analytics journey"</h1>
 intro: 
   - excerpt: "Below are projects that highlet areas of work and that are benchmarks of my data analytics journey"
 feature_row:
@@ -62,7 +62,7 @@ feature_row3:
   - image_path: /assets/images/crc_thu.png
     title: "Pandas"
     btn_label: "Coming Soon"
-    btn_class: 
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
