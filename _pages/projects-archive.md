@@ -9,9 +9,9 @@ header:
   actions:
     - label: "GitHub"
       url: "https://github.com/DonnieData"
-excerpt: <h1>"Below are projects that highlet areas of work and that are benchmarks of my data analytics journey"</h1>
+excerpt: "Below are projects that highlet areas of work and that are benchmarks of my data analytics journey"
 intro: 
-  - excerpt: "Below are projects that highlet areas of work and that are benchmarks of my data analytics journey"
+  - excerpt: "<h1>Below are projects that highlet areas of work and that are benchmarks of my data analytics journey<h1>"
 feature_row:
   - image_path: /assets/images/header_sample.png
     alt: "placeholder image 1"
@@ -61,6 +61,7 @@ blog_intro:
 feature_row3:
   - image_path: /assets/images/crc_thu.png
     title: "Pandas"
+    url: "#test-link"
     btn_label: "Coming Soon"
     btn_class: "btn--primary"
 ---
