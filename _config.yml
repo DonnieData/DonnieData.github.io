@@ -58,16 +58,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Donnell Jackson"
   avatar : "/assets/images/Logo.png"
   bio    : "Ambitious data analyst passionate about Big Data and Tech Inclusion"
   links:
     - label: "Email"
       icon: "far fa-envelope"
       url: "mailto:donnell.jackson@outlook.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/DonnieData"
