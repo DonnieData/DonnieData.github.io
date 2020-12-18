@@ -22,6 +22,8 @@ feature_row:
     btn_label: "Coming Soon"
     btn_class: "btn--primary" 
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    header:
+      overlay_color: "#000"
     alt: "placeholder image 2"
     title: "Austin Crime Data Analysis"
     excerpt: "Analyzing Austin Crime Data."
