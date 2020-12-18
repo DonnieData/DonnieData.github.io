@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Logo.png"
   bio    : "Ambitious data analyst passionate about Big Data and Tech Inclusion"
   links:
     - label: "Email"
