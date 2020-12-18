@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "First Lastname"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Ambitious data analyst passionate about Big Data and Tech Inclusion"
   links:
     - label: "Email"
       icon: "far fa-envelope"
