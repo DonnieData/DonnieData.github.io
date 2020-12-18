@@ -11,7 +11,7 @@ header:
       url: "https://github.com/DonnieData"
 excerpt: "Below are projects that highlet areas of work and that are benchmarks of my data analytics journey"
 intro: 
-  - excerpt: "<h1>Below are projects that highlet areas of work and that are benchmarks of my data analytics journey<h1>"
+  - excerpt: "<h1>Featured Projects<h1>"
 feature_row:
   - image_path: /assets/images/header_sample.png
     alt: "placeholder image 1"
@@ -56,9 +56,9 @@ feature_row2:
     url: "#test-link"
     btn_label: "Coming Soon"
     btn_class: "btn--primary" 
-blog_intro:
-  - excerpt: "featured blogs"
 feature_row3:
+  - excerpt: "<h1>Featured Blog Posts</h1>"
+feature_row4:
   - image_path: /assets/images/crc_thu.png
     title: "Pandas"
     url: "#test-link"
@@ -72,6 +72,6 @@ feature_row3:
 
 {% include feature_row id="feature_row2" %}
 
-{% include feature_row id="blog_into" type="center" %}
+{% include feature_row id="feature_row3" type="center" %}
 
-{% include feature_row id="feature_row3" %}
+{% include feature_row id="feature_row4" %}
