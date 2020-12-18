@@ -60,6 +60,9 @@ blog_intro:
   - excerpt: "featured blogs"
 feature_row3:
   - image_path: /assets/images/crc_thu.png
+    title: "Pandas"
+    btn_label: "Coming Soon"
+    btn_class: 
 ---
 
 {% include feature_row id="intro" type="center" %}
