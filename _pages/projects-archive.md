@@ -14,10 +14,13 @@ excerpt: "Below are projects that highlet areas of work and that are benchmarks 
 intro: 
   - excerpt: "Below are projects that highlet areas of work and that are benchmarks of my data analytics journey"
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: assets/images/header_sample.png
     alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Building ETL Pipelines"
+    excerpt: "Buidling ETL pipelines with Python and PostgreSQL."
+    url: "#test-link"
+    btn_label: "Coming Soon"
+    btn_class: "btn--primary" 
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
