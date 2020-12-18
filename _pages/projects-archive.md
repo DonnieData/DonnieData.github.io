@@ -22,8 +22,7 @@ feature_row:
     excerpt: "Buidling ETL pipelines with Python and PostgreSQL."
     url: "#test-link"
     btn_label: "Coming Soon"
-    btn_class: "btn--primary"
-    
+    btn_class: "btn--primary" 
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
@@ -31,15 +30,13 @@ feature_row:
     excerpt: "Analyzing Austin Crime Data."
     url: "#test-link"
     btn_label: "Coming Soon"
-    btn_class: "btn--primary"
-    
+    btn_class: "btn--primary"  
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Entity Relationship & Databases"
     excerpt: "Understanding data modeling and database relationships through ERD's and schemas."
     url: "#test-link"
     btn_label: "Coming Soon"
-    btn_class: "btn--primary"
-    
+    btn_class: "btn--primary" 
 feature_row2:
    - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
@@ -47,8 +44,7 @@ feature_row2:
     excerpt: "Please stay tuned for more."
     url: "#test-link"
     btn_label: "Coming Soon"
-    btn_class: "btn--primary"
-    
+    btn_class: "btn--primary" 
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Project 5"
@@ -56,16 +52,13 @@ feature_row2:
     excerpt: "Please stay tuned for more."
     url: "#test-link"
     btn_label: "Coming Soon"
-    btn_class: "btn--primary"
-    
+    btn_class: "btn--primary" 
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Project 6"
     excerpt: "Please stay tuned for more.""
     url: "#test-link"
     btn_label: "Coming Soon"
     btn_class: "btn--primary"
-
-
 ---
 
 {% include feature_row id="intro" type="center" %}
