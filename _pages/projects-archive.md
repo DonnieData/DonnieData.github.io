@@ -22,16 +22,19 @@ feature_row:
     btn_label: "Coming Soon"
     btn_class: "btn--primary" 
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Austin Crime Data Analysis"
+    excerpt: "Analyzing Austin Crime Data."
     url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_label: "Coming Soon"
+    btn_class: "btn--primary"  
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    alt: "placeholder image 1"
+    title: "Entity Relationship & Databases"
+    excerpt: "Understanding data modeling and database relationships through ERD's and schemas."
+    url: "#test-link"
+    btn_label: "Coming Soon"
+    btn_class: "btn--primary" 
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
