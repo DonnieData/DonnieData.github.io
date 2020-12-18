@@ -14,21 +14,21 @@ excerpt: "Below are projects that highlet areas of work and that are benchmarks 
 intro: 
   - excerpt: "Below are projects that highlet areas of work and that are benchmarks of my data analytics journey"
 feature_row:
-  - image_path: assets/images/header_sample.png
+  - image_path: /assets/images/header_sample.png
     alt: "placeholder image 1"
     title: "Building ETL Pipelines"
     excerpt: "Buidling ETL pipelines with Python and PostgreSQL."
     url: "#test-link"
     btn_label: "Coming Soon"
     btn_class: "btn--primary" 
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/pro_overlay_head.png
     alt: "placeholder image 2"
     title: "Austin Crime Data Analysis"
     excerpt: "Analyzing Austin Crime Data."
     url: "#test-link"
     btn_label: "Coming Soon"
     btn_class: "btn--primary"  
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+  - image_path: /assets/images/pro_overlay_head.png
     alt: "placeholder image 1"
     title: "Entity Relationship & Databases"
     excerpt: "Understanding data modeling and database relationships through ERD's and schemas."
@@ -36,21 +36,21 @@ feature_row:
     btn_label: "Coming Soon"
     btn_class: "btn--primary" 
 feature_row2:
-  - image_path: assets/images/header_sample.png
+  - image_path: /assets/images/pro_overlay_head.png
     alt: "placeholder image 1"
     title: "Building ETL Pipelines"
     excerpt: "Buidling ETL pipelines with Python and PostgreSQL."
     url: "#test-link"
     btn_label: "Coming Soon"
     btn_class: "btn--primary" 
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/pro_overlay_head.png
     alt: "placeholder image 2"
     title: "Austin Crime Data Analysis"
     excerpt: "Analyzing Austin Crime Data."
     url: "#test-link"
     btn_label: "Coming Soon"
     btn_class: "btn--primary"  
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+  - image_path: /assets/images/pro_overlay_head.png
     alt: "placeholder image 1"
     title: "Entity Relationship & Databases"
     excerpt: "Understanding data modeling and database relationships through ERD's and schemas."
