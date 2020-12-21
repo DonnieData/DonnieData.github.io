@@ -20,7 +20,7 @@ feature_row:
     url: "#test-link"
     btn_label: "Coming Soon"
     btn_class: "btn--primary" 
-  - image_path: /assets/images/pro_overlay_head.png
+  - image_path: /assets/images/nasa.jpg
     alt: "placeholder image 2"
     title: "Austin Crime Data Analysis"
     excerpt: "Analyzing Austin Crime Data."
