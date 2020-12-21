@@ -25,7 +25,10 @@ feature_row:
     title: "Austin Crime Data Analysis"
     excerpt: "Analyzing Austin Crime Data."
     url: "#test-link"
-    btn_label: "Coming Soon"
+    btn_label: "Read Documentation"
+    url: "https://donniedata.github.io/UFOs/"
+    btn_class: "btn--primary"  
+    btn_label: "View The Web App"
     btn_class: "btn--primary"  
   - image_path: /assets/images/pro_overlay_head.png
     alt: "placeholder image 1"
