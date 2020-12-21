@@ -29,7 +29,7 @@ feature_row:
     btn_class: "btn--primary"  
     url: "https://donniedata.github.io/UFOs/"
     btn_label: "View The Web App"
-    btn_class: "btn--primary"  
+    btn_class: "btn--secondar"  
   - image_path: /assets/images/pro_overlay_head.png
     alt: "placeholder image 1"
     title: "Entity Relationship & Databases"
