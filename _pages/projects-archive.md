@@ -26,7 +26,7 @@ feature_row:
     excerpt: "Building a dynamic webpage to display and filter data using JavaScript."
     url: "#test-link"
     btn_label: "Read Documentation"
-    btn_class: "btn--secondary"  
+    btn_class: "btn--primary"  
     url: "https://donniedata.github.io/UFOs/"
     btn_label: "View The Web App"
     btn_class: "btn--primary"  
