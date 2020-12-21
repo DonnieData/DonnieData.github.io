@@ -23,10 +23,10 @@ feature_row:
   - image_path: /assets/images/nasa.jpg
     alt: "placeholder image 2"
     title: "Austin Crime Data Analysis"
-    excerpt: "Analyzing Austin Crime Data."
+    excerpt: "Building a dynamic webpage to display and filter data using JavaScript."
     url: "#test-link"
     btn_label: "Read Documentation"
-    btn_class: "btn--primary"  
+    btn_class: "btn--secondary"  
     url: "https://donniedata.github.io/UFOs/"
     btn_label: "View The Web App"
     btn_class: "btn--primary"  
