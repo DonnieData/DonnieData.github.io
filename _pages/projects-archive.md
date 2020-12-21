@@ -23,7 +23,7 @@ feature_row:
   - image_path: /assets/images/nasa.jpg
     alt: "placeholder image 2"
     title: "Austin Crime Data Analysis"
-    excerpt: "Building a dynamic webpage to display and filter data using JavaScript."
+    excerpt: "Building a dynamic webpage to display and filter data using JavaScript.<br/> [View The Documentation]({https://donniedata.github.io/})"
     url: "https://donniedata.github.io/UFOs/"
     btn_label: "View The Web App"
     btn_class: "btn--primary"  
@@ -33,7 +33,7 @@ feature_row:
     excerpt: "Understanding data modeling and database relationships through ERD's and schemas."
     url: "#test-link"
     btn_label: "Coming Soon"
-    btn_class: "btn--primary" 
+    btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/pro_overlay_head.png
     alt: "placeholder image 1"
