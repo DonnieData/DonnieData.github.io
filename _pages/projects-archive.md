@@ -24,12 +24,9 @@ feature_row:
     alt: "placeholder image 2"
     title: "Austin Crime Data Analysis"
     excerpt: "Building a dynamic webpage to display and filter data using JavaScript."
-    url: "#test-link"
-    btn_label: "Read Documentation"
-    btn_class: "btn--primary"  
     url: "https://donniedata.github.io/UFOs/"
     btn_label: "View The Web App"
-    btn_class: "btn--secondar"  
+    btn_class: "btn--primary"  
   - image_path: /assets/images/pro_overlay_head.png
     alt: "placeholder image 1"
     title: "Entity Relationship & Databases"
