@@ -27,6 +27,9 @@ feature_row:
     url: "https://donniedata.github.io/UFOs/"
     btn_label: "View The Web App"
     btn_class: "btn--primary"  
+    actions:
+    - label: "More Info"
+      url: "https://unsplash.com"
   - image_path: /assets/images/pro_overlay_head.png
     alt: "placeholder image 1"
     title: "Entity Relationship & Databases"
