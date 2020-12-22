@@ -62,6 +62,7 @@ author:
   links:
     - label: "Austin, TX" 
       icon: "fas fa-map-marker-alt" 
+      url: ""
     - label: "Email"
       icon: "far fa-envelope"
       url: "mailto:donnell.jackson@outlook.com"
