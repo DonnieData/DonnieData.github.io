@@ -74,7 +74,7 @@ footer:
   links:
     - label: "Email"
       icon: "far fa-envelope"
-      url: "mailto:donnell.jackson@outlook.com""
+      url: "mailto:donnell.jackson@outlook.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/DonnieData"
