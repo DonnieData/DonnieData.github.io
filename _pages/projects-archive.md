@@ -10,7 +10,7 @@ excerpt: "Below are projects that highlet areas of work and that are benchmarks 
 intro: 
   - excerpt: "<h1>Featured Projects<h1>"
 feature_row:
-  - image_path: /assets/images/header_sample.png
+  - image_path: /assets/images/pipeline.jpg
     alt: "placeholder image 1"
     title: "Building ETL Pipelines"
     excerpt: "Buidling ETL pipelines with Python and PostgreSQL."
@@ -33,16 +33,16 @@ feature_row:
     btn_label: "Coming Soon"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/pro_overlay_head.png
+  - image_path: /assets/images/crime_data.jpg
     alt: "placeholder image 1"
     title: "Building ETL Pipelines"
-    excerpt: "Buidling ETL pipelines with Python and PostgreSQL."
+    excerpt: "Austin Crime Data Analysis"
     url: "#test-link"
     btn_label: "Coming Soon"
     btn_class: "btn--primary" 
   - image_path: /assets/images/pro_overlay_head.png
     alt: "placeholder image 2"
-    title: "Austin Crime Data Analysis"
+    title: "Entity Relationship & Databases"
     excerpt: "Analyzing Austin Crime Data."
     url: "#test-link"
     btn_label: "Coming Soon"
