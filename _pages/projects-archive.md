@@ -6,9 +6,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
-  actions:
-    - label: "GitHub"
-      url: "https://github.com/DonnieData"
 excerpt: "Below are projects that highlet areas of work and that are benchmarks of my data analytics journey"
 intro: 
   - excerpt: "<h1>Featured Projects<h1>"
