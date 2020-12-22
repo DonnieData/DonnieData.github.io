@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Portfolio <br/> Data Analytics
+title: Data Analytics <br/> Portfolio 
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Data Analytics Portfolio
@@ -60,6 +60,8 @@ author:
   avatar : "/assets/images/Logo.png"
   bio    : "Ambitious data analyst passionate about Big Data and Tech Inclusion"
   links:
+    - label: "Austin, TX" 
+      icon: "fas fa-map-marker-alt" 
     - label: "Email"
       icon: "far fa-envelope"
       url: "mailto:donnell.jackson@outlook.com"
