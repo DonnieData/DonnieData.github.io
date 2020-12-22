@@ -19,14 +19,12 @@ feature_row:
     btn_class: "btn--primary" 
   - image_path: /assets/images/nasa.jpg
     alt: "placeholder image 2"
-    title: "Austin Crime Data Analysis"
+    title: "Transforming & Dynamically Visualizing Data"
     excerpt: "Building a dynamic webpage to display and filter data using JavaScript.<br/><br/> <button><b>[Read More]({% post_url 2020-12-20-post-ufo %})</b></button>"
-    url: "https://donniedata.github.io/UFOs/"
-    btn_label: "View The Web App"
+    url: "https://donniedata.github.io/"
+    btn_label: "View Project"
     btn_class: "btn--primary"  
     actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
   - image_path: /assets/images/pro_overlay_head.png
     alt: "placeholder image 1"
     title: "Entity Relationship & Databases"
