@@ -21,7 +21,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "Transforming & Dynamically Visualizing Data"
     excerpt: "Building a dynamic webpage to display and filter data using JavaScript." 
-    url: "https://donniedata.github.io/"
+    url: "https://donniedata.github.io/post/post-ufo/"
     btn_label: "View Project"
     btn_class: "btn--primary"  
     actions:
