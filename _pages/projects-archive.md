@@ -25,10 +25,10 @@ feature_row:
     btn_label: "View Project"
     btn_class: "btn--primary"  
     actions:
-  - image_path: /assets/images/pro_overlay_head.png
+  - image_path: /assets/images/splash_project/bacteriacrrb.jpg
     alt: "placeholder image 1"
-    title: "Entity Relationship & Databases"
-    excerpt: "Understanding data modeling and database relationships through ERD's and schemas."
+    title: "Dynamically Visualizing Data"
+    excerpt: "Creating customizable and interactive charts with Javascript to share insights."
     url: "#test-link"
     btn_label: "Coming Soon"
     btn_class: "btn--primary"
