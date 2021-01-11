@@ -29,8 +29,8 @@ feature_row:
     alt: "placeholder image 1"
     title: "Dynamically Visualizing Data"
     excerpt: "Creating customizable and interactive charts with Javascript to share insights."
-    url: "#test-link"
-    btn_label: "Coming Soon"
+    url: "https://donniedata.github.io/post/post-belly/"
+    btn_label: "View Project"
     btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/crime_data.jpg
