@@ -17,7 +17,7 @@ feature_row:
     url: "#test-link"
     btn_label: "Coming Soon"
     btn_class: "btn--primary" 
-  - image_path: /assets/images/nasa.jpg
+  - image_path: /assets/images/splash_project/nasa_splash.jpg
     alt: "placeholder image 2"
     title: "Transforming & Dynamically Visualizing Data"
     excerpt: "Building a dynamic webpage to display and filter data using JavaScript." 
@@ -25,7 +25,7 @@ feature_row:
     btn_label: "View Project"
     btn_class: "btn--primary"  
     actions:
-  - image_path: /assets/images/splash_project/bacteriacrrb.jpg
+  - image_path: /assets/images/splash_project/bacteria_splash.jpg
     alt: "placeholder image 1"
     title: "Dynamically Visualizing Data"
     excerpt: "Creating customizable and interactive charts with Javascript to share insights."
@@ -33,7 +33,7 @@ feature_row:
     btn_label: "View Project"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/crime_data.jpg
+  - image_path: /assets/images/splash_project/crime_splash.jpg
     alt: "placeholder image 1"
     title: "Building ETL Pipelines"
     excerpt: "Austin Crime Data Analysis"
