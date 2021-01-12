@@ -17,7 +17,7 @@ feature_row:
     url: "#test-link"
     btn_label: "Coming Soon"
     btn_class: "btn--primary" 
-  - image_path: /assets/images/nasa.jpg
+  - image_path: /assets/images/splash_project/nasa_splash.jpg
     alt: "placeholder image 2"
     title: "Transforming & Dynamically Visualizing Data"
     excerpt: "Building a dynamic webpage to display and filter data using JavaScript." 
