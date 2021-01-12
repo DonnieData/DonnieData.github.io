@@ -27,7 +27,7 @@ feature_row:
     actions:
   - image_path: /assets/images/splash_project/bacteria_splash_1.jpg
     alt: "placeholder image 1"
-    title: "Dynamically Visualizing Data"
+    title: "Exploring Data Through Custom Dashboards"
     excerpt: "Creating customizable and interactive charts with Javascript to share insights."
     url: "https://donniedata.github.io/post/post-belly/"
     btn_label: "View Project"
