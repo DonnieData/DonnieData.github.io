@@ -33,7 +33,7 @@ feature_row:
     btn_label: "View Project"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/crime_data.jpg
+  - image_path: /assets/images/splash_project/crime_splash.jpg
     alt: "placeholder image 1"
     title: "Building ETL Pipelines"
     excerpt: "Austin Crime Data Analysis"
