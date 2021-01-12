@@ -1,5 +1,5 @@
 ---
-title: "javascript & HTML Web Application"
+title: "Exploring Data Through Custom Dashboards"
 excerpt_separator: "<!--more-->" 
 classes: wide
 categories:
