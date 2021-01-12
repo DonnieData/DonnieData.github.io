@@ -25,7 +25,7 @@ feature_row:
     btn_label: "View Project"
     btn_class: "btn--primary"  
     actions:
-  - image_path: /assets/images/splash_project/bacteriacrrb.jpg
+  - image_path: /assets/images/splash_project/bacteria_splash.jpg
     alt: "placeholder image 1"
     title: "Dynamically Visualizing Data"
     excerpt: "Creating customizable and interactive charts with Javascript to share insights."
