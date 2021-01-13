@@ -7,7 +7,7 @@ categories:
 tags:
 excerpt: Building ETL Pipelines to clean, transform and store data. 
 header:
-  overlay_filter: rgba(66, 127, 188,1)
+  overlay_image: /assets/images/post/belly_427FC8.png
   actions:
     - label: "View the Web App" 
       url: "https://donniedata.github.io/Button_Biodiversity/"
@@ -22,7 +22,27 @@ highlight relationships and trends that are not the most clear on the surface.
 
 Of the many tools and features a dashboard can offer, the most prominent are customizability and interactiveness. Providing the ability for users to intuitively explore data on their own allows the possibility of limitless insights. 
 
-With this in mind, I have created a simple dahsboard layout using HTML and Bootstrap CSS, and a javascript script in the backend to parse data and display it using the Plotly library.  
+With this in mind, I have created a simple dahsboard with bacteria samples data, to create a fun and interactive layout in which many insights can be derrived from.  
+
+Reosurces: 
+
+- Plotly.js
+The plotly library allows for powerful and interactive visualaitons to be built through JavaScript code, without needed to download any extra components or files.
+
+- Bootstrap & Additonal CSS
+Bootstraps grid system is utilized to create and design a crisp page layout. 
+
+- JavaScript 
+The heart of this project is JavaScript, which is used to create a script that parses the bacteria sample 
+
+Intergration:
+
+
+Layout 
+
+
+
+Deplowment: 
 
 
 
@@ -30,7 +50,8 @@ While this dashobard may be simple it will....
 
 How it was made:....
 
-<p>A dashboard to dynamically visualize and share bacteria samples data. The drop down within the dashboard allows you to select a volunteer's id number. The interactive tables and charts will then update with the corresponding data, allowing for further analysis and exploration.</p>
+Check it out!...
+
 
 
 ## Resources 
