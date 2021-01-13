@@ -54,30 +54,6 @@ feature_row2:
     url: "#test-link"
     btn_label: "Coming Soon"
     btn_class: "btn--primary" 
-feature_row3:
-  - excerpt: "<h1>Featured Blog Posts</h1>"
-feature_row4:
-  - image_path: /assets/images/pro_overlay_head_b.png
-    alt: "placeholder image 1"
-    title: "Blog post 1"
-    excerpt: "Python is a programming language that lets you work more quickly and integrate your         systems more effectively. You can learn to use Python and see almost immediate gains in               productivity and lower maintenance costs."
-    url: "#test-link"
-    btn_label: "Continue Reading"
-    btn_class: "btn--primary" 
-  - image_path: /assets/images/pro_overlay_head_b.png
-    alt: "placeholder image 1"
-    title: "Blog post 2"
-    excerpt: "Python is a programming language that lets you work more quickly and integrate your         systems more effectively. You can learn to use Python and see almost immediate gains in               productivity and lower maintenance costs."
-    url: "#test-link"
-    btn_label: "Continue Reading"
-    btn_class: "btn--primary"   
-  - image_path: /assets/images/pro_overlay_head_b.png
-    alt: "placeholder image 1"
-    title: "Blog post 3"
-    excerpt: "Python is a programming language that lets you work more quickly and integrate your         systems more effectively. You can learn to use Python and see almost immediate gains in               productivity and lower maintenance costs."
-    url: "#test-link"
-    btn_label: "Continue Reading"
-    btn_class: "btn--primary" 
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -86,6 +62,3 @@ feature_row4:
 
 {% include feature_row id="feature_row2" %}
 
-{% include feature_row id="feature_row3" type="center" %}
-
-{% include feature_row id="feature_row4" %}
