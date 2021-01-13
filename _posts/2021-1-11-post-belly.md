@@ -7,7 +7,7 @@ categories:
 tags:
 excerpt: Building ETL Pipelines to clean, transform and store data. 
 header:
-  overlay_filter: rgba(66, 127, 188)
+  overlay_filter: rgba(66, 127, 188,1)
   actions:
     - label: "View the Web App" 
       url: "https://donniedata.github.io/Button_Biodiversity/"
