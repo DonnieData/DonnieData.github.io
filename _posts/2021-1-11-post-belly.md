@@ -22,85 +22,53 @@ highlight relationships and trends that are not the most clear on the surface.
 
 Of the many tools and features a dashboard can offer, the most prominent are customizability and interactiveness. Providing the ability for users to intuitively explore data on their own allows the possibility of limitless insights. 
 
-With this in mind, I have created a simple dahsboard with bacteria samples data, to create a fun and interactive layout in which many insights can be derrived from.  
+With this in mind, I have created a simple dashboard with bacteria samples data, to create a fun and interactive layout in which many insights can be derived from.  
 
-Reosurces: 
+## Resources & Components
 
 - Plotly.js
-The plotly library allows for powerful and interactive visualaitons to be built through JavaScript code, without needed to download any extra components or files.
+The plotly library allows for powerful and interactive visualizations to be built through JavaScript code, without needed to download any extra components or files.
 
-- Bootstrap & Additonal CSS
-Bootstraps grid system is utilized to create and design a crisp page layout. 
+- Bootstrap & Additional CSS
+Bootstrap's grid system is utilized to create and design a crisp page layout. 
 
 - JavaScript 
-The heart of this project is JavaScript, which is used to create a script that parses the bacteria sample 
+The heart of this project is the script which is designed to parse the bacteria data which is in json format.
 
-Intergration:
+![img]
 
-
-Layout 
-
-
-
-Deplowment: 
+The data is then passed through several functions to transform it into the appropriate formats for each chart. 
+The script then inserts the visualizations into the web page.
 
 
+## Deployment 
 
-While this dashobard may be simple it will....
+The dashboard provides a dropdown menu of volunteer id numbers. When selected the table and charts will update with corresponding data of samples collected from the volunteer.
 
-How it was made:....
-
-Check it out!...
-
-
-
-## Resources 
-Including the D3, resources needed to create our web application are : 
-  - a code editor (that supports JavaScript and HTML) 
-  - D3.js 
-  - HTML
-  - Javascript 
-  - CSS & 
-  - Bootstrap 
- 
 
 
 <div class="notice">
-<b>Note:</b> Adding the link to D3.js allows the library to "listen" in on our code, or react to user input. For example, if we did not add this link, our d3.select section of code in app.js wouldn't know where to insert data. <br>
-  <a href="https://www.cdnpkg.com/d3"><b>D3.js CDN Link reference</b></a><br> 
-  <a href="https://www.imperva.com/learn/performance/what-is-cdn-how-it-works/"><b>More on CDNs</b></a>
+<b>Note:</b> There are strict protocols and laws in place in regards to working with medical data. Public analysis of medical data will always be anonymous in regards to people (e.g volunteers, patients, etc)
    </div>
    
+<div class="notice">
+<figure>
+  <a href="/assets/images/post/biodiversity_dash_1.png"><img src="/assets/images/post/biodiversity_dash_1.png"></a>
+</figure>
+</div>
 
 <div class="notice">
 <figure>
-  <a href="/assets/images/ufo/app_test_2.gif"><img src="/assets/images/ufo/app_test_2.gif"></a>
+  <a href="/assets/images/post/biodiversity_dash_2.gif"><img src="/assets/images/post/biodiversity_dash_2.gif"></a>
 </figure>
 </div>
-
-
-[design table]
-
-### The Deployed Project
-
-
-<div class="notice" style="text-align: center">
-<figure>
-  <a href="/assets/images/ufo/app_test_3.gif"><img src="/assets/images/ufo/app_test_3.gif"></a>
-</figure>
-</div>
-
-
 
 <div style="text-align: center"><a href="https://donniedata.github.io/Button_Biodiversity/"><button style="color:#636769; background-color:white; border: 2px solid gray; padding: 7px; border-radius: 3px;" type="button"
 onMouseOver="this.style.color='#157198'"
-   onMouseOut="this.style.color='#636769'"><b>View the Web App</b></button></a></div>
-   
-### Further Development 
-With all great projects and applications, there is always room for improvement and further development. This is especially the case in tech, in which new tools and features are consistently made available. 
+   onMouseOut="this.style.color='#636769'"><b>Explore the Dashboard</b></button></a></div>
 
-Amongst several ideas I have for improving this project, I'm most excited about building-out a method to retrieve live data and to have automated visualizations based on the data. 
-The application itself was meant to be quite versatile and reusable. Thanks to this the code can be easily refactored to fit many data sources and forms. 
-Please feel free to review the projects repository on GitHub and use the code as you like for your own practice/work. 
+
+## Further Development 
 
 Thank you for reading and exploring the data! 
+
