@@ -10,13 +10,6 @@ excerpt: "Below are projects that highlet areas of work and that are benchmarks 
 intro: 
   - excerpt: "<h1>Featured Projects<h1>"
 feature_row:
-  - image_path: /assets/images/pipeline.jpg
-    alt: "placeholder image 1"
-    title: "Building ETL Pipelines"
-    excerpt: "Buidling ETL pipelines with Python and PostgreSQL."
-    url: "#test-link"
-    btn_label: "Coming Soon"
-    btn_class: "btn--primary" 
   - image_path: /assets/images/splash_project/nasa_splash_1.jpg
     alt: "placeholder image 2"
     title: "Transforming & Dynamically Visualizing Data"
@@ -32,25 +25,31 @@ feature_row:
     url: "https://donniedata.github.io/post/post-belly/"
     btn_label: "View Project"
     btn_class: "btn--primary"
+  - image_path: /assets/images/splash_project/rector.jpg
+    alt: "placeholder image 1"
+    title: "Mapping GeoJson Data"
+    excerpt: "Traversing geoJson features and attributes"
+    url: "#test-link"
+    btn_label: "Coming Soon"
+    btn_class: "btn--primary" 
 feature_row2:
   - image_path: /assets/images/splash_project/crime_splash.jpg
     alt: "placeholder image 1"
-    title: "Building ETL Pipelines"
+    title: "Austin Crime Data Analysis"
     excerpt: "Austin Crime Data Analysis"
     url: "#test-link"
     btn_label: "Coming Soon"
     btn_class: "btn--primary" 
-  - image_path: /assets/images/pro_overlay_head.png
-    alt: "placeholder image 2"
-    title: "Entity Relationship & Databases"
-    excerpt: "Analyzing Austin Crime Data."
+  - image_path: /assets/images/pipeline.jpg
+    alt: "placeholder image 1"
+    title: "Building ETL Pipelines"
+    excerpt: "Buidling ETL pipelines with Python and PostgreSQL."
     url: "#test-link"
     btn_label: "Coming Soon"
-    btn_class: "btn--primary"  
+    btn_class: "btn--primary" 
   - image_path: /assets/images/pro_overlay_head.png
     alt: "placeholder image 1"
-    title: "Entity Relationship & Databases"
-    excerpt: "Understanding data modeling and database relationships through ERD's and schemas."
+    title: "Analysis Project"
     url: "#test-link"
     btn_label: "Coming Soon"
     btn_class: "btn--primary" 
