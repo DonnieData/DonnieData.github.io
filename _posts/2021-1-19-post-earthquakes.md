@@ -17,8 +17,18 @@ author_profile: True
 
 ---
 
-## Resources 
+What is Leaflet?
 
+Leaflet is an extremely popular, open-source JavaScript library for mobile-friendly interactive maps. It helps us display and visualize data in ways that are user-friendly and meaningful for data analysts and nonexperts alike.
+
+WSome things you can do with leaflet:
+
+Geojson points, multipolygon as a leaflet vector etc. 
+
+map 
+[!img]
+
+GeoJSON is an open standard format, which is essentially a type of JSON (JavaScript Object Notation) for representing geographical features along with their nonspatial attributes. It is commonly used with libraries like Leaflet.js.
 
 ## Overview 
 
