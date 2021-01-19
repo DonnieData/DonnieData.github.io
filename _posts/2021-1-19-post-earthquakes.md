@@ -10,9 +10,9 @@ header:
   overlay_image: /assets/images/post/belly_427FC8.png
   actions:
     - label: "View the Web App" 
-      url: "https://donniedata.github.io/Button_Biodiversity/"
+      url: "https://donniedata.github.io/dash_quakes/"
     - label: "GitHub Repo"
-      url: "https://github.com/DonnieData/Button_Biodiversity"
+      url: "https://github.com/DonnieData/Mapping_Earthquakes"
 author_profile: True 
 
 ---
