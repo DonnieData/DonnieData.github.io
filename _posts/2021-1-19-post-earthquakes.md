@@ -5,7 +5,7 @@ classes: wide
 categories:
   - Post
 tags:
-excerpt: Building ETL Pipelines to clean, transform and store data. 
+excerpt: Transforming geojson into a layered mapping visualization. 
 header:
   overlay_image: /assets/images/post/belly_427FC8.png
   actions:
