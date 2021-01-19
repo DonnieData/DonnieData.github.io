@@ -29,7 +29,7 @@ feature_row:
     alt: "placeholder image 1"
     title: "Mapping GeoJson Data"
     excerpt: "Traversing geoJson features and attributes"
-    url: "#test-link"
+    url: "https://donniedata.github.io/post/post-earthquakes/"
     btn_label: "Coming Soon"
     btn_class: "btn--primary" 
 feature_row2:
