@@ -7,7 +7,7 @@ categories:
 tags:
 excerpt: Transforming geojson into a layered mapping visualization. 
 header:
-  overlay_image: /assets/images/post/belly_427FC8.png
+  overlay_image: /assets/images/post/earthquake_FB07F.png
   actions:
     - label: "View the Web App" 
       url: "https://donniedata.github.io/dash_quakes/"
