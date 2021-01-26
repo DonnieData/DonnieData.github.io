@@ -33,7 +33,7 @@ feature_row:
     btn_label: "View Project"
     btn_class: "btn--primary" 
 feature_row2:
-  - image_path: /assets/images/pro_overlay_head.png
+  - image_path: /assets/images/splash_project/tab_splash.png
     alt: "placeholder image 1"
     title: "Analyzing Data With Tableau"
     url: "#test-link"
@@ -51,7 +51,7 @@ feature_row2:
     title: "Building ETL Pipelines"
     excerpt: "Buidling ETL pipelines with Python and PostgreSQL."
     url: "#test-link"
-    btn_label: "Coming Soon"
+    btn_label: "View Project"
     btn_class: "btn--primary" 
    
 ---
