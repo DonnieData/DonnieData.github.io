@@ -32,7 +32,7 @@ author_profile: True
 
 
 <br>
-<div style="text-align: center"><a href="https://public.tableau.com/profile/donnie1554#!/vizhome/CitiBikeAnalysis_16114678641100/CheckoutTimesbyGender"><button style="color:#636769; background-color:#F0B747; border: 2px solid gray; padding: 7px; border-radius: 3px;" type="button"
+<div style="text-align: center"><a href="https://public.tableau.com/profile/donnie1554#!/vizhome/CitiBikeAnalysis_16114678641100/CheckoutTimesbyGender"><button style="color:#FFFFFF; background-color:#F0B747; border: 2px solid gray; padding: 7px; border-radius: 3px;" type="button"
 onMouseOver="this.style.color='#4787F0'"
    onMouseOut="this.style.color='#FFFFFF'"><b>Explore the Dashboard</b></button></a></div>
 
