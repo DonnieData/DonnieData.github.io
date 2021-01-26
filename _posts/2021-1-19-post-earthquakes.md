@@ -26,10 +26,10 @@ With the flexibilty to easily be parsed and transformed, it is no wonder GeoJson
 
 
 ### Resources 
-javascript 
-Leaflet, open-source JavaScript library for mobile-friendly interactive maps
-Mapbox 
-Bootstrap CSS 
+- JavaScript 
+- Leaflet: A open-source JavaScript library for mobile-friendly interactive maps.
+- Mapbox: A JavaScript library for interactive, customizable vector maps on the Web.
+- Bootstrap CSS 
 
 ### Overview 
 Through javascript, recent earthquake data is retreived via API from <a href="https://earthquake.usgs.gov">earthquake.usgus.gov</a>, then parsed and transformed. Leaflet is then use to create the base map visualziation and map the data. Mapbox is used to add additional functionalilty and styling, helping to create an in-depth and powerful visualization. 
@@ -41,7 +41,7 @@ The interactive map has been designed to have a toggle where you can switch map 
   - All Earthquakes: Displays all earthquake data
   - Tectonic plate outline: provides a visual of the earth's tectonic plates
 
-
+<br>
 <div style="text-align: center"><a href="https://donniedata.github.io/Button_Biodiversity/"><button style="color:#636769; background-color:#C8E7C8; border: 2px solid gray; padding: 7px; border-radius: 3px;" type="button"
 onMouseOver="this.style.color='#62BDDA'"
    onMouseOut="this.style.color='#636769'"><b>Explore the Dashboard</b></button></a></div>
