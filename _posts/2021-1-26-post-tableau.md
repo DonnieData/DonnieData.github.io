@@ -1,23 +1,22 @@
 ---
-title: "Mapping GeoJson Data"
+title: "Anayzing Bike-sharing Data With Tableau"
 excerpt_separator: "<!--more-->" 
 classes: wide
 categories:
   - Post
 tags:
-excerpt: Transforming geojson into a layered mapping visualization. 
+excerpt: Finding meaningful insights and delivering key metrics for a bikesharing company.
 header:
   overlay_image: /assets/images/post/tab_F0B747.png
   actions:
     - label: "View the Analysis" 
       url: "https://public.tableau.com/profile/donnie1554#!/vizhome/CitiBikeAnalysis_16114678641100/CheckoutTimesbyGender"
-    - label: "GitHub Repo"
-      url: "#"
 author_profile: True 
 
 ---
 
-<b>Tableau</b> 
+
+<b>Tableau</b> is powerful software and resource to create vivid and interactive visualtions.
 
 
 
