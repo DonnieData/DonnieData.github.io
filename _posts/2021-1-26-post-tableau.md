@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/images/post/tab_F0B747.png
   actions:
     - label: "View the Analysis" 
-      url: "https://public.tableau.com/profile/donnie1554#!/vizhome/CitiBikeAnalysis_16114678641100/CheckoutTimesbyGender"
+      url: "https://public.tableau.com/profile/donnie1554#!/vizhome/CitiBikeNYC_16117049991780/CitiBikeAugustTripsAnalysis?publish=yes"
 author_profile: True 
 
 ---
@@ -22,7 +22,7 @@ In order to to discover what contributes to a succesful biker sharing operation,
 
 
 <br>
-<div style="text-align: center"><a href="https://public.tableau.com/profile/donnie1554#!/vizhome/CitiBikeAnalysis_16114678641100/CheckoutTimesbyGender"><button style="color:#FFFFFF; background-color:#F0B747; border: 2px solid gray; padding: 7px; border-radius: 3px;" type="button"
+<div style="text-align: center"><a href="https://public.tableau.com/profile/donnie1554#!/vizhome/CitiBikeNYC_16117049991780/CitiBikeAugustTripsAnalysis?publish=yes"><button style="color:#FFFFFF; background-color:#F0B747; border: 2px solid gray; padding: 7px; border-radius: 3px;" type="button"
 onMouseOver="this.style.color='#4787F0'"
    onMouseOut="this.style.color='#FFFFFF'"><b>View The Analysis</b></button></a></div>
 
