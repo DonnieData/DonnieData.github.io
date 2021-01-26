@@ -34,7 +34,7 @@ author_profile: True
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z9Ngi6Ts1vQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://public.tableau.com/views/CitiBikeAnalysis_16114678641100/CheckoutTimesbyGender?:language=en&:display_count=y&publish=yes&:origin=viz_share_link"></iframe>
 
 
 <br>
