@@ -33,7 +33,7 @@ feature_row:
     btn_label: "View Project"
     btn_class: "btn--primary" 
 feature_row2:
-  - image_path: /assets/images/pro_overlay_head.png
+  - image_path: /assets/images/splash_project/tab_splash.png
     alt: "placeholder image 1"
     title: "Analyzing Data With Tableau"
     url: "#test-link"
