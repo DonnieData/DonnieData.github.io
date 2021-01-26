@@ -33,6 +33,12 @@ feature_row:
     btn_label: "View Project"
     btn_class: "btn--primary" 
 feature_row2:
+  - image_path: /assets/images/pro_overlay_head.png
+    alt: "placeholder image 1"
+    title: "Analyzing Data With Tableau"
+    url: "#test-link"
+    btn_label: "Coming Soon"
+    btn_class: "btn--primary"
   - image_path: /assets/images/splash_project/crime_splash.jpg
     alt: "placeholder image 1"
     title: "Austin Crime Data Analysis"
@@ -47,12 +53,7 @@ feature_row2:
     url: "#test-link"
     btn_label: "Coming Soon"
     btn_class: "btn--primary" 
-  - image_path: /assets/images/pro_overlay_head.png
-    alt: "placeholder image 1"
-    title: "Analysis Project"
-    url: "#test-link"
-    btn_label: "Coming Soon"
-    btn_class: "btn--primary" 
+   
 ---
 
 {% include feature_row id="intro" type="center" %}
