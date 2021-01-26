@@ -23,35 +23,29 @@ With the flexibilty to easily be parsed and transformed, it is no wonder GeoJson
 
 
 ## Application Overview 
-The earthquake data is retrieved 
-
-Overiew: 
 
 
-Api 
+### Resources 
+javascript 
+Leaflet, open-source JavaScript library for mobile-friendly interactive maps
+Mapbox 
+Bootstrap CSS 
 
-Layered with Leaflet and mapbox it is a powerful visualization. 
+### Overview 
+Through javascript, recent earthquake data is retreived via API from https://earthquake.usgs.gov/, then parsed and transformed. Leaflet is then use to create the base map visualziation and map the data. Mapbox is used to add additional functionalilty and styling, helping to create an in-depth and powerful visualization. 
+
+
+### Deployment 
+
+take a look 
+review magnitudes and layers 
+
+
+
   
-  It is based on JavaScript object notation(JSON), a simple and minimalist format for expressing data structures using syntax from JavaScript.
-
-GeoJSON data consists of a single object, which can be represented by a geometry object, features object, or collection of features. 
-
-What is Leaflet?
-
-Leaflet is an extremely popular, open-source JavaScript library for mobile-friendly interactive maps. It helps us display and visualize data in ways that are user-friendly and meaningful for data analysts and nonexperts alike.
-
-WSome things you can do with leaflet:
-
-Geojson points, multipolygon as a leaflet vector etc. 
-
-map 
-[!img]
-
-GeoJSON is an open standard format, which is essentially a type of JSON (JavaScript Object Notation) for representing geographical features along with their nonspatial attributes. It is commonly used with libraries like Leaflet.js.
-
-## Overview 
 
 
-## Deployment 
+
+
 
 
