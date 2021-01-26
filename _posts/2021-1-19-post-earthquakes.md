@@ -1,5 +1,5 @@
 ---
-title: "Exploring Data Through Custom Dashboards"
+title: "Mapping GeoJson Data"
 excerpt_separator: "<!--more-->" 
 classes: wide
 categories:
@@ -16,6 +16,25 @@ header:
 author_profile: True 
 
 ---
+
+<GeoJson> is a widely-used data format for displaying geographical data in web maps and applications. GeoJson consits of <i>Geometry Object</i> can can contain a plethora of information including, the type of object being mapped including single markers on the map or even lines. As well as location names, longitude, latitude and even timestamps!
+  
+With the flexibilty to easily be parsed and transformed, it is no wonder GeoJson is the industry standard when it comes to making map visualizations. In order to explore and  GeoJson myself, I have created a web application to visualize Earthquake GeoJson data.
+
+
+## Application Overview 
+The earthquake data is retrieved 
+
+Overiew: 
+
+
+Api 
+
+Layered with Leaflet and mapbox it is a powerful visualization. 
+  
+  It is based on JavaScript object notation(JSON), a simple and minimalist format for expressing data structures using syntax from JavaScript.
+
+GeoJSON data consists of a single object, which can be represented by a geometry object, features object, or collection of features. 
 
 What is Leaflet?
 
