@@ -39,7 +39,18 @@ author_profile: True
 <iframe src="https://online.tableau.com/t/Sales/views/MyCoSales/SalesScoreCard?:embed=yes&:tabs=yes&:toolbar=yes" width="800" height="600"></iframe>
 
 
-<iframe src="https://public.tableau.com/views/CitiBikeAnalysis_16114678641100/CheckoutTimesbyGender?:language=en&:display_count=y&:origin=viz_share_link:embed=yes&:tabs=yes&:toolbar=yes" width="800" height="600"></iframe>
+<iframe src="https://public.tableau.com/views/CitiBikeAnalysis_16114678641100/CheckoutTimesbyGender?:embed=yes&:tabs=yes&:toolbar=yes" width="800" height="600"></iframe>
+
+
+
+
+
+
+
+
+
+
+
 
 <br>
 <div style="text-align: center"><a href="#"><button style="color:#636769; background-color:#C8E7C8; border: 2px solid gray; padding: 7px; border-radius: 3px;" type="button"
