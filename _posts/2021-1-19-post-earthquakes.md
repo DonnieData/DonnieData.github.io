@@ -42,7 +42,7 @@ The interactive map has been designed to have a toggle where you can switch map 
   - Tectonic plate outline: provides a visual of the earth's tectonic plates
 
 <br>
-<div style="text-align: center"><a href="https://donniedata.github.io/post/post-earthquakes/"><button style="color:#636769; background-color:#C8E7C8; border: 2px solid gray; padding: 7px; border-radius: 3px;" type="button"
+<div style="text-align: center"><a href="https://donniedata.github.io/dash_quakes/"><button style="color:#636769; background-color:#C8E7C8; border: 2px solid gray; padding: 7px; border-radius: 3px;" type="button"
 onMouseOver="this.style.color='#62BDDA'"
    onMouseOut="this.style.color='#636769'"><b>Explore the Dashboard</b></button></a></div>
 
