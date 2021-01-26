@@ -36,8 +36,11 @@ Through javascript, recent earthquake data is retreived via API from <a href="ht
 
 ### Deployment 
 
-take a look 
-review magnitudes and layers 
+The web apppiction hosts an interactive map in which you can review earthquake magnitutdes. 
+The interactive map has been designed to have a toggle where you can switch map views (street, satelite, dark). You can also choose which levels of data you would like to be displayed by turning the selection on and off. The available data views are the following:
+  - All Earthquakes: Displays all earthquake data
+  - Tectonic plate outline: provides a visual of the earth's tectonic plates
+
 
 <div style="text-align: center"><a href="https://donniedata.github.io/Button_Biodiversity/"><button style="color:#636769; background-color:#C8E7C8; border: 2px solid gray; padding: 7px; border-radius: 3px;" type="button"
 onMouseOver="this.style.color='#62BDDA'"
