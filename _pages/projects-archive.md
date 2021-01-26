@@ -30,7 +30,7 @@ feature_row:
     title: "Mapping GeoJson Data"
     excerpt: "Traversing geoJson features and attributes"
     url: "https://donniedata.github.io/post/post-earthquakes/"
-    btn_label: "Coming Soon"
+    btn_label: "View Project"
     btn_class: "btn--primary" 
 feature_row2:
   - image_path: /assets/images/splash_project/crime_splash.jpg
