@@ -39,9 +39,9 @@ Through javascript, recent earthquake data is retreived via API from <a href="ht
 take a look 
 review magnitudes and layers 
 
-<div style="text-align: center"><a href="https://donniedata.github.io/Button_Biodiversity/"><button style="color:#636769; background-color:C8E7C8; border: 2px solid gray; padding: 7px; border-radius: 3px;" type="button"
-onMouseOver="this.style.color='#53AE74'"
-   onMouseOut="this.style.color='#62BDDA'"><b>Explore the Dashboard</b></button></a></div>
+<div style="text-align: center"><a href="https://donniedata.github.io/Button_Biodiversity/"><button style="color:#636769; background-color:#C8E7C8; border: 2px solid gray; padding: 7px; border-radius: 3px;" type="button"
+onMouseOver="this.style.color='#62BDDA'"
+   onMouseOut="this.style.color='#636769'"><b>Explore the Dashboard</b></button></a></div>
 
 
 
