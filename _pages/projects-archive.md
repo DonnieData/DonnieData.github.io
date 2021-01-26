@@ -33,7 +33,7 @@ feature_row:
     btn_label: "View Project"
     btn_class: "btn--primary" 
 feature_row2:
-  - image_path: /assets/images/splash_project/tab_splash.png
+  - image_path: /assets/images/splash_project/tab2.png
     alt: "placeholder image 1"
     title: "Analyzing Data With Tableau"
     url: "https://donniedata.github.io/post/post-tableau/"
