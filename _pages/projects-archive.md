@@ -51,7 +51,7 @@ feature_row2:
     title: "Building ETL Pipelines"
     excerpt: "Buidling ETL pipelines with Python and PostgreSQL."
     url: "#test-link"
-    btn_label: "Coming Soon"
+    btn_label: "View Project"
     btn_class: "btn--primary" 
    
 ---
