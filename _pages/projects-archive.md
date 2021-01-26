@@ -36,8 +36,8 @@ feature_row2:
   - image_path: /assets/images/splash_project/tab_splash.png
     alt: "placeholder image 1"
     title: "Analyzing Data With Tableau"
-    url: "#test-link"
-    btn_label: "Coming Soon"
+    url: "https://donniedata.github.io/post/post-tableau/"
+    btn_label: "View Project"
     btn_class: "btn--primary"
   - image_path: /assets/images/splash_project/crime_splash.jpg
     alt: "placeholder image 1"
@@ -51,7 +51,7 @@ feature_row2:
     title: "Building ETL Pipelines"
     excerpt: "Buidling ETL pipelines with Python and PostgreSQL."
     url: "#test-link"
-    btn_label: "View Project"
+    btn_label: "Coming Soon"
     btn_class: "btn--primary" 
    
 ---
