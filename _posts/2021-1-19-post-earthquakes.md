@@ -32,17 +32,16 @@ Mapbox
 Bootstrap CSS 
 
 ### Overview 
-Through javascript, recent earthquake data is retreived via API from https://earthquake.usgs.gov/, then parsed and transformed. Leaflet is then use to create the base map visualziation and map the data. Mapbox is used to add additional functionalilty and styling, helping to create an in-depth and powerful visualization. 
-
+Through javascript, recent earthquake data is retreived via API from <a href="https://earthquake.usgs.gov">earthquake.usgus.gov</a>, then parsed and transformed. Leaflet is then use to create the base map visualziation and map the data. Mapbox is used to add additional functionalilty and styling, helping to create an in-depth and powerful visualization. 
 
 ### Deployment 
 
 take a look 
 review magnitudes and layers 
 
-<div style="text-align: center"><a href="https://donniedata.github.io/Button_Biodiversity/"><button style="color:#636769; background-color:white; border: 2px solid gray; padding: 7px; border-radius: 3px;" type="button"
+<div style="text-align: center"><a href="https://donniedata.github.io/Button_Biodiversity/"><button style="color:#636769; background-color:C8E7C8; border: 2px solid gray; padding: 7px; border-radius: 3px;" type="button"
 onMouseOver="this.style.color='#53AE74'"
-   onMouseOut="this.style.color='#636769'"><b>Explore the Dashboard</b></button></a></div>
+   onMouseOut="this.style.color='#62BDDA'"><b>Explore the Dashboard</b></button></a></div>
 
 
 
