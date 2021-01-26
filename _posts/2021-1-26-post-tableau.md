@@ -15,17 +15,10 @@ author_profile: True
 
 ---
 
-<bike sharing> has become a popular method of transportation and recreational activity within major metropolitan areas. While public bikes can sometimes seem a commodity provided by city for its residence, it is in fact a business that needs to make a profit to operate with paying customers. 
+<b>Bike sharing</b> has become a popular method of transportation and recreational activity within major metropolitan areas. While public bikes can sometimes seem a commodity provided by city for its residence, it is in fact a business that needs to make a profit to operate with paying customers. 
 
-
-
-
-<b>Tableau</b> is powerful software and resource to create vivid and interactive visualtions.
-
-
-
-
-
+In order to to discover what contributes to a succesful biker sharing operation, I have used tabluau to analyze data from citibike, a leading bike-sharing company in the U.S. 
+<b>Tableau</b> is powerful software and resource to create vivid and interactive visualtions. The visualziations which includes area and heat maps, can assist in highlighting trends and key metrics. 
 
 
 
