@@ -15,6 +15,10 @@ author_profile: True
 
 ---
 
+<bike sharing> has become a popular method of transportation and recreational activity within major metropolitan areas. While public bikes can sometimes seem a commodity provided by city for its residence, it is in fact a business that needs to make a profit to operate with paying customers. 
+
+
+
 
 <b>Tableau</b> is powerful software and resource to create vivid and interactive visualtions.
 
@@ -22,10 +26,6 @@ author_profile: True
 
 
 
-### Overview 
-
-
-### Deployment 
 
 
 
