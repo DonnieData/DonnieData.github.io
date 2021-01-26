@@ -17,7 +17,7 @@ author_profile: True
 
 ---
 
-<b>GeoJson<b/> is a widely-used data format for displaying geographical data in web maps and applications. GeoJson consits of <i>Geometry Object</i> can can contain a plethora of information including, the type of object being mapped including single markers on the map or even lines. As well as location names, longitude, latitude and even timestamps!
+<b>GeoJson</b> is a widely-used data format for displaying geographical data in web maps and applications. GeoJson consits of <i>Geometry Object</i> can can contain a plethora of information including, the type of object being mapped including single markers on the map or even lines. As well as location names, longitude, latitude and even timestamps!
   
 With the flexibilty to easily be parsed and transformed, it is no wonder GeoJson is the industry standard when it comes to making map visualizations. In order to explore and  GeoJson myself, I have created a web application to visualize Earthquake GeoJson data.
 
@@ -39,6 +39,10 @@ Through javascript, recent earthquake data is retreived via API from https://ear
 
 take a look 
 review magnitudes and layers 
+
+<div style="text-align: center"><a href="https://donniedata.github.io/Button_Biodiversity/"><button style="color:#636769; background-color:white; border: 2px solid gray; padding: 7px; border-radius: 3px;" type="button"
+onMouseOver="this.style.color='#53AE74'"
+   onMouseOut="this.style.color='#636769'"><b>Explore the Dashboard</b></button></a></div>
 
 
 
