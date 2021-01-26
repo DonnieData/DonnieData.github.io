@@ -48,7 +48,7 @@ author_profile: True
 
 
 
-<iframe src="https://public.tableau.com/views/CitiBikeAnalysis_16114678641100/CheckoutTimesbyGender?:language=en&:display_count=y&:origin=viz_share_link:embed=yes&:tabs=yes&:toolbar=yes" width="800" height="600"></iframe>
+<iframe src="https://public.tableau.com/views/CitiBikeAnalysis_16114678641100/CheckoutTimesbyGender?:language=en&:display_count=y&:origin=viz_share_link:embed=yes" width="800" height="600"></iframe>
 
 
 
