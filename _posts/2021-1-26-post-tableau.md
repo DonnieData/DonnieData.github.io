@@ -7,7 +7,7 @@ categories:
 tags:
 excerpt: Transforming geojson into a layered mapping visualization. 
 header:
-  overlay_image: /assets/images/post/earthquake_FB07F.png
+  overlay_image: /assets/images/post/tab_F0B747.png
   actions:
     - label: "View the Analysis" 
       url: "https://public.tableau.com/profile/donnie1554#!/vizhome/CitiBikeAnalysis_16114678641100/CheckoutTimesbyGender"
