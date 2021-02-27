@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+classes: wide
 header:
   overlay_color: "#91BCDA"
 ---
