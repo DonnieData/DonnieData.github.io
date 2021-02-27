@@ -2,11 +2,12 @@
 title: "Portfolio"
 layout: splash
 permalink: /
+classes: wide 
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
-excerpt: "Projects that I consider benchmarks of my data analytics journey"
+excerpt: "Benchmark Projects of my data analytics journey"
 intro: 
   - excerpt: "<h1>Featured Projects<h1>"
 feature_row:
