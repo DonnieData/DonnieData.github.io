@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/images/post/belly_427FC8.png
   actions:
     - label: "View the Web App" 
-      url: "https://donniedata.github.io/Button_Biodiversity/"
+      url: "https://donniedata.github.io/Bacteria_Biodiversity/"
     - label: "GitHub Repo"
       url: "https://github.com/DonnieData/Button_Biodiversity"
 author_profile: True 
