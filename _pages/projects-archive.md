@@ -54,7 +54,27 @@ feature_row2:
     url: "#test-link"
     btn_label: "Coming Soon"
     btn_class: "btn--primary" 
-   
+feature_row3:
+  - image_path: /assets/images/splash_project/tab2.png
+    alt: "placeholder image 1"
+    title: "Analyzing Bike-Sharing Data With Tableau"
+    url: "https://donniedata.github.io/post/post-tableau/"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/splash_project/crime_splash.jpg
+    alt: "placeholder image 1"
+    title: "Austin Crime Data Analysis"
+    excerpt: "Austin Crime Data Analysis"
+    url: "#test-link"
+    btn_label: "Coming Soon"
+    btn_class: "btn--primary" 
+  - image_path: /assets/images/pipeline.jpg
+    alt: "placeholder image 1"
+    title: "Building ETL Pipelines"
+    excerpt: "Buidling ETL pipelines with Python and PostgreSQL."
+    url: "#test-link"
+    btn_label: "Coming Soon"
+    btn_class: "btn--primary" 
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -62,4 +82,6 @@ feature_row2:
 {% include feature_row %}
 
 {% include feature_row id="feature_row2" %}
+  
+{% include feature_row id="feature_row3" %}
 
