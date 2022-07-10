@@ -57,9 +57,9 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/gray_drop1.png
     alt: "placeholder image 1"
-    title: "Analyzing Bike-Sharing Data With Tableau"
+    title: "Scala Application for API requests"
     url: "https://donniedata.github.io/post/post-tableau/"
-    btn_label: "View Project"
+    btn_label: "Coming Soon"
     btn_class: "btn--primary"
   - image_path: /assets/images/gray_drop1.png
     alt: "placeholder image 1"
