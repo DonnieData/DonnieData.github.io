@@ -13,7 +13,7 @@ intro:
 feature_row:
   - image_path: /assets/images/splash_project/nasa_splash_1.jpg
     alt: "placeholder image 2"
-    title: "Transforming & Dynamically Visualizing Data"
+    title: "Transform & Dynamically Visualizing Data"
     excerpt: "Building a dynamic webpage to display and filter data using JavaScript." 
     url: "https://donniedata.github.io/post/post-ufo/"
     btn_label: "View Project"
