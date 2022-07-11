@@ -37,6 +37,7 @@ feature_row2:
   - image_path: /assets/images/splash_project/tab2.png
     alt: "placeholder image 1"
     title: "Analyzing Bike-Sharing Data With Tableau"
+    excerpt: "Conveying insights through robust & interactive visualizations"
     url: "https://donniedata.github.io/post/post-tableau/"
     btn_label: "View Project"
     btn_class: "btn--primary"
