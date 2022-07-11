@@ -7,9 +7,9 @@ header:
   overlay_color: "#434343"
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
-excerpt: "Benchmark Projects of my data analytics journey"
+excerpt: "Benchmark Data Engineering & Analytics Projects"
 intro: 
-  - excerpt: "<h1>Featured Projects<h1>"
+  - excerpt: "<h1> Projects<h1>"
 feature_row:
   - image_path: /assets/images/splash_project/nasa_splash_1.jpg
     alt: "placeholder image 2"
@@ -63,18 +63,12 @@ feature_row3:
     btn_class: "btn--primary"
   - image_path: /assets/images/gray_drop1.png
     alt: "placeholder image 1"
-    title: "Austin Crime Data Analysis"
-    excerpt: "Austin Crime Data Analysis"
+    title: "Creating Python Package"
+    excerpt: "Creating Python Package"
     url: "#test-link"
     btn_label: "Coming Soon"
     btn_class: "btn--primary" 
-  - image_path: /assets/images/gray_drop1.png
-    alt: "placeholder image 1"
-    title: "Building ETL Pipelines"
-    excerpt: "Buidling ETL pipelines with Python and PostgreSQL."
-    url: "#test-link"
-    btn_label: "Coming Soon"
-    btn_class: "btn--primary" 
+  
 ---
 
 {% include feature_row id="intro" type="center" %}
