@@ -1,5 +1,5 @@
 ---
-title: <h4>"API requests with Scala"</h4>
+title: <h4>API requests with Scala</h4>
 classes: wide
 categories:
   - Post
