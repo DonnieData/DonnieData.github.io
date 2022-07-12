@@ -6,7 +6,7 @@ categories:
 tags:
 excerpt: Developing Scala application to manage REST API requests 
 header:
-  overlay_image: /assets/images/post/tab_F0B747.png
+  overlay_image: /assets/images/post/overlay_chc.png
   actions:
     - label: "View the Application" 
       url: ""
@@ -22,7 +22,7 @@ A simple application that can be quicly ran and automate the querying(get reques
 <!--[future upates]-->
 
 <br>
-<div style="text-align: center"><a href=" "><button style="color:#FFFFFF; background-color:#F0B747; border: 2px solid gray; padding: 7px; border-radius: 3px;" type="button"
+<div style="text-align: center"><a href=" "><button style="color:#FFFFFF; background-color:#D2691E; border: 1px solid gray; padding: 7px; border-radius: 3px;" type="button"
 onMouseOver="this.style.color='#4787F0'"
    onMouseOut="this.style.color='#FFFFFF'"><b>View The Application</b></button></a></div>
 
