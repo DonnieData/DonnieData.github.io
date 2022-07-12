@@ -1,6 +1,5 @@
 ---
 title: "API requests with Scala"
-excerpt_separator: "<!--more-->" 
 classes: wide
 categories:
   - Post
@@ -12,7 +11,6 @@ header:
     - label: "View the Application" 
       url: ""
 author_profile: True 
-
 ---
 
 <b>Data</b> is everywhere and most company's have systems to store and analyze data. However there will always be additional contex that can be provided when applying external data, this is especially the case with Data Analysis.
