@@ -59,10 +59,10 @@ feature_row3:
   - image_path: /assets/images/api transport r.jpg
     alt: "placeholder image 1"
     title: "Scala Application for API requests"
-    url: "https://donniedata.github.io/post/post-tableau/"
-    btn_label: "Coming Soon"
+    url: "https://donniedata.github.io/post/post-scala_api_app/"
+    btn_label: "View Project"
     btn_class: "btn--primary"
-  - image_path: /assets/images/gray_drop1.png
+  - image_path: /assets/images/fig_pat1r.jpg
     alt: "placeholder image 1"
     title: "Creating Python Package"
     excerpt: "Creating Python Package"
