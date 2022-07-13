@@ -1,5 +1,5 @@
 ---
-title: <h2 style="padding: 0px; margin: 0px 0px 0px 0px;">API requests with Scala</h2>
+title: <h2 style="padding: 0px; margin: 0px;">API requests with Scala</h2>
 excerpt: Developing Scala application to manage REST API requests 
 classes: wide
 categories:
