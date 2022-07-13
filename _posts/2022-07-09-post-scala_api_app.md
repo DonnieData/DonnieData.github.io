@@ -13,6 +13,10 @@ header:
   actions:
     - label: "View the Application" 
       url: ""
+tags:
+  - Scala
+  - Rest API
+  - JSON
 author_profile: True 
 ---
 
