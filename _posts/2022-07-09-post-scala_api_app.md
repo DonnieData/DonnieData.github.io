@@ -1,10 +1,13 @@
 ---
 title: <h2>API requests with Scala</h2>
+excerpt: Developing Scala application to manage REST API requests 
 classes: wide
 categories:
   - Post
-tags: "hi" 
-excerpt: Developing Scala application to manage REST API requests 
+tags:
+  - Scala
+  - Rest API
+  - JSON
 header:
   overlay_image: /assets/images/post/overlay_chc.png
   actions:
