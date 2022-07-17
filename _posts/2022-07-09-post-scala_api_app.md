@@ -9,7 +9,6 @@ tags:
   - Rest API
   - JSON
 header:
-  overlay_image: /assets/images/post/overlay_chc.png
   actions:
     - label: "View the Application" 
       url: ""
