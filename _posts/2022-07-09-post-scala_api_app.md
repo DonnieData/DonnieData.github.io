@@ -1,5 +1,5 @@
 ---
-title: <h2>API requests with Scala</h2>
+title: "API requests with Scala"
 excerpt: Developing Scala application to manage REST API requests 
 classes: wide
 categories:
