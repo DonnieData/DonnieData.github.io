@@ -22,7 +22,7 @@ A simple application that can be quicly ran and automate the querying(get reques
 
 <div class="notice">
 <figure class=>
-  <a href="/assets/images/cmd1.PNG"></a>
+  <a href="/assets/images/cmd1.PNG"><img src="/assets/images/cmd1.PNG"></a>
 </figure>
   </div>
 <!--[recordind]-->
