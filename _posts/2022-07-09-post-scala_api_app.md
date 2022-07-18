@@ -20,6 +20,11 @@ author_profile: True
 With cities such as Austin having robust databases with a plethora of public datasets (some updated daily), I feel a great data engineering tool would be one that streamlines API requests. 
 A simple application that can be quicly ran and automate the querying(get request) of data, formating, and saving can save anyone working with public databases time. 
 
+<div class="notice">
+<figure class=>
+  <a href="/assets/images/cmd1.PNG"></a>
+</figure>
+  </div>
 <!--[recordind]-->
 
 <!--[future upates]-->
