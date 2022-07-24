@@ -21,8 +21,8 @@ With cities such as Austin having robust databases with a plethora of public dat
 A simple application that can be quicly ran and automate the querying(get request) of data, formating, and saving can save anyone working with public databases time. 
 
 <div class="notice">
-<figure class=>
-  <a href="/assets/images/cmd1.PNG"><img src="/assets/images/cmd1.PNG"></a>
+<figure>
+  <a href="assets/video/scala_api_vid.gif"><img src="assets/video/scala_api_vid.gif"></a>
 </figure>
   </div>
 <!--[recordind]-->
