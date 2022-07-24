@@ -22,9 +22,11 @@ A simple application that can be quicly ran and automate the querying(get reques
 
 <div class="notice">
 <figure>
-  <a href="assets/video/scala_api_vid.gif"><img src="assets/video/scala_api_vid.gif"></a>
+  <a href="/assets/video/scala_api_vid.gif"><img src="/assets/video/scala_api_vid.gif"></a>
 </figure>
   </div>
+  
+  
 <!--[recordind]-->
 
 <!--[future upates]-->
