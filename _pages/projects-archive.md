@@ -73,8 +73,8 @@ feature_row3:
     alt: "placeholder image 1"
     title: "Database Migration"
     excerpt: "Migrating SQLite database to PostgreSQL for enhanced Data Management"
-    url: "#test-link"
-    btn_label: "Coming Soon"
+    url: "https://donniedata.github.io/post/post-sqlite_database_migration/"
+    btn_label: "View Project"
     btn_class: "btn--primary" 
   
 ---
