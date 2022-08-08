@@ -17,13 +17,14 @@ header:
 author_profile: True 
 ---
 
-SQLite gives us the ability to create a simple relational database model which can be perfect for quickly getting data projects off the ground. However for any long-standing project, infrastructure needs to scal with demand and the data itself. 
-The tables in your model will grow overtime and so will your data management needs
+<b>SQLite</b> gives us the ability to create a simple relational database model which can be perfect for quickly getting data projects off the ground. However for any long-standing project, infrastructure needs to scale with demand and the data itself. The tables in your model will grow overtime and so will your data management needs. Enter PostreSQL! Postgres is a relational database maangement system that offers many features. 
+
+In this projectI migrate an entire SQLite database into PostgreSQL and explore the use of Views, which is a common but powerful feature. 
 
 
 <div class="notice">
 <figure>
-  <a href="/assets/video/scala_api_vid.gif"><img src="/assets/video/scala_api_vid.gif"></a>
+  <a href=""><img src=""></a>
 </figure>
   </div>
   
