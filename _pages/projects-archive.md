@@ -68,6 +68,13 @@ feature_row3:
     excerpt: "Creating Python Package"
     url: "#test-link"
     btn_label: "Coming Soon"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/splash_project/mig_peg.jpg
+    alt: "placeholder image 1"
+    title: "Database Migration"
+    excerpt: "Migrating SQLite database to PostgreSQL for enhanced Data Management"
+    url: "#test-link"
+    btn_label: "Coming Soon"
     btn_class: "btn--primary" 
   
 ---
