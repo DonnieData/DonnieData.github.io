@@ -21,6 +21,25 @@ author_profile: True
 
 In this projectI migrate an entire SQLite database into PostgreSQL and explore the use of Views, which is a common but powerful feature. 
 
+## Database Migration 
+-loadd sqlite database file into python environment using sqlite3 library 
+
+
+
+-query data from the loaded data model and convert into dataframes using pandas library 
+
+
+-use pandas to_sql feature which essentially creates a table via defineddatabase connection and iterates an insert statement.
+
+
+-Once the data migration is complete, we can review the tables and thier stucture within the database 
+-ERD 
+
+
+## Insights with views 
+
+
+
 
 <div class="notice">
 <figure>
