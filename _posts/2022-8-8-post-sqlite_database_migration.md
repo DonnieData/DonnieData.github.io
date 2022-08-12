@@ -1,5 +1,5 @@
 ---
-title: "Database Migration with Python"
+title: "Sqlite to Postgres Database Migration with Python"
 excerpt: Migrating SQLite database to PostgreSQL for enhanced Data Management
 classes: wide
 categories:
@@ -11,7 +11,7 @@ tags:
   - Views
   - Data Modeling 
 header:
-overlay_image: /assets/images/splash_project/mig_peg.jpg
+  overlay_image: /assets/images/splash_project/mig_peg.jpg
   actions:
     - label: "View the Project" 
       url: ""
