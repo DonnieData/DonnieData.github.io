@@ -24,7 +24,23 @@ In this projectI migrate an entire SQLite database into PostgreSQL and explore t
 ## Database Migration 
 -loadd sqlite database file into python environment using sqlite3 library 
 
+```python 
+import pandas as pd
+from sqlalchemy import create_engine
+import psycopg2
+import sqlite3
+import config
 
+#connect to sqlite db file 
+sqlite_conn = sqlite3.connect("../sqlite/database.sqlite")
+sqlite_cur = sqlite_conn.cursor()
+
+#query all table names 
+df = pd.DataFrame(sqlite_cur.execute("SELECT name FROM sqlite_master WHERE type='table'"))
+df.columns = [i[0] for i in sqlite_cur.description]
+
+
+```
 
 -query data from the loaded data model and convert into dataframes using pandas library 
 
