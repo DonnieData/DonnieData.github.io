@@ -11,6 +11,7 @@ tags:
   - Views
   - Data Modeling 
 header:
+overlay_image: /assets/images/splash_project/mig_peg.jpg
   actions:
     - label: "View the Project" 
       url: ""
