@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Donnell Jackson"
   avatar : "/assets/images/Logo.png"
-  bio    : "Ambitious data analyst passionate about Big Data and Tech Inclusion"
+  bio    : "If its data, its doable!"
   links:
     - label: "Austin, TX" 
       icon: "fas fa-map-marker-alt" 
