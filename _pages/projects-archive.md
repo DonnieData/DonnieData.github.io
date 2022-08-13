@@ -67,7 +67,7 @@ feature_row3:
     alt: "placeholder image 1"
     title: "Creating Python Package"
     excerpt: "Creating Python Package <br />
-            [Python](){: .btn .btn--inverse} [OOP](){: .btn .btn--inverse} [Custom Package](){: .btn .btn--inverse}"
+            [Python]{: .btn .btn--inverse} [OOP](){: .btn .btn--inverse} [Custom Package](){: .btn .btn--inverse}"
     url: "#test-link"
     btn_label: "Coming Soon"
     btn_class: "btn--primary"
