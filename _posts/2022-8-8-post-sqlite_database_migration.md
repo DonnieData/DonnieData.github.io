@@ -77,7 +77,13 @@ for i in list(df_dict.keys()): #iterate through dictionary taht holds dataframes
 -ERD 
 
 
-## Insights with views 
+## Database Design: Non-materialized Views 
+With the data now fully loaded, we can query it dirctly through the database managemnt system. As well as use tools native to the environment, succh as ERD Diagrams. Which allow an easy overhead view of the tables and its columns: 
+
+
+
+
+With confirmation that our data has been loaded in the same format as it was held in the sqlite db file, we can now create some views. 
 
 
 
