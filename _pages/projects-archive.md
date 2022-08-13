@@ -63,7 +63,7 @@ feature_row3:
     url: "https://donniedata.github.io/post/post-scala_api_app/"
     btn_label: "View Project"
     btn_class: "btn--primary"
-  - image_path: /assets/images/fig_pat1r.jpg
+  - image_path: /assets/images/fig_pat1r - g.jpg
     alt: "placeholder image 1"
     title: "Creating Python Package"
     excerpt: "Creating Python Package"
