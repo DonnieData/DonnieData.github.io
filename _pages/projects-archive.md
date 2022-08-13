@@ -66,7 +66,8 @@ feature_row3:
   - image_path: /assets/images/fig_pat1r - g.jpg
     alt: "placeholder image 1"
     title: "Creating Python Package"
-    excerpt: "[Inverse Button](#link){: .btn .btn--inverse}"
+    excerpt: " Creating Python Package
+      [Inverse Button](){: .btn .btn--inverse}"
     url: "#test-link"
     btn_label: "Coming Soon"
     btn_class: "btn--primary"
