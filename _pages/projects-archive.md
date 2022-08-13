@@ -8,6 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
 excerpt: "Benchmark Data Engineering projects that utilize a multitude of programing languages, tools, and concepts to transform and convey data."
+author_profile: True
 intro: 
   - excerpt: "<h1> Projects<h1>"
 feature_row:
