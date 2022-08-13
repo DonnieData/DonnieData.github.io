@@ -1,5 +1,5 @@
 ---
-title: "Sqlite to Postgres Database Migration with Python"
+title: "Sqlite to Postgres Database Migration"
 excerpt: Migrating SQLite database to PostgreSQL for enhanced Data Management
 classes: wide
 categories:
