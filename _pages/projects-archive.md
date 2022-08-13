@@ -70,6 +70,8 @@ feature_row3:
     url: "#test-link"
     btn_label: "Coming Soon"
     btn_class: "btn--primary"
+    btn_label: "tag"
+    btn_class: "btn--inverse"
   - image_path: /assets/images/splash_project/mig_peg.jpg
     alt: "placeholder image 1"
     title: "Database Migration"
