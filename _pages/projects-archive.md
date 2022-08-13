@@ -7,7 +7,7 @@ header:
   overlay_color: "#434343"
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
-excerpt: "Benchmark Data Engineering & Analytics Projects"
+excerpt: "Benchmark Data Engineering projects that utilize a multitude of programing languages, tools, and concepts to transform and convey data."
 intro: 
   - excerpt: "<h1> Projects<h1>"
 feature_row:
@@ -68,6 +68,13 @@ feature_row3:
     excerpt: "Creating Python Package"
     url: "#test-link"
     btn_label: "Coming Soon"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/splash_project/mig_peg.jpg
+    alt: "placeholder image 1"
+    title: "Database Migration"
+    excerpt: "Migrating SQLite database to PostgreSQL for enhanced Data Management"
+    url: "https://donniedata.github.io/post/post-sqlite_database_migration/"
+    btn_label: "View Project"
     btn_class: "btn--primary" 
   
 ---
