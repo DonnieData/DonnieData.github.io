@@ -39,8 +39,6 @@ sqlite_cur = sqlite_conn.cursor()
 #query all table names 
 df = pd.DataFrame(sqlite_cur.execute("SELECT name FROM sqlite_master WHERE type='table'"))
 df.columns = [i[0] for i in sqlite_cur.description]
-
-
 ```
 
 -query data from the loaded data model and convert into dataframes using pandas library 
