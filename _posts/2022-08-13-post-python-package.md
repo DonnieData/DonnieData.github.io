@@ -1,13 +1,12 @@
 ---
-title: "API requests with Scala"
-excerpt: Developing Scala application to manage REST API requests 
+title: "Creating Python Package"
+excerpt: Creating Python Package 
 classes: wide
 categories:
   - Post
 tags:
-  - Scala
-  - Rest API
-  - JSON
+  - Python
+  - OOP
 header:
   overlay_image: /assets/images/fig_parb.jpg
   actions:
