@@ -8,7 +8,7 @@ tags:
   - Python
   - OOP
 header:
-  overlay_image: /assets/images/fig_parb.jpg
+  overlay_image: /assets/images/figbr.png
   actions:
     - label: "View the Project" 
       url: ""
