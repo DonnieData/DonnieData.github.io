@@ -56,7 +56,7 @@ feature_row2:
     btn_label: "Coming Soon"
     btn_class: "btn--primary" 
 feature_row3:
-  - image_path: /assets/images/api transport r.jpg
+  - image_path: /assets/images/api transport g.jpg
     alt: "placeholder image 1"
     title: "Scala Application for API requests" 
     url: "https://donniedata.github.io/post/post-scala_api_app/"

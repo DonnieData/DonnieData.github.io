@@ -9,7 +9,7 @@ tags:
   - Rest API
   - JSON
 header:
-  overlay_image: /assets/images/api transport r.jpg
+  overlay_image: /assets/images/api transport g.jpg
   actions:
     - label: "View the Project" 
       url: ""
