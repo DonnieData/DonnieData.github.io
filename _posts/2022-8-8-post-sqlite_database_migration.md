@@ -26,26 +26,52 @@ In this projectI migrate an entire SQLite database into PostgreSQL and explore t
 -loadd sqlite database file into python environment using sqlite3 library 
 
 ```python 
-import pandas as pd
-from sqlalchemy import create_engine
-import psycopg2
-import sqlite3
-import config
-
 #connect to sqlite db file 
 sqlite_conn = sqlite3.connect("../sqlite/database.sqlite")
 sqlite_cur = sqlite_conn.cursor()
 
 #query all table names 
-df = pd.DataFrame(sqlite_cur.execute("SELECT name FROM sqlite_master WHERE type='table'"))
-df.columns = [i[0] for i in sqlite_cur.description]
+tables_df = pd.DataFrame(sqlite_cur.execute("SELECT name FROM sqlite_master WHERE type='table'"))
+tables_df.columns = [i[0] for i in sqlite_cur.description
 ```
 
--query data from the loaded data model and convert into dataframes using pandas library 
+<div class="notice">
+<figure>
+  <a href=""><img src=""></a>
+</figure>
+  </div>
 
+-query data from the loaded data model and convert into dataframes
 
--use pandas to_sql feature which essentially creates a table via defineddatabase connection and iterates an insert statement.
+```python 
+#create dictionary with table names that will hold table data
+df_dict = {'reviews':None,'artists':None,'genres':None,'labels':None,
+           'years':None,'content':None}
 
+for i in list(df_dict.keys()): #iterate through dictionary 
+    df_dict[i] = pd.DataFrame(sqlite_cur.execute(f'SELECT * FROM {i}')) #query each table and create dataframe object
+    df_dict[i].columns = [i[0] for i in sqlite_cur.description] #get header/columns
+```
+
+<div class="notice">
+<figure>
+  <a href=""><img src=""></a>
+</figure>
+  </div>
+  
+
+-use pandas "to_sql" attribute to crete tables and load data into database via the defined database connection .
+
+```python
+#create sqlaclechemy database connection with newly created database 
+database = f"postgresql+psycopg2://{config.db_user}:{config.db_password}@localhost:5432/pitchfork?gssencmode=disable"
+engine = create_engine(database)   
+
+for i in list(df_dict.keys()): #iterate through dictionary taht holds dataframes of data
+    df_dict[i].to_sql(name=i, index=False, con=engine, if_exists='replace', chunksize=100000) # load data into database 
+    print(f"Table {i} loaded")
+    
+```
 
 -Once the data migration is complete, we can review the tables and thier stucture within the database 
 -ERD 
