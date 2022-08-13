@@ -8,9 +8,6 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
 excerpt: "Benchmark Data Engineering projects that utilize a multitude of programing languages, tools, and concepts to transform and convey data."
-actions:
-  - label: "test"
-  - url: ""
 author_profile: True
 intro: 
   - excerpt: "<h1> Projects<h1>"
@@ -69,13 +66,10 @@ feature_row3:
   - image_path: /assets/images/fig_pat1r - g.jpg
     alt: "placeholder image 1"
     title: "Creating Python Package"
-    excerpt: "Creating Python Package"
+    excerpt: "[Inverse Button](#link){: .btn .btn--inverse}"
     url: "#test-link"
     btn_label: "Coming Soon"
     btn_class: "btn--primary"
-    url: "#test-link"
-    btn_label: "tag"
-    btn_class: "btn--inverse"
   - image_path: /assets/images/splash_project/mig_peg.jpg
     alt: "placeholder image 1"
     title: "Database Migration"
