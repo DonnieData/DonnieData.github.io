@@ -69,7 +69,7 @@ feature_row3:
     excerpt: <div style="margin:8px; text-align:center;"> 
                                   <button type="button">Python</button>
                                    <button type="button">OOP</button>
-                                  </div>
+                                  </div> "Creating Python Package"
     url: "#test-link"
     btn_label: "Coming Soon"
     btn_class: "btn--primary"
