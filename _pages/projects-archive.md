@@ -15,7 +15,7 @@ feature_row:
   - image_path: /assets/images/splash_project/nasa_splash_1.jpg
     alt: "placeholder image 2"
     title: "Transform & Dynamically Visualizing Data"
-    excerpt: <div style="margin:0px; margin-bottom:10px; text-align:center;"> 
+    excerpt: <div style="margin:0px; margin-bottom:10px;"> 
                 <button type="button" style="background-color:#FFFFFF; color:#858483; border-radius:3px; border:1px solid gray">HTML</button>
                 <button type="button" style="background-color:#FFFFFF; color:#858483; border-radius:3px; border:1px solid gray">Javascript</button>
                 <button type="button" style="background-color:#FFFFFF; color:#858483; border-radius:3px; border:1px solid gray">D3.js</button>
@@ -27,7 +27,7 @@ feature_row:
   - image_path: /assets/images/splash_project/bacteria_splash_1.jpg
     alt: "placeholder image 1"
     title: Exploring Data Through Custom Dashboards
-    excerpt: <div style="margin:0px; margin-bottom:10px; text-align:center;"> 
+    excerpt: <div style="margin:0px; margin-bottom:10px;"> 
                   <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">Javascript</button>
                   <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">JSON</button>
                   <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">CSS</button>
@@ -38,7 +38,7 @@ feature_row:
   - image_path: /assets/images/splash_project/rector.jpg
     alt: "placeholder image 1"
     title: "Mapping GeoJson Data"
-    excerpt: <div style="margin:0px; margin-bottom:10px; text-align:center;"> 
+    excerpt: <div style="margin:0px; margin-bottom:10px;"> 
                   <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">Javascript</button>
                   <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">GEOjson</button>
                   <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">HTML</button>
@@ -50,7 +50,7 @@ feature_row2:
   - image_path: /assets/images/splash_project/tab2.png
     alt: "placeholder image 1"
     title: "Analyzing Bike-Sharing Data With Tableau"
-    excerpt: <div style="margin:0px; margin-bottom:10px; text-align:center;"> 
+    excerpt: <div style="margin:0px; margin-bottom:10px;"> 
                   <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">Tableau</button>
                   <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">Data Analysis</button>
                   <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">CSS</button>
@@ -61,7 +61,7 @@ feature_row2:
   - image_path: /assets/images/splash_project/crime_splash.jpg
     alt: "placeholder image 1"
     title: "Austin Crime Data Analysis"
-    excerpt: <div style="margin:0px; margin-bottom:10px; text-align:center;"> 
+    excerpt: <div style="margin:0px; margin-bottom:10px;"> 
                   <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">Python</button>
                   <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">ETL</button>
                   <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">Javascript</button>
@@ -72,7 +72,7 @@ feature_row2:
   - image_path: /assets/images/pipeline.jpg
     alt: "placeholder image 1"
     title: "Building ETL Pipelines"
-    excerpt: <div style="margin:0px; margin-bottom:10px; text-align:center;"> 
+    excerpt: <div style="margin:0px; margin-bottom:10px;"> 
                   <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">Python</button>
                   <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">Automation</button>
                   <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">PostgreSQL</button>
@@ -84,7 +84,7 @@ feature_row3:
   - image_path: /assets/images/api transport g.jpg
     alt: "placeholder image 1"
     title: "Scala App for API requests" 
-    excerpt: <div style="margin:0px; margin-bottom:10px; text-align:center;"> 
+    excerpt: <div style="margin:0px; margin-bottom:10px;"> 
                   <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">Scala</button>
                   <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">Packaging</button>
                   <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">Rest API</button>
@@ -95,7 +95,7 @@ feature_row3:
   - image_path: /assets/images/fig_pat1r - g.jpg
     alt: "placeholder image 1"
     title: "Creating Python Package"
-    excerpt: <div style="margin:0px; margin-bottom:10px; text-align:center;"> 
+    excerpt: <div style="margin:0px; margin-bottom:10px;"> 
                   <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">Python</button>
                   <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">OOP</button>
                   <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">Packaging</button>
@@ -106,7 +106,7 @@ feature_row3:
   - image_path: /assets/images/splash_project/mig_peg.jpg
     alt: "placeholder image 1"
     title: "Database Migration"
-    excerpt: <div style="margin:0px; margin-bottom:10px; text-align:center;"> 
+    excerpt: <div style="margin:0px; margin-bottom:10px;"> 
                   <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">SQLite</button>
                   <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">Python</button>
                   <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">PostgreSQL</button>
