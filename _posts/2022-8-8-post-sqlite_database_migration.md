@@ -37,8 +37,9 @@ tables_df.columns = [i[0] for i in sqlite_cur.description
 ```
 
 <div class="notice">
+  <p>tables in SQLite database </p>
 <figure>
-  <a href=""><img src=""></a>
+  <a href="/assets/images/migration/tables_df.png"><img src="/assets/images/migration/tables_df.png"></a>
 </figure>
   </div>
 
@@ -57,7 +58,7 @@ for i in list(df_dict.keys()): #iterate through dictionary
 
 <div class="notice">
 <figure>
-  <a href=""><img src=""></a>
+  <a href="/assets/images/migration/python_data_head.png"><img src="/assets/images/migration/python_data_head.png"></a>
 </figure>
   </div>
   
