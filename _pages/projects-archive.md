@@ -61,7 +61,11 @@ feature_row2:
   - image_path: /assets/images/splash_project/crime_splash.jpg
     alt: "placeholder image 1"
     title: "Austin Crime Data Analysis"
-    excerpt: "Austin Crime Data Analysis"
+    excerpt: <div style="margin:0px; margin-bottom:8px; text-align:center;"> 
+                  <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">Python</button>
+                  <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">ETL</button>
+                  <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">Javascript</button>
+                                  </div> Austin Crime Data Analysis
     url: "#test-link"
     btn_label: "Coming Soon"
     btn_class: "btn--primary" 
