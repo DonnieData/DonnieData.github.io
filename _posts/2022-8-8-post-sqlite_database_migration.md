@@ -151,6 +151,7 @@ where row_num between 1 and 10
 </figure>
   </div>
 
+With views created its easy to gain insights and answer analytic questions as more data is added. 
   
 <!--[recordind]-->
 
