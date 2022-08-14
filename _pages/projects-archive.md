@@ -15,14 +15,22 @@ feature_row:
   - image_path: /assets/images/splash_project/nasa_splash_1.jpg
     alt: "placeholder image 2"
     title: "Transform & Dynamically Visualizing Data"
-    excerpt: "Building a dynamic webpage to display and filter data using JavaScript." 
+    excerpt: <div style="margin:0px; margin-bottom:8px; text-align:center;"> 
+                  <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">HTML</button>
+                  <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">javascript</button>
+                  <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">D3.js</button>
+                                  </div> Building a dynamic webpage to display and filter data using JavaScript
     url: "https://donniedata.github.io/post/post-ufo/"
     btn_label: "View Project"
     btn_class: "btn--primary"  
     actions:
   - image_path: /assets/images/splash_project/bacteria_splash_1.jpg
     alt: "placeholder image 1"
-    title: "Exploring Data Through Custom Dashboards"
+    title: <div style="margin:0px; margin-bottom:8px; text-align:center;"> 
+                  <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">Javascript</button>
+                  <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">JSON</button>
+                  <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">CSS</button>
+                                  </div> Exploring Data Through Custom Dashboards
     excerpt: "Creating customizable and interactive charts with Javascript to share insights."
     url: "https://donniedata.github.io/post/post-belly/"
     btn_label: "View Project"
@@ -30,7 +38,11 @@ feature_row:
   - image_path: /assets/images/splash_project/rector.jpg
     alt: "placeholder image 1"
     title: "Mapping GeoJson Data"
-    excerpt: "Traversing geoJson features and attributes"
+    excerpt: <div style="margin:0px; margin-bottom:8px; text-align:center;"> 
+                  <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">Javascript</button>
+                  <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">GEOjson</button>
+                  <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">HTML</button>
+                                  </div> Traversing geoJson features and attributes
     url: "https://donniedata.github.io/post/post-earthquakes/"
     btn_label: "View Project"
     btn_class: "btn--primary" 
@@ -59,7 +71,7 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/api transport g.jpg
     alt: "placeholder image 1"
-    title: "Scala Application for API requests" 
+    title: "Scala App for API requests" 
     excerpt: <div style="margin:0px; margin-bottom:8px; text-align:center;"> 
                   <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">Scala</button>
                   <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">Packaging</button>
@@ -82,7 +94,11 @@ feature_row3:
   - image_path: /assets/images/splash_project/mig_peg.jpg
     alt: "placeholder image 1"
     title: "Database Migration"
-    excerpt: "Migrating SQLite database to PostgreSQL for enhanced Data Management"
+    excerpt: <div style="margin:0px; margin-bottom:8px; text-align:center;"> 
+                  <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">SQLite</button>
+                  <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">Python</button>
+                  <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">PostgreSQL</button>
+                                  </div> Migrating SQLite database to PostgreSQL for enhanced Data Management
     url: "https://donniedata.github.io/post/post-sqlite_database_migration/"
     btn_label: "View Project"
     btn_class: "btn--primary" 
