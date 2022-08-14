@@ -22,7 +22,7 @@ author_profile: True
 
 In this projectI migrate an entire SQLite database into PostgreSQL and explore the use of Views, which is a common but powerful feature. 
 
-## Database Migration 
+## <u>Database Migration</u>
 #### Load sqlite database into Python
 file into python environment using sqlite3 library 
 
@@ -79,7 +79,7 @@ for i in list(df_dict.keys()): #iterate through dictionary taht holds dataframes
 ```
  
 
-## Database Design: Non-materialized Views 
+## <u>Database Design: Non-materialized Views</u>
 With the data now fully loaded, we can query it dirctly through the database managemnt system. As well as use tools native to the environment, succh as ERD Diagrams. Which allow an easy overhead view of the tables and its columns: 
 
 <div class="notice">
@@ -92,6 +92,7 @@ With the data now fully loaded, we can query it dirctly through the database man
 
 With confirmation that our data has been loaded in the same format as it was held in the sqlite db file, we can now create some views. 
 
+### Creating Views 
 
 ```sql
 -- create a view for reviews with highscores 
