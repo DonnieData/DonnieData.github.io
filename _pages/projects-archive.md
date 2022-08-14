@@ -66,9 +66,10 @@ feature_row3:
   - image_path: /assets/images/fig_pat1r - g.jpg
     alt: "placeholder image 1"
     title: "Creating Python Package"
-    excerpt: <div style="margin:0px; text-align:center;"> <button type="button">Python</button>
-                                  <a href="#" class="btn--inverse">OOP</a></div>
-                        
+    excerpt: <div style="margin:8px; text-align:center;"> 
+                                  <button type="button">Python</button>
+                                   <button type="button">OOP</button>
+                                  </div>
     url: "#test-link"
     btn_label: "Coming Soon"
     btn_class: "btn--primary"
