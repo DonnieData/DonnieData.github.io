@@ -60,6 +60,11 @@ feature_row3:
   - image_path: /assets/images/api transport g.jpg
     alt: "placeholder image 1"
     title: "Scala Application for API requests" 
+    excerpt: <div style="margin:0px; margin-bottom:8px; text-align:center;"> 
+                  <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">Scala</button>
+                  <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">Packaging</button>
+                  <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">Rest API</button>
+                                  </div>
     url: "https://donniedata.github.io/post/post-scala_api_app/"
     btn_label: "View Project"
     btn_class: "btn--primary"
@@ -68,8 +73,9 @@ feature_row3:
     title: "Creating Python Package"
     excerpt: <div style="margin:0px; margin-bottom:8px; text-align:center;"> 
                   <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">Python</button>
-                                   <button type="button">OOP</button>
-                                  </div> Creating Python Package
+                  <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">OOP</button>
+                  <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">Packaging</button>
+                                  </div> Creating custom Python Package for pipeline reporting
     url: "#test-link"
     btn_label: "Coming Soon"
     btn_class: "btn--primary"
