@@ -17,7 +17,7 @@ feature_row:
     title: "Transform & Dynamically Visualizing Data"
     excerpt: <div style="margin:0px; margin-bottom:8px; text-align:center;"> 
                   <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">HTML</button>
-                  <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">javascript</button>
+                  <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">Javascript</button>
                   <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">D3.js</button>
                                   </div> Building a dynamic webpage to display and filter data using JavaScript
     url: "https://donniedata.github.io/post/post-ufo/"
@@ -72,7 +72,11 @@ feature_row2:
   - image_path: /assets/images/pipeline.jpg
     alt: "placeholder image 1"
     title: "Building ETL Pipelines"
-    excerpt: "Buidling ETL pipelines with Python and PostgreSQL."
+    excerpt: <div style="margin:0px; margin-bottom:8px; text-align:center;"> 
+                  <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">Python</button>
+                  <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">Automation</button>
+                  <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">PostgreSQL</button>
+                                  </div> Buidling ETL pipelines with Python and PostgreSQL 
     url: "#test-link"
     btn_label: "Coming Soon"
     btn_class: "btn--primary" 
