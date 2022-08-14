@@ -81,15 +81,50 @@ for i in list(df_dict.keys()): #iterate through dictionary taht holds dataframes
 With the data now fully loaded, we can query it dirctly through the database managemnt system. As well as use tools native to the environment, succh as ERD Diagrams. Which allow an easy overhead view of the tables and its columns: 
 
 
-
-
 With confirmation that our data has been loaded in the same format as it was held in the sqlite db file, we can now create some views. 
 
 
+``` SQL
+-- create a view for reviews with highscores 
+CREATE VIEW high_scores AS
+SELECT * FROM reviews
+WHERE reviews.score > 9
+```
+
+
+```SQL
+--create view for top genres by review count
+CREATE VIEW top_genres_by_reviews AS 
+SELECT genres.genre AS "Genre", COUNT(reviews.reviewid) AS "Review COUNT" FROM 
+genres
+LEFT JOIN
+reviews 
+ON genres.reviewid = reviews.reviewid
+WHERE Genre IS NOT null 
+GROUP BY genres.genre
+ORDER BY genres.genre DESC 
+```
+
+
+```SQL
+--create view for top 10 artists by review count for each year 
+CREATE OR REPLACE VIEW ranked_artists_y AS 
+with ranked_artists AS (
+SELECT pub_year, artist, COUNT(reviewid) "Review COUNT",
+ROW_NUMBER() OVER(
+    partition by pub_year
+    order by count(reviewid) DESC ) row_num
+from reviews 
+group by pub_year, artist ) 
+select pub_year, artist, "Review Count", row_num
+from ranked_artists
+where row_num between 1 and 10 
+```
 
 
 <div class="notice">
 <figure>
+  <figcaption>Querying -x- View</figcaption>
   <a href=""><img src=""></a>
 </figure>
   </div>
