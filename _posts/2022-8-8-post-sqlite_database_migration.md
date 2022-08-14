@@ -23,7 +23,8 @@ author_profile: True
 In this projectI migrate an entire SQLite database into PostgreSQL and explore the use of Views, which is a common but powerful feature. 
 
 ## Database Migration 
--loadd sqlite database file into python environment using sqlite3 library 
+#### Load sqlite database into Python
+file into python environment using sqlite3 library 
 
 ```python 
 #connect to sqlite db file 
@@ -41,7 +42,8 @@ tables_df.columns = [i[0] for i in sqlite_cur.description
 </figure>
   </div>
 
--query data from the loaded data model and convert into dataframes
+#### Query all data into dataframes 
+from the loaded data model and convert into dataframes
 
 ```python 
 #create dictionary with table names that will hold table data
@@ -60,7 +62,8 @@ for i in list(df_dict.keys()): #iterate through dictionary
   </div>
   
 
--use pandas "to_sql" attribute to crete tables and load data into database via the defined database connection .
+#### Load dataframes into Postgres database as tables 
+use pandas "to_sql" attribute to crete tables and load data into database via the defined database connection .
 
 ```python
 #create sqlaclechemy database connection with newly created database 
@@ -72,33 +75,37 @@ for i in list(df_dict.keys()): #iterate through dictionary taht holds dataframes
     print(f"Table {i} loaded")
     
 ```
-
--Once the data migration is complete, we can review the tables and thier stucture within the database 
--ERD 
-
+ 
 
 ## Database Design: Non-materialized Views 
 With the data now fully loaded, we can query it dirctly through the database managemnt system. As well as use tools native to the environment, succh as ERD Diagrams. Which allow an easy overhead view of the tables and its columns: 
+
+<div class="notice">
+<figure>
+  <figcaption>Database genrated ERD Diagram</figcaption>
+  <a href="/assets/images/migration/view1_data.png"><img src="/assets/images/migration/view1_data.png"></a>
+</figure>
+  </div>
 
 
 With confirmation that our data has been loaded in the same format as it was held in the sqlite db file, we can now create some views. 
 
 
-```SQL
+```sql
 -- create a view for reviews with highscores 
 CREATE VIEW high_scores AS
 SELECT * FROM reviews
 WHERE reviews.score > 9
 ```
+Querying "high_scores" View<:
 <div class="notice">
 <figure>
-  <figcaption>Querying "high_scores" View</figcaption>
   <a href="/assets/images/migration/view1_data.png"><img src="/assets/images/migration/view1_data.png"></a>
 </figure>
   </div>
   
 
-```SQL
+```sql
 --create view for top genres by review count
 CREATE VIEW top_genres_by_reviews AS 
 SELECT genres.genre AS "Genre", COUNT(reviews.reviewid) AS "Review COUNT" FROM 
@@ -110,14 +117,15 @@ WHERE Genre IS NOT null
 GROUP BY genres.genre
 ORDER BY genres.genre DESC 
 ```
+
+Querying "top_genres_by_reviews" View: 
 <div class="notice">
 <figure>
-  <figcaption>Querying "high_scores" View</figcaption>
   <a href="/assets/images/migration/view2data.png"><img src="/assets/images/migration/view2data.png"></a>
 </figure>
   </div>
 
-```SQL
+```sql
 --create view for top 10 artists by review count for each year 
 CREATE OR REPLACE VIEW ranked_artists_y AS 
 with ranked_artists AS (
@@ -131,10 +139,9 @@ select pub_year, artist, "Review Count", row_num
 from ranked_artists
 where row_num between 1 and 10 
 ```
-
+Querying "ranked_artists_y" View:
 <div class="notice">
 <figure>
-  <figcaption>Querying "high_scores" View</figcaption>
   <a href="/assets/images/migration/view3data.png"><img src="/assets/images/migration/view3data.png"></a>
 </figure>
   </div>
