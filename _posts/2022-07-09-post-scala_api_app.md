@@ -26,8 +26,7 @@ A simple application that can be quicly ran and automate the querying(get reques
 </figure>
   </div>
   
- call {: .notice} 
-  
+
 <!--[recordind]-->
 
 <!--[future upates]-->
