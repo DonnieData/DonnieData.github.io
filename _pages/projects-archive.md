@@ -26,12 +26,12 @@ feature_row:
     actions:
   - image_path: /assets/images/splash_project/bacteria_splash_1.jpg
     alt: "placeholder image 1"
-    title: <div style="margin:0px; margin-bottom:8px; text-align:center;"> 
+    title: Exploring Data Through Custom Dashboards
+    excerpt: <div style="margin:0px; margin-bottom:8px; text-align:center;"> 
                   <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">Javascript</button>
                   <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">JSON</button>
                   <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">CSS</button>
-                                  </div> Exploring Data Through Custom Dashboards
-    excerpt: "Creating customizable and interactive charts with Javascript to share insights."
+                                  </div> Creating customizable and interactive charts with Javascript to share insights
     url: "https://donniedata.github.io/post/post-belly/"
     btn_label: "View Project"
     btn_class: "btn--primary"
@@ -50,7 +50,11 @@ feature_row2:
   - image_path: /assets/images/splash_project/tab2.png
     alt: "placeholder image 1"
     title: "Analyzing Bike-Sharing Data With Tableau"
-    excerpt: "Conveying insights through robust & interactive visualizations"
+    excerpt: <div style="margin:0px; margin-bottom:8px; text-align:center;"> 
+                  <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">Tableau</button>
+                  <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">Data Analysis</button>
+                  <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid black">CSS</button>
+                                  </div> Conveying insights through robust & interactive visualizations
     url: "https://donniedata.github.io/post/post-tableau/"
     btn_label: "View Project"
     btn_class: "btn--primary"
