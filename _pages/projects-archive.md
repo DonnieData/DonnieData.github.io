@@ -67,9 +67,9 @@ feature_row3:
     alt: "placeholder image 1"
     title: "Creating Python Package"
     excerpt: <div style="margin:0px; margin-bottom:8px; text-align:center;"> 
-                                  <button type="button" style="background-color:#FFFFFF">Python</button>
+                                  <button type="button" style="color:#FFFFFF">Python</button>
                                    <button type="button">OOP</button>
-                                  </div> "Creating Python Package"
+                                  </div> Creating Python Package
     url: "#test-link"
     btn_label: "Coming Soon"
     btn_class: "btn--primary"
