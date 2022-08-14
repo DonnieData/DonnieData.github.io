@@ -84,13 +84,19 @@ With the data now fully loaded, we can query it dirctly through the database man
 With confirmation that our data has been loaded in the same format as it was held in the sqlite db file, we can now create some views. 
 
 
-``` SQL
+```SQL
 -- create a view for reviews with highscores 
 CREATE VIEW high_scores AS
 SELECT * FROM reviews
 WHERE reviews.score > 9
 ```
-
+<div class="notice">
+<figure>
+  <figcaption>Querying "high_scores" View</figcaption>
+  <a href="/assets/images/migration/view1_data.png"><img src="/assets/images/migration/view1_data.png"></a>
+</figure>
+  </div>
+  
 
 ```SQL
 --create view for top genres by review count
@@ -104,7 +110,12 @@ WHERE Genre IS NOT null
 GROUP BY genres.genre
 ORDER BY genres.genre DESC 
 ```
-
+<div class="notice">
+<figure>
+  <figcaption>Querying "high_scores" View</figcaption>
+  <a href="/assets/images/migration/view2data.png"><img src="/assets/images/migration/view2data.png"></a>
+</figure>
+  </div>
 
 ```SQL
 --create view for top 10 artists by review count for each year 
@@ -121,14 +132,13 @@ from ranked_artists
 where row_num between 1 and 10 
 ```
 
-
 <div class="notice">
 <figure>
-  <figcaption>Querying -x- View</figcaption>
-  <a href=""><img src=""></a>
+  <figcaption>Querying "high_scores" View</figcaption>
+  <a href="/assets/images/migration/view3data.png"><img src="/assets/images/migration/view3data.png"></a>
 </figure>
   </div>
-  
+
   
 <!--[recordind]-->
 
