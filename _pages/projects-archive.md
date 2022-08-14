@@ -51,9 +51,9 @@ feature_row2:
     alt: "placeholder image 1"
     title: "Analyzing Bike-Sharing Data With Tableau"
     excerpt: <div style="margin:0px; margin-bottom:10px;"> 
-                  <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid gray">Tableau</button>
-                  <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid gray">Data Analysis</button>
-                  <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid gray">CSS</button>
+                  <button type="button" style="background-color:#FFFFFF; color:#858483; border-radius:3px; border:1px solid gray">Tableau</button>
+                  <button type="button" style="background-color:#FFFFFF; color:#858483; border-radius:3px; border:1px solid gray">Data Analysis</button>
+                  <button type="button" style="background-color:#FFFFFF; color:#858483; border-radius:3px; border:1px solid gray">CSS</button>
                                   </div> Conveying insights through robust & interactive visualizations
     url: "https://donniedata.github.io/post/post-tableau/"
     btn_label: "View Project"
@@ -62,9 +62,9 @@ feature_row2:
     alt: "placeholder image 1"
     title: "Austin Crime Data Analysis"
     excerpt: <div style="margin:0px; margin-bottom:10px;"> 
-                  <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid gray">Python</button>
-                  <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid gray">ETL</button>
-                  <button type="button" style="background-color:#FFFFFF; border-radius:3px; border:1px solid gray">Javascript</button>
+                  <button type="button" style="background-color:#FFFFFF; color:#858483; border-radius:3px; border:1px solid gray">Python</button>
+                  <button type="button" style="background-color:#FFFFFF; color:#858483; border-radius:3px; border:1px solid gray">ETL</button>
+                  <button type="button" style="background-color:#FFFFFF; color:#858483; border-radius:3px; border:1px solid gray">Javascript</button>
                                   </div> Austin Crime Data Analysis
     url: "#test-link"
     btn_label: "Coming Soon"
