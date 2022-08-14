@@ -151,10 +151,6 @@ Querying "ranked_artists_y" View:
 
 <!--[future upates]-->
 
-<br>
-<div style="text-align: center; text-shadow: 3px 3px;"><a href=" "><button style="color:#FFFFFF; background-color:#D2691E; border: 1px solid gray; padding: 7px; border-radius: 3px;" type="button"
-onMouseOver="this.style.color='#4787F0'"
-   onMouseOut="this.style.color='#FFFFFF'"><b>View The Project</b></button></a></div>
 
 
 
