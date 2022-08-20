@@ -13,7 +13,10 @@ header:
      Often used to build websites and software, automate tasks, and conduct data analysis.
    </p>
  </div>
- 
-  <img src="/assets/images/tools/Python-logo-notext.svg.png" alt="" width="90" height="90" style="margin:10px; positon: absolute;" />  
+  
+  <div  style="margin:10px; positon: absolute;border:1px #DCDCDC">
+  <img src="/assets/images/tools/Python-logo-notext.svg.png" alt="" width="90" height="90"/>  
+  </div>
+  
 </div>
 
