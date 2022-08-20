@@ -5,8 +5,8 @@ header:
   overlay_color: "#91BCDA"
 ---
 
-<div style="height:110px; width:550px; border-radius:3px; border-radius:4px; border:2px solid gray"> 
- <div style="float:left; margin:10px; height:90px; text-overflow: ellipsis;">
+<div style="height:110px; border-radius:3px; border-radius:4px; border:2px solid gray"> 
+ <div style="float:left; margin:10px; height:90px; width: 550px; text-overflow: ellipsis;">
    <b>Python</b><br> 
    <p style="font-size:14px;">
      A high-level, interpreted, general-purpose programming language.
