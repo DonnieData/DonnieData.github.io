@@ -6,7 +6,7 @@ header:
 ---
 
 <div style="height:110px; border-radius:3px; border-radius:7px; border:2px solid gray"> 
- <div style="float:left; margin:10px; height:90px; width: 400px; text-overflow: ellipsis;">
+ <div style="float:left; margin:10px; height:90px; width: 475px; text-overflow: ellipsis;">
    <b>Python</b><br> 
    <p style="font-size:14px;">
      A high-level, interpreted, general-purpose programming language.
