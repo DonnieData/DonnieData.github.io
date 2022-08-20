@@ -7,6 +7,13 @@ header:
 ---
 
 <div style="border-radius:3px; border-radius:3px; border:1px solid gray"> 
-                
+  <p>Python </p>
 </div>
 
+<div style="border-radius:3px; border-radius:3px; border:1px solid gray"> 
+  <p>JavaScript </p>
+</div>
+
+<div style="border-radius:3px; border-radius:3px; border:1px solid gray"> 
+  <p>SQL </p>
+</div>
