@@ -14,7 +14,7 @@ header:
    </p>
  </div>
   
-  <div  style="margin:10px; positon: absolute;border:1px #DCDCDC">
+  <div  style="margin:10px; positon: absolute;border:1px #DCDCDC;">
   <img src="/assets/images/tools/Python-logo-notext.svg.png" alt="" width="90" height="90"/>  
   </div>
   
