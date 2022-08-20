@@ -22,7 +22,7 @@ author_profile: True
 
 In this projectI migrate an entire SQLite database into PostgreSQL and explore the use of Views, which is a common but powerful feature. 
 
-## Database Migration 
+## <u>Database Migration</u>
 #### Load sqlite database into Python
 file into python environment using sqlite3 library 
 
@@ -37,8 +37,9 @@ tables_df.columns = [i[0] for i in sqlite_cur.description
 ```
 
 <div class="notice">
+  <p>tables in SQLite database </p>
 <figure>
-  <a href=""><img src=""></a>
+  <a href="/assets/images/migration/tables_df.png"><img src="/assets/images/migration/tables_df.png"></a>
 </figure>
   </div>
 
@@ -56,8 +57,9 @@ for i in list(df_dict.keys()): #iterate through dictionary
 ```
 
 <div class="notice">
+  <p>Reviewing Dataframes sample</p>
 <figure>
-  <a href=""><img src=""></a>
+  <a href="/assets/images/migration/python_data_head.png"><img src="/assets/images/migration/python_data_head.png"></a>
 </figure>
   </div>
   
@@ -77,12 +79,12 @@ for i in list(df_dict.keys()): #iterate through dictionary taht holds dataframes
 ```
  
 
-## Database Design: Non-materialized Views 
+## <u>Database Design: Non-materialized Views</u>
 With the data now fully loaded, we can query it dirctly through the database managemnt system. As well as use tools native to the environment, succh as ERD Diagrams. Which allow an easy overhead view of the tables and its columns: 
 
 <div class="notice">
+  <p>Database genrated ERD Diagram</p>
 <figure>
-  <figcaption>Database genrated ERD Diagram</figcaption>
   <a href="/assets/images/migration/view1_data.png"><img src="/assets/images/migration/view1_data.png"></a>
 </figure>
   </div>
@@ -90,6 +92,7 @@ With the data now fully loaded, we can query it dirctly through the database man
 
 With confirmation that our data has been loaded in the same format as it was held in the sqlite db file, we can now create some views. 
 
+### Creating Views 
 
 ```sql
 -- create a view for reviews with highscores 
@@ -97,8 +100,8 @@ CREATE VIEW high_scores AS
 SELECT * FROM reviews
 WHERE reviews.score > 9
 ```
-Querying "high_scores" View<:
 <div class="notice">
+  <p>Querying "high_scores" View</p>
 <figure>
   <a href="/assets/images/migration/view1_data.png"><img src="/assets/images/migration/view1_data.png"></a>
 </figure>
@@ -118,8 +121,9 @@ GROUP BY genres.genre
 ORDER BY genres.genre DESC 
 ```
 
-Querying "top_genres_by_reviews" View: 
+
 <div class="notice">
+  <p>Querying "top_genres_by_reviews" View </p>
 <figure>
   <a href="/assets/images/migration/view2data.png"><img src="/assets/images/migration/view2data.png"></a>
 </figure>
@@ -139,13 +143,15 @@ select pub_year, artist, "Review Count", row_num
 from ranked_artists
 where row_num between 1 and 10 
 ```
-Querying "ranked_artists_y" View:
+
 <div class="notice">
+  <p>Querying "ranked_artists_y" View</p>
 <figure>
   <a href="/assets/images/migration/view3data.png"><img src="/assets/images/migration/view3data.png"></a>
 </figure>
   </div>
 
+With views created its easy to gain insights and answer analytic questions as more data is added. 
   
 <!--[recordind]-->
 
