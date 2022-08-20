@@ -1,5 +1,5 @@
 ---
-permalink: /tool/
+permalink: /tools/
 title: "Tools"
 classes: wide
 header:
