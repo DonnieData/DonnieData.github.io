@@ -5,7 +5,7 @@ header:
   overlay_color: "#91BCDA"
 ---
 
-<p style="border:2px solid gray; border-radius:10px; padding:10px; font-size: 16px; margin-bottom:20px; margin-bottom:20px;">
+<p style="border:1.60px solid gray; border-radius:10px; padding:10px; font-size: 16px; margin-bottom:20px; margin-bottom:20px;">
   <img style="float: right; margin: auto 0 auto 10" src="/assets/images/tools/Python-logo-notext.svg.png" width="100px" height="100px" />
   <b> Python </b><br>
   A high-level, interpreted, general-purpose programming language.
