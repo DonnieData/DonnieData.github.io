@@ -2,7 +2,7 @@
 permalink: /tools/
 title: "Tools"
 header:
-  overlay_color: "#91BCDA"
+  overlay_color: "#B5B5B5"
 ---
 
 <p style="border:1.60px solid gray; border-radius:10px; padding:10px; font-size: 16px; margin-bottom:20px; margin-bottom:20px;">
