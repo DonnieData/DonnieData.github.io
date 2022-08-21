@@ -20,3 +20,10 @@ header:
   
 </div>
 
+
+<p style="border: 1px solid black;">
+  <img style="float: right; margin: 0px 15px 15px 0px;" src="/assets/images/tools/Python-logo-notext.svg.png" width="100" />
+  A high-level, interpreted, general-purpose programming language.
+     Often used to build websites and software, automate tasks, and conduct data analysis. 
+  <br style="clear: both;" />
+</p>
