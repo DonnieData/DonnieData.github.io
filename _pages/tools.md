@@ -20,8 +20,8 @@ header:
   
 </div>
 
-<p style="border:1px solid black; padding:10px;">
-  <img style="float: right; margin-left:10px" src="/assets/images/tools/Python-logo-notext.svg.png" width="100px" height="100px" />
+<p style="border:1px solid black; padding:10px; font-size: 16px;">
+  <img style="float: right; margin: auto 0 auto 10" src="/assets/images/tools/Python-logo-notext.svg.png" width="100px" height="100px" />
   <b> Python </b><br>
   A high-level, interpreted, general-purpose programming language.
      Often used to build websites and software, automate tasks, and conduct data analysis. 
