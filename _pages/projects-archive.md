@@ -69,7 +69,7 @@ feature_row2:
     url: "#test-link"
     btn_label: "Coming Soon"
     btn_class: "btn--primary" 
-  - image_path: /assets/images/norm0.jpeg
+  - image_path: /assets/images/norm1.jpeg
     alt: "placeholder image 1"
     title: "Database Normalization"
     excerpt: <div style="margin:0px; margin-bottom:10px;"> 
