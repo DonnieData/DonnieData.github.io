@@ -66,17 +66,17 @@ feature_row2:
                   <button type="button" style="background-color:#FFFFFF; color:#858483; border-radius:3px; border:1px solid gray">ETL</button>
                   <button type="button" style="background-color:#FFFFFF; color:#858483; border-radius:3px; border:1px solid gray">Javascript</button>
                                  </div> Austin Crime Data Analysis
-    url: "#test-link"
+    url: "https://donniedata.github.io/post/database_normalization.md"
     btn_label: "Coming Soon"
     btn_class: "btn--primary" 
   - image_path: /assets/images/norm1.jpeg
     alt: "placeholder image 1"
     title: "Database Normalization"
     excerpt: <div style="margin:0px; margin-bottom:10px;"> 
-                  <button type="button" style="background-color:#FFFFFF;  color:#858483; border-radius:3px; border:1px solid gray">Database Design</button>
+                  <button type="button" style="background-color:#FFFFFF;  color:#858483; border-radius:3px; border:1px solid gray; font-size:11px">Automation</button>
                   <button type="button" style="background-color:#FFFFFF;  color:#858483; border-radius:3px; border:1px solid gray">Data Modeling</button>
                   <button type="button" style="background-color:#FFFFFF;  color:#858483; border-radius:3px; border:1px solid gray">PostgreSQL</button>
-                                  </div> Modeling data to reduce redundancy and prvovide scalabilty for reporting  
+                                  </div> Modeling data to reduce redundancy and provide scalabilty for reporting  
     url: "#test-link"
     btn_label: "Coming Soon"
     btn_class: "btn--primary"
