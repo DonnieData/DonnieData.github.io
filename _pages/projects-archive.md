@@ -73,9 +73,9 @@ feature_row2:
     alt: "placeholder image 1"
     title: "Database Normalization"
     excerpt: <div style="margin:0px; margin-bottom:10px;"> 
-                  <button type="button" style="background-color:#FFFFFF;  color:#858483; border-radius:3px; border:1px solid gray; font-size:11px">Automation</button>
-                  <button type="button" style="background-color:#FFFFFF;  color:#858483; border-radius:3px; border:1px solid gray">Data Modeling</button>
-                  <button type="button" style="background-color:#FFFFFF;  color:#858483; border-radius:3px; border:1px solid gray">PostgreSQL</button>
+                  <button type="button" style="background-color:#FFFFFF;  color:#858483; border-radius:3px; border:1px solid gray; font-size:12px">Automation</button>
+                  <button type="button" style="background-color:#FFFFFF;  color:#858483; border-radius:3px; border:1px solid gray; font-size:12px">Data Modeling</button>
+                  <button type="button" style="background-color:#FFFFFF;  color:#858483; border-radius:3px; border:1px solid gray; font-size:12px">PostgreSQL</button>
                                   </div> Modeling data to reduce redundancy and provide scalabilty for reporting  
     url: "#test-link"
     btn_label: "Coming Soon"
