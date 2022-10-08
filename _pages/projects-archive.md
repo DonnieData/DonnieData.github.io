@@ -16,9 +16,9 @@ feature_row:
     alt: "placeholder image 2"
     title: "Transform & Dynamically Visualizing Data"
     excerpt: <div style="margin:0px; margin-bottom:10px;"> 
-                <button type="button" style="background-color:#FFFFFF; color:#858483; border-radius:3px; border:1px solid gray; font-size:13px">HTML</button>
-                <button type="button" style="background-color:#FFFFFF; color:#858483; border-radius:3px; border:1px solid gray; font-size:13px">Javascript</button>
-                <button type="button" style="background-color:#FFFFFF; color:#858483; border-radius:3px; border:1px solid gray; font-size:13px">D3.js</button>
+                <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">HTML</button>
+                <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Javascript</button>
+                <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">D3.js</button>
                                   </div> Building a dynamic webpage to display and filter data using JavaScript
     url: "https://donniedata.github.io/post/post-ufo/"
     btn_label: "View Project"
@@ -28,9 +28,9 @@ feature_row:
     alt: "placeholder image 1"
     title: Exploring Data Through Custom Dashboards
     excerpt: <div style="margin:0px; margin-bottom:10px;"> 
-                  <button type="button" style="background-color:#FFFFFF; color:#858483; border-radius:3px; border:1px solid gray; font-size:13px">Javascript</button>
-                  <button type="button" style="background-color:#FFFFFF; color:#858483; border-radius:3px; border:1px solid gray; font-size:13px">JSON</button>
-                  <button type="button" style="background-color:#FFFFFF; color:#858483; border-radius:3px; border:1px solid gray; font-size:13px">CSS</button>
+                  <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Javascript</button>
+                  <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">JSON</button>
+                  <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">CSS</button>
                                   </div> Creating customizable and interactive charts with Javascript to share insights
     url: "https://donniedata.github.io/post/post-belly/"
     btn_label: "View Project"
@@ -40,7 +40,7 @@ feature_row:
     title: "Mapping GeoJson Data"
     excerpt: <div style="margin:0px; margin-bottom:10px;"> 
                   <button type="button" style="background-color:#FFFFFF; color:#858483; border-radius:3px; border:1px solid gray; font-size:13px">Javascript</button>
-                  <button type="button" style="background-color:#FFFFFF;  color:#858483; border-radius:3px; border:1px solid gra; font-size:13pxy">GEOjson</button>
+                  <button type="button" style="background-color:#FFFFFF;  color:#858483; border-radius:3px; border:1px solid gra; font-size:13px">GEOjson</button>
                   <button type="button" style="background-color:#FFFFFF;  color:#858483; border-radius:3px; border:1px solid gray; font-size:13px">HTML</button>
                                   </div> Traversing geoJson features and attributes
     url: "https://donniedata.github.io/post/post-earthquakes/"
