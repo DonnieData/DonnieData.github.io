@@ -39,9 +39,9 @@ feature_row:
     alt: "placeholder image 1"
     title: "Mapping GeoJson Data"
     excerpt: <div style="margin:0px; margin-bottom:10px;"> 
-                  <button type="button" style="background-color:#FFFFFF; color:#858483; border-radius:3px; border:1px solid gray; font-size:13px">Javascript</button>
-                  <button type="button" style="background-color:#FFFFFF;  color:#858483; border-radius:3px; border:1px solid gra; font-size:13px">GEOjson</button>
-                  <button type="button" style="background-color:#FFFFFF;  color:#858483; border-radius:3px; border:1px solid gray; font-size:13px">HTML</button>
+                  <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Javascript</button>
+                  <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">GEOjson</button>
+                  <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">HTML</button>
                                   </div> Traversing geoJson features and attributes
     url: "https://donniedata.github.io/post/post-earthquakes/"
     btn_label: "View Project"
@@ -51,9 +51,9 @@ feature_row2:
     alt: "placeholder image 1"
     title: "Analyzing Bike-Sharing Data With Tableau"
     excerpt: <div style="margin:0px; margin-bottom:10px;"> 
-                  <button type="button" style="background-color:#FFFFFF; color:#858483; border-radius:3px; border:1px solid gray; font-size:13px">Tableau</button>
-                  <button type="button" style="background-color:#FFFFFF; color:#858483; border-radius:3px; border:1px solid gray; font-size:13px">Data Analysis</button>
-                  <button type="button" style="background-color:#FFFFFF; color:#858483; border-radius:3px; border:1px solid gray; font-size:13px">CSS</button>
+                  <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Tableau</button>
+                  <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Data Analysis</button>
+                  <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">CSS</button>
                                   </div> Conveying insights through robust & interactive visualizations
     url: "https://donniedata.github.io/post/post-tableau/"
     btn_label: "View Project"
@@ -62,9 +62,9 @@ feature_row2:
     alt: "placeholder image 1"
     title: "Austin Crime Data Analysis"
     excerpt: <div style="margin:0px; margin-bottom:10px;"> 
-                  <button type="button" style="background-color:#FFFFFF; color:#858483; border-radius:3px; border:1px solid gray; font-size:13px">Python</button>
-                  <button type="button" style="background-color:#FFFFFF; color:#858483; border-radius:3px; border:1px solid gray; font-size:13px">ETL</button>
-                  <button type="button" style="background-color:#FFFFFF; color:#858483; border-radius:3px; border:1px solid gray; font-size:13px">Javascript</button>
+                  <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Python</button>
+                  <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">ETL</button>
+                  <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Javascript</button>
                                  </div> Austin Crime Data Analysis
     url: "#test-link"
     btn_label: "Coming Soon"
@@ -73,9 +73,9 @@ feature_row2:
     alt: "placeholder image 1"
     title: "Database Normalization"
     excerpt: <div style="margin:0px; margin-bottom:10px;"> 
-                  <button type="button" style="background-color:#FFFFFF;  color:#858483; border-radius:3px; border:1px solid gray; font-size:13px">Automation</button>
-                  <button type="button" style="background-color:#FFFFFF;  color:#858483; border-radius:3px; border:1px solid gray; font-size:13px">Data Modeling</button>
-                  <button type="button" style="background-color:#FFFFFF;  color:#858483; border-radius:3px; border:1px solid gray; font-size:13px">PostgreSQL</button>
+                  <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Automation</button>
+                  <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Data Modeling</button>
+                  <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">PostgreSQL</button>
                                   </div> Modeling data to reduce redundancy and provide scalabilty for reporting  
     url: "https://donniedata.github.io/post/database_normalization/" 
     btn_label: "View project"
@@ -85,9 +85,9 @@ feature_row3:
     alt: "placeholder image 1"
     title: "Scala App for API requests" 
     excerpt: <div style="margin:0px; margin-bottom:10px;"> 
-                  <button type="button" style="background-color:#FFFFFF;  color:#858483; border-radius:3px; border:1px solid gray; font-size:13px">Scala</button>
-                  <button type="button" style="background-color:#FFFFFF;  color:#858483; border-radius:3px; border:1px solid gray; font-size:13px">Packaging</button>
-                  <button type="button" style="background-color:#FFFFFF;  color:#858483; border-radius:3px; border:1px solid gray; font-size:13px">Rest API</button>
+                  <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Scala</button>
+                  <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Packaging</button>
+                  <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Rest API</button>
                                   </div>
     url: "https://donniedata.github.io/post/post-scala_api_app/"
     btn_label: "View Project"
@@ -96,9 +96,9 @@ feature_row3:
     alt: "placeholder image 1"
     title: "Creating Python Package"
     excerpt: <div style="margin:0px; margin-bottom:10px;"> 
-                  <button type="button" style="background-color:#FFFFFF;  color:#858483; border-radius:3px; border:1px solid gray; font-size:13px">Python</button>
-                  <button type="button" style="background-color:#FFFFFF;  color:#858483; border-radius:3px; border:1px solid gray; font-size:13px">OOP</button>
-                  <button type="button" style="background-color:#FFFFFF;  color:#858483; border-radius:3px; border:1px solid gray; font-size:13px">Packaging</button>
+                  <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Python</button>
+                  <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">OOP</button>
+                  <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Packaging</button>
                                   </div> Creating custom Python Package for pipeline reporting
     url: "#test-link"
     btn_label: "Coming Soon"
@@ -107,9 +107,9 @@ feature_row3:
     alt: "placeholder image 1"
     title: "Database Migration"
     excerpt: <div style="margin:0px; margin-bottom:10px;"> 
-                  <button type="button" style="background-color:#FFFFFF;  color:#858483; border-radius:3px; border:1px solid gray; font-size:13px">SQLite</button>
-                  <button type="button" style="background-color:#FFFFFF;  color:#858483; border-radius:3px; border:1px solid gray; font-size:13px">Python</button>
-                  <button type="button" style="background-color:#FFFFFF;  color:#858483; border-radius:3px; border:1px solid gray; font-size:13px">PostgreSQL</button>
+                  <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">SQLite</button>
+                  <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Python</button>
+                  <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">PostgreSQL</button>
                                   </div> Migrating SQLite database to PostgreSQL for enhanced Data Management
     url: "https://donniedata.github.io/post/post-sqlite_database_migration/"
     btn_label: "View Project"
