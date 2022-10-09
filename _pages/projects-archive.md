@@ -77,7 +77,7 @@ feature_row2:
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Data Modeling</button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">PostgreSQL</button>
                                   </div> Modeling data to reduce redundancy and provide scalabilty for reporting  
-    url: "https://donniedata.github.io/post/database_normalization/" 
+    url: "https://donniedata.github.io/post/post-database_normalization/" 
     btn_label: "View project"
     btn_class: "btn--primary"
 feature_row3:
