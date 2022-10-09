@@ -121,7 +121,7 @@ feature_row4:
     title: "Pipeline Dependencies" 
     excerpt: <div style="margin:0px; margin-bottom:10px;"> 
                   
-                                  </div>
+       </div> Managing pipeline dependencies with scheduling frameworks.
     url: "#test-link"
     btn_label: "Work In Progress"
     btn_class: "btn--primary"
