@@ -11,6 +11,32 @@ header:
       url: ""
 author_profile: True 
 ---
+How can we utilize database normalization to assist with analysis. 
+
+### Purpose 
+Perform database normalization to optimze data storage, which will aloow for analysis of meter data.
+
+
+### Steps of normalizaiton 
+
+#### Review Data 
+where can we reduce redundancy 
+- payment type
+- street block
+- meter post id 
+- payment ammount 
+- timestamps 
+
+
+#### Model Data 
+- ERD  
+
+
+#### Database 
+- create schema 
+- load data 
+
+
 
 
 
