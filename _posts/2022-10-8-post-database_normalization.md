@@ -39,6 +39,8 @@ where can we reduce redundancy
 
 Testing on transaction data for 1 day: 
 
+The below query will get the size of the normalized schema and non-normalized table(original data) in bytes, and compare the sizes.
+
 ```SQL 
 SELECT NORMALIZED_SCHEMA "Normalized Schema",
 	NON_NORMALIZED_TABLE " Non-normalized Table",
@@ -51,12 +53,25 @@ FROM
 
 	(SELECT PG_RELATION_SIZE('public.data_08012022') NON_NORMALIZED_TABLE) STAT2
 ```
-| Normalized Schema  | Non-normalized Table | Difference (%) |
-| ----------- | ----------- | ----------- |
-| 6979584      | 7733248       | 9.75 |
-
-
+Output: 
+<table>
+<thead>
+<tr>
+  <th>Normalized Schema</th>
+  <th>Non-normalized Table </th>
+ <th>Difference (%) </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>6979584</td>
+  <td>7733248</td>
+  <td>9.75</td>
+</tr>
+</tbody>
+</table>
   
+From the above output we can see that we have been able to save almost 10% of space through normalization. While that is not currently a huge difference, as more data for each day is added to the databaase model we can save 10% of kilobytes , megabytes, and so on. 
 
 
 
