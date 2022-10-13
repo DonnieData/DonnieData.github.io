@@ -42,7 +42,6 @@ Testing on transaction data for 1 day:
 The below query will get the size of the normalized schema and non-normalized table(original data) in bytes, and compare the sizes.
 
 ```sql
-
     SELECT NORMALIZED_SCHEMA "Normalized Schema",
 	NON_NORMALIZED_TABLE " Non-normalized Table",
 	ROUND(((NON_NORMALIZED_TABLE - NORMALIZED_SCHEMA) / NON_NORMALIZED_TABLE) * 100,
