@@ -70,7 +70,12 @@ In order to have a normalized databade model we need to review datasets attribut
   
 We do howeever have 2 datetime columns that have a high percentage of unique values This is due to the datetime date type Having a combination of days, hours, minutes, and seconds it is easy to have several thousand unique values. 
 
-<img>
+<div class="notice">
+  <p>tables in SQLite database </p>
+<figure>
+  <a href="/assets/images/normalization/datetime info.png"><img src="/assets/images/normalization/datetime info.png"></a>
+</figure>
+  </div>
 
 However hardly 50% of the total balues are unique for one day, and with the plan to insert data for at least the month of August, we can easlily begin to start seeing more redundacny. It could be interesting and fun to see how we attempt to normalzie the data. 
   
