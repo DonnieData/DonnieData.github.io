@@ -11,34 +11,12 @@ header:
       url: ""
 author_profile: True 
 ---
+
 How can we utilize database normalization to assist with analysis. 
 
-### Purpose 
-Perform database normalization to optimze data storage, which will aloow for analysis of meter data.
+Why normalize the data?
 
-
-### Steps of normalizaiton 
-
-#### Review Data 
-where can we reduce redundancy 
-- payment type
-- street block
-- meter post id 
-- payment ammount 
-- timestamps 
-
-
-#### Model Data 
-- ERD  
-
-
-#### Database 
-- create schema 
-- load data 
-
-
-Testing on transaction data for 1 day: 
-
+all transaction data for one day has been inserted into th database. Ocne as a regular table and another time within a normalized database model. 
 The below query will get the size of the normalized schema and non-normalized table(original data) in bytes, and compare the sizes.
 
 ```sql
@@ -73,6 +51,32 @@ Output:
 </table>
   
 From the above output we can see that we have been able to save almost 10% of space through normalization. While that is not currently a huge difference, as more data for each day is added to the databaase model we can save 10% of kilobytes , megabytes, and so on. 
+
+### Purpose 
+Performing database normalization to optimze data storage, and allow for easier analysis of the meter transaction data locally. 
+
+
+### Steps of normalizaiton 
+
+#### Review Data 
+In order to have a normalized databade model we need to review datasets attributes and identify opportunities to reduce redundancys.
+
+- payment type
+- street block
+- meter post id 
+- payment ammount 
+- timestamps 
+
+
+#### Model Data 
+- ERD  
+
+
+#### Database 
+- create schema 
+- load data 
+
+
 
 
 
