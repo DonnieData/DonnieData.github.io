@@ -56,10 +56,25 @@ From the above output we can see that we have been able to save almost 10% of sp
 Performing database normalization to optimze data storage, and allow for easier analysis of the meter transaction data locally. 
 
 
-### Steps of normalizaiton 
-
 #### Review Data 
 In order to have a normalized databade model we need to review datasets attributes and identify opportunities to reduce redundancys.
+<div class="notice">
+  <p>tables in SQLite database </p>
+<figure>
+  <a href="/assets/images/normalization/uniquedf.png"><img src="/assets/images/normalization/uniquedf.png"></a>
+</figure>
+  </div>
+  
+  transmission_datetime column is clearly the unique identifier/primary key for the transaction data with the column being 100% uniue. 
+  The majority of columns have a low percentage of unique values, giving us a clear answer on if they are worth normalizing into dimension tables. 
+  
+We do howeever have 2 datetime columns that have a high percentage of unique values This is due to the datetime date type Having a combination of days, hours, minutes, and seconds it is easy to have several thousand unique values. 
+
+<img>
+
+However hardly 50% of the total balues are unique for one day, and with the plan to insert data for at least the month of August, we can easlily begin to start seeing more redundacny. It could be interesting and fun to see how we attempt to normalzie the data. 
+  
+## normalizing methods for each column
 
 - payment type
 - street block
