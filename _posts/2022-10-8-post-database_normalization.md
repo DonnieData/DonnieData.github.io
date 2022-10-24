@@ -136,7 +136,7 @@ However hardly 50% of the total balues are unique for one day, and with the plan
 Below is an entity relationship diagram which delineates our fact table and dimension tables. effectively showing how data will be normailzed and how the tables will interact with each other vbased on the aformentioned normalization.
 
 
-<div class="notice" style="display:flex; justify-content: center;">
+<div class="notice" style="display:flex; justify-content: center; width="200" ">
 <figure>
   <a href="/assets/images/normalization/sf_trans_ERD.png"><img src="/assets/images/normalization/sf_trans_ERD.png"></a>
 </figure>
