@@ -58,8 +58,7 @@ Performing database normalization to optimze data storage, and allow for easier 
 
 #### Review Data 
 In order to have a normalized databade model we need to review datasets attributes and identify opportunities to reduce redundancys.
-<div class="notice">
-  <p>tables in SQLite database </p>
+<div class="notice" style="display:flex; justify-content: center; width=200;">
 <figure>
   <a href="/assets/images/normalization/uniquedf.png"><img src="/assets/images/normalization/uniquedf.png"></a>
 </figure>
@@ -70,8 +69,7 @@ In order to have a normalized databade model we need to review datasets attribut
   
 We do however have 2 datetime columns that have a high percentage of unique values This is due to the datetime date type Having a combination of days, hours, minutes, and seconds it is easy to have several thousand unique values. 
 
-<div class="notice">
-  <p>tables in SQLite database </p>
+<div class="notice" style="display:flex; justify-content: center; width=200;">
 <figure>
   <a href="/assets/images/normalization/datetime info.png"><img src="/assets/images/normalization/datetime info.png"></a>
 </figure>
