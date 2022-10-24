@@ -147,9 +147,8 @@ attribute / normalization method / grouping
 
 Below is an entity relationship diagram which delineates our fact table and dimension tables. effectively showing how data will be normailzed and how the tables will interact with each other vbased on the aformentioned normalization.
 
---ERD  
 
-The time_group table is especialy worth calling out becuase 
+
 
 #### Database 
 - create schema 
