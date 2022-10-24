@@ -65,10 +65,10 @@ In order to have a normalized databade model we need to review datasets attribut
 </figure>
   </div>
   
-  transmission_datetime column is clearly the unique identifier/primary key for the transaction data with the column being 100% uniue. 
+  *transmission_datetime* column is clearly the unique identifier/primary key for the transaction data with the column being 100% uniue. 
   The majority of columns have a low percentage of unique values, giving us a clear answer on if they are worth normalizing into dimension tables. 
   
-We do howeever have 2 datetime columns that have a high percentage of unique values This is due to the datetime date type Having a combination of days, hours, minutes, and seconds it is easy to have several thousand unique values. 
+We do however have 2 datetime columns that have a high percentage of unique values This is due to the datetime date type Having a combination of days, hours, minutes, and seconds it is easy to have several thousand unique values. 
 
 <div class="notice">
   <p>tables in SQLite database </p>
@@ -81,16 +81,56 @@ However hardly 50% of the total balues are unique for one day, and with the plan
   
 ## normalizing methods for each column
 
+attribute / normalization method / grouping 
 - payment type
 - street block
 - meter post id 
 - payment ammount 
 - timestamps 
 
+<table>
+<thead>
+<tr>
+  <th>Attribute</th>
+  <th>Normalization Method</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>post_id</td>
+  <td>Create dimension table for unique meter post id's</td>
+</tr>
+<tr>
+  <td>street_block</td>
+  <td>Create dimension table for unique street blocks</td>
+</tr>
+<tr>
+  <td>Create dimension table for unique payment types</td>
+  <td>7733248</td>
+</tr>
+<tr>
+  <td>session_start_dt</td>
+  <td>
+	<ul>  
+		<li>split into separate date and time column.reduce redundant unqique values by stripping second from time and grouping time by 5 minute intervals create dimension table for unique times</li>
+	  </ul>
+</td>
+</tr>
+<tr>
+  <td>6979584</td>
+  <td>7733248</td>
+</tr>
+</tbody>
+</table>
+
 
 #### Model Data 
-- ERD  
 
+Below is an entity relationship diagram which delineates our fact table and dimension tables. effectively showing how data will be normailzed and how the tables will interact with each other vbased on the aformentioned normalization.
+
+--ERD  
+
+The time_group table is especialy worth calling out becuase 
 
 #### Database 
 - create schema 
