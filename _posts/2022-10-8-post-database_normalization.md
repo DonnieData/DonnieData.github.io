@@ -11,10 +11,9 @@ header:
       url: ""
 author_profile: True 
 ---
-
-How can we utilize database normalization to assist with analysis. 
-
-Why normalize the data?
+### Why normalize the data?
+Normalizing a database gratly reduces redendancy in data and can allow you to save disk space which is extremly important when storage resources are limited.
+Performing database normalization will optimze data storage, and allow for easier analysis of the meter transaction data locally. 
 
 all transaction data for one day has been inserted into th database. Ocne as a regular table and another time within a normalized database model. 
 The below query will get the size of the normalized schema and non-normalized table(original data) in bytes, and compare the sizes.
@@ -51,9 +50,6 @@ Output:
 </table>
   
 From the above output we can see that we have been able to save almost 10% of space through normalization. While that is not currently a huge difference, as more data for each day is added to the databaase model we can save 10% of kilobytes , megabytes, and so on. 
-
-### Purpose 
-Performing database normalization to optimze data storage, and allow for easier analysis of the meter transaction data locally. 
 
 
 #### Review Data 
