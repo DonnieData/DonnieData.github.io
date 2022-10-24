@@ -80,14 +80,6 @@ We do however have 2 datetime columns that have a high percentage of unique valu
 However hardly 50% of the total balues are unique for one day, and with the plan to insert data for at least the month of August, we can easlily begin to start seeing more redundacny. It could be interesting and fun to see how we attempt to normalzie the data. 
   
 ## normalizing methods for each column
-
-attribute / normalization method / grouping 
-- payment type
-- street block
-- meter post id 
-- payment ammount 
-- timestamps 
-
 <table>
 <thead>
 <tr>
@@ -113,7 +105,7 @@ attribute / normalization method / grouping
   <td>
 	<ul>  
 		<li> split into separate date and time column</li>
-		<li>reduce redundant unqique values by stripping second from time and grouping time by 5 minute intervals</li> 
+		<li>reduce redundant unqique values by stripping second <br> from time and grouping time by 5 minute intervals</li> 
 		<li>create dimension table for unique times</li>
 	  </ul>
 </td>
@@ -123,7 +115,7 @@ attribute / normalization method / grouping
   <td>
   <ul>  
 		<li> split into separate date and time column</li>
-		<li>reduce redundant unqique values by stripping second from time and grouping time by 5 minute intervals</li> 
+		<li>reduce redundant unqique values by stripping second <br> from time and grouping time by 5 minute intervals</li> 
 		<li>create dimension table for unique times</li>
 	  </ul>
   </td>
@@ -132,7 +124,7 @@ attribute / normalization method / grouping
   <td>gross_paid_amt</td>
   <td>
   <ul>
-  <li>round currency float by nearest .50 to reduce redunant unique values/ create grouping </li>
+  <li>round currency float by nearest .50 to reduce redunant unique <br> values/create grouping </li>
   <li>
   create dimension table for unique payment ammounts 
   </li>
