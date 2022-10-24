@@ -112,13 +112,32 @@ attribute / normalization method / grouping
   <td>session_start_dt</td>
   <td>
 	<ul>  
-		<li>split into separate date and time column.reduce redundant unqique values by stripping second from time and grouping time by 5 minute intervals create dimension table for unique times</li>
+		<li> split into separate date and time column</li>
+		<li>reduce redundant unqique values by stripping second from time and grouping time by 5 minute intervals</li> 
+		<li>create dimension table for unique times</li>
 	  </ul>
 </td>
 </tr>
 <tr>
-  <td>6979584</td>
-  <td>7733248</td>
+  <td>session_end_dt</td>
+  <td>
+  <ul>  
+		<li> split into separate date and time column</li>
+		<li>reduce redundant unqique values by stripping second from time and grouping time by 5 minute intervals</li> 
+		<li>create dimension table for unique times</li>
+	  </ul>
+  </td>
+</tr>
+<tr>
+  <td>gross_paid_amt</td>
+  <td>
+  <ul>
+  <li>round currency float by nearest .50 to reduce redunant unique values/ create grouping </li>
+  <li>
+  create dimension table for unique payment ammounts 
+  </li>
+  </ul>
+   </td>
 </tr>
 </tbody>
 </table>
