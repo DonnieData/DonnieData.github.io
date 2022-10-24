@@ -97,10 +97,6 @@ However hardly 50% of the total balues are unique for one day, and with the plan
   <td>Create dimension table for unique street blocks</td>
 </tr>
 <tr>
-  <td>Create dimension table for unique payment types</td>
-  <td>7733248</td>
-</tr>
-<tr>
   <td>session_start_dt</td>
   <td>
 	<ul>  
