@@ -148,7 +148,14 @@ attribute / normalization method / grouping
 Below is an entity relationship diagram which delineates our fact table and dimension tables. effectively showing how data will be normailzed and how the tables will interact with each other vbased on the aformentioned normalization.
 
 
-
+<div class="notice">
+  <p>tables in SQLite database </p>
+<figure>
+  <a href="/assets/images/normalization/sf_trans_ERD.png"><img src="/assets/images/normalization/sf_trans_ERD.png"></a>
+</figure>
+  </div>
+  
+  
 
 #### Database 
 - create schema 
