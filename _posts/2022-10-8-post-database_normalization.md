@@ -143,6 +143,12 @@ Below is an entity relationship diagram which delineates our fact table and dime
 - load data 
 
 
+#### Future Updates 
+Python 
+- update script to allow for user input for date span/ranges
+
+
+
 
 
 
