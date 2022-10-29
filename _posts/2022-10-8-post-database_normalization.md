@@ -144,7 +144,7 @@ Below is an entity relationship diagram which delineates our fact table and dime
 
 
 ### Execution 
-<div style="overflow-y: scroll; height=100px">
+<div style="overflow-y: scroll; height:250px;">
 	<table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
