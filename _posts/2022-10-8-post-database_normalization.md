@@ -154,9 +154,9 @@ The below diagram outlines the entire data process:
 
 below is a log of the data which was retrieved via api by date. The data is logged once retreival and insertion into the database is complete. 
 
-**X** rows of data for the entire month of August, 2022 is now ready to be freely analyzed with data being stored locally with the most minial ammount of disk space being used. 
+**1819348** rows of data for the entire month of August, 2022 is now ready to be freely analyzed with data being stored locally with the most minial ammount of disk space being used. 
 
-<div style="overflow-y: scroll; height:250px; width:250px;">
+<div style="overflow-y: scroll; height:250px; width:400px;">
 	<table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
