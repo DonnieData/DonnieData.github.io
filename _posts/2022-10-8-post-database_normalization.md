@@ -55,7 +55,7 @@ From the above output we can see that we have been able to save almost 10% of sp
 
 #### Where Can We Normalize 
 In order to have a normalized databade model we need to review datasets attributes and identify opportunities to reduce redundancys.
-<div class="notice" style="display:flex; justify-content: center; width=200;">
+<div class="notice" style="display:flex; justify-content: center; width:300;">
 <figure>
   <a href="/assets/images/normalization/uniquedf.png"><img src="/assets/images/normalization/uniquedf.png"></a>
 </figure>
@@ -66,7 +66,7 @@ In order to have a normalized databade model we need to review datasets attribut
   
 We do however have 2 datetime columns that have a high percentage of unique values This is due to the datetime date type Having a combination of days, hours, minutes, and seconds it is easy to have several thousand unique values. 
 
-<div class="notice" style="display:flex; justify-content: center; width=200;">
+<div class="notice" style="display:flex; justify-content: center; width:300;">
 <figure>
   <a href="/assets/images/normalization/datetime info.png"><img src="/assets/images/normalization/datetime info.png"></a>
 </figure>
@@ -131,7 +131,7 @@ However hardly 50% of the total balues are unique for one day, and with the plan
 Below is an entity relationship diagram which delineates our fact table and dimension tables. effectively showing how data will be normailzed and how the tables will interact with each other vbased on the aformentioned normalization.
 
 
-<div class="notice" style="display:flex; justify-content: center; width=200;">
+<div class="notice" style="display:flex; justify-content: center; width:400; height:200px">
 
   <a href="/assets/images/normalization/sf_trans_ERD.png"><img src="/assets/images/normalization/sf_trans_ERD.png"></a>
   </div>
@@ -147,9 +147,9 @@ Below is an entity relationship diagram which delineates our fact table and dime
 The below diagram outlines the entire data process:
 
 
-<div class="notice" style="display:flex; justify-content: center; width=200;">
+<div class="notice" style="display:flex; justify-content: center; width=400;">
 
-  <a href=""><img src=""></a>
+  <a href="/assets/images/normalization/normalization etl diagram .png"><img src="/assets/images/normalization/normalization etl diagram .png"></a>
   </div>
 
 below is a log of the data which was retrieved via api by date. The data is logged once retreival and insertion into the database is complete. 
