@@ -147,7 +147,7 @@ Below is an entity relationship diagram which delineates our fact table and dime
 The below diagram outlines the entire data process:
 
 
-<div class="notice" style="display:flex; justify-content: center; width:400; height:250px">
+<div class="notice" style="display:flex; justify-content: center; width:400; height:250px;">
 
   <a href="/assets/images/normalization/normalization etl diagram .png"><img src="/assets/images/normalization/normalization etl diagram .png"></a>
   </div>
@@ -354,8 +354,7 @@ below is a log of the data which was retrieved via api by date. The data is logg
       <td>2.87</td>
     </tr>
   </tbody>
-</table>
-	
+</table>	
 </div>
 
 #### Future Updates 
