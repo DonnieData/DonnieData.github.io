@@ -143,8 +143,20 @@ Below is an entity relationship diagram which delineates our fact table and dime
 - load data 
 
 
-### Execution 
-<div style="overflow-y: scroll; height:250px;">
+### Execution - Retrieving & Normalizing 
+The below diagram outlines the entire data process:
+
+
+<div class="notice" style="display:flex; justify-content: center; width=200;">
+
+  <a href=""><img src=""></a>
+  </div>
+
+below is a log of the data which was retrieved via api by date. The data is logged once retreival and insertion into the database is complete. 
+
+**X** rows of data for the entire month of August, 2022 is now ready to be freely analyzed with data being stored locally with the most minial ammount of disk space being used. 
+
+<div style="overflow-y: scroll; height:250px; width:250px;">
 	<table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -349,6 +361,8 @@ Below is an entity relationship diagram which delineates our fact table and dime
 #### Future Updates 
 Python 
 - update script to allow for user input for date span/ranges
+-  log size of all original data combined and compare to entire normalized schema 
+-  creating non materialized database views for data analysis 
 
 
 
