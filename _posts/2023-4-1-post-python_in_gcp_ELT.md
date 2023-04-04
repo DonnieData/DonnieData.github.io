@@ -1,5 +1,5 @@
 ---
-title: "Sqlite to Postgres Database Migration"
+title: "Python With Google Cloud"
 excerpt: Migrating SQLite database to PostgreSQL for enhanced Data Management
 classes: wide
 categories:
@@ -13,7 +13,9 @@ tags:
 header:
   overlay_image: /assets/images/splash_project/phone_line.jpg
   actions:
-    - label: "View the Project" 
+    - label: "View Dashboard" 
+      url: ""
+    - label: "GitHub Repo"
       url: ""
 author_profile: True 
 ---
