@@ -127,7 +127,7 @@ feature_row4:
                   
        </div> Managing pipeline dependencies with scheduling frameworks.
     url: "https://donniedata.github.io/post/post-python_in_gcp_ELT/"
-    btn_label: "Work In Progress"
+    btn_label: "View Project"
     btn_class: "btn--primary"
   - image_path: 
     alt: "placeholder image 1"
