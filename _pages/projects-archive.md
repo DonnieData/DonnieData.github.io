@@ -100,8 +100,8 @@ feature_row3:
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">OOP</button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Packaging</button>
                                   </div> Creating custom Python Package for pipeline reporting
-    url: "#test-link"
-    btn_label: "Coming Soon"
+    url: "https://github.com/DonnieData/stage-reporter"
+    btn_label: "View Github Repo"
     btn_class: "btn--primary"
   - image_path: /assets/images/splash_project/mig_peg.jpg
     alt: "placeholder image 1"
@@ -126,7 +126,7 @@ feature_row4:
                                   </div> Using Python & Google Cloud Big Query to extract, load, and transform 311 Data for analyzing. 
                   
        </div> Managing pipeline dependencies with scheduling frameworks.
-    url: "#test-link"
+    url: "https://donniedata.github.io/post/post-python_in_gcp_ELT/"
     btn_label: "Work In Progress"
     btn_class: "btn--primary"
   - image_path: 
