@@ -11,11 +11,14 @@ tags:
   - Datawarehouse 
   - Data Modeling 
 header:
-  overlay_image: /assets/images/splash_project/mig_peg.jpg
+  overlay_image: /assets/images/splash_project/phone_line.jpg
   actions:
     - label: "View the Project" 
       url: ""
 author_profile: True 
 ---
 
-<b>SQLite</b> gives us the ability to create a simple relational database model which can be perfect for quickly getting data projects off the ground. However for any long-standing project, infrastructure needs to scale with demand and the data itself. The tables in your model will grow overtime and so will your data management needs. Enter PostreSQL! Postgres is a relational database maangement system that offers many features. 
+<b>Google CLoud Platform</b> Is a powerful ecosystem with a plethora of products for different needs. One of its offerings is Big Query, which is a robust cloud based datawarehouse. Data warehouses are genrally used to house historical data for business intellignece purposes. 
+Like many data bases and warehouses, python 
+
+Via googles credentials api remote access to cloud environments and recsources are accesible remotly. Utilizing this, In this project I develope an ELT(Extract, Load, Transform) pipeline, Using python and SQL with Big Query. I then connect one of Googles Data visualizations tool Data Studio to create an intuitive dashbaord to allow for easy interaction and analyzing of data from a businees intelligence stadnpoint. 
