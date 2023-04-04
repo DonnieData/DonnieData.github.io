@@ -116,6 +116,19 @@ feature_row3:
     btn_class: "btn--primary" 
 
 feature_row4:
+  - image_path: /assets/images/splash_project/phone_line.jpg
+    alt: "placeholder image 1"
+    title: "Python With Google Cloud" 
+    excerpt: <div style="margin:0px; margin-bottom:10px;"> 
+                  <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Google Cloud</button>
+                  <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Python</button>
+                  <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">ELT</button>
+                                  </div> Using Python & Google Cloud Big Query to extract, load, and transform 311 Data for analyzing. 
+                  
+       </div> Managing pipeline dependencies with scheduling frameworks.
+    url: "#test-link"
+    btn_label: "Work In Progress"
+    btn_class: "btn--primary"
   - image_path: 
     alt: "placeholder image 1"
     title: "Pipeline Dependencies" 
