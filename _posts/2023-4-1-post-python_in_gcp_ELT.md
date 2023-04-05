@@ -64,5 +64,5 @@ To visualize the L3 tables I connect data studio to the datawarehouse.
 The user-end product is an interactive dashboard with powerful visuals that provide insgiht into trends and performance. 
 
 
-https://lookerstudio.google.com/reporting/df6456f8-82b8-41d4-aab7-702870654ab4/page/p_kbk6ug9s4c?pli=1
+<iframe width="600" height="700" src="https://lookerstudio.google.com/embed/reporting/df6456f8-82b8-41d4-aab7-702870654ab4/page/p_kbk6ug9s4c" frameborder="0" style="border:0" allowfullscreen></iframe>
 
