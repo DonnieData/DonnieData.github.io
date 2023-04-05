@@ -24,3 +24,6 @@ author_profile: True
 Like many data bases and warehouses, python 
 
 Via googles credentials api remote access to cloud environments and recsources are accesible remotly. Utilizing this, In this project I develope an ELT(Extract, Load, Transform) pipeline, Using python and SQL with Big Query. I then connect one of Googles Data visualizations tool Data Studio to create an intuitive dashbaord to allow for easy interaction and analyzing of data from a businees intelligence stadnpoint. 
+
+
+### Google Cloud 
