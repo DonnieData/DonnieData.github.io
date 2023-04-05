@@ -53,12 +53,16 @@ Once executed python will retrieve the data and insert it into the "l1_tables" d
 
 #### Data Transformation 
 After the data is loaded into the datawarehouse. SQL is used to transform the data and create new fields. This data is housed in the l2_tables dataset.
-Then the l2 data is used to create smaller tables for specific calculations, aggregations and groupings.  
+Then the l2 data is used to create smaller tables for specific calculations, aggregations and groupings, which will be used for reporting and visualizing data.   
 
 
 ![image](https://user-images.githubusercontent.com/55963911/229974780-0a998a28-9971-4b7f-9aff-f1821a5fbb55.png)
 
+#### Data Visualization 
+
+To visualize the L3 tables I connect data studio to the datawarehouse.
+The user-end product is an interactive dashboard with powerful visuals that provide insgiht into trends and performance. 
 
 
-
+https://lookerstudio.google.com/reporting/df6456f8-82b8-41d4-aab7-702870654ab4/page/p_kbk6ug9s4c?pli=1
 
