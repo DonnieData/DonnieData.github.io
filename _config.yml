@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Donnell Jackson"
   avatar : "/assets/images/Logo.png"
-  bio    : "If its data, its doable!"
+  bio    : "If it's data, it's doable!"
   links:
     - label: "Austin, TX" 
       icon: "fas fa-map-marker-alt" 
