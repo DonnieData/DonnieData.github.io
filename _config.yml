@@ -60,6 +60,9 @@ author:
   avatar : "/assets/images/Logo.png"
   bio    : "If it's data, it's doable!"
   links:
+    - label: "New York, NY" 
+      icon: "fas fa-map-marker-alt" 
+      url: ""
     - label: "Austin, TX" 
       icon: "fas fa-map-marker-alt" 
       url: ""
