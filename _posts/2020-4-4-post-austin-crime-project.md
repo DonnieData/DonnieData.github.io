@@ -10,7 +10,8 @@ tags:
   - JSON
   - Javascript
 header:
-  overlay_image: /assets/images/norm1.jpeg
+  overlay_image: /assets/images/austin_eda/austin-banner3.jpg
+  overlay_filter: 0.5 
   actions:
     - label: "View the Web App" 
       url: "https://donniedata.github.io/austin_crime_EDA/"
