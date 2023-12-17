@@ -1,6 +1,6 @@
 ---
 title: "Austin Crime Data Engineering & Analysis"
-excerpt: <> 
+excerpt: Austin Crime Data Engineering & Analysis
 classes: wide
 categories:
   - Post
@@ -10,6 +10,7 @@ tags:
   - JSON
   - Javascript
 header:
+  overlay_image: /assets/images/norm1.jpeg
   actions:
     - label: "View the Web App" 
       url: "https://donniedata.github.io/austin_crime_EDA/"
