@@ -10,7 +10,7 @@ tags:
   - JSON
   - Javascript
 header:
-  overlay_image: /assets/images/austin_eda/austin-banner3.jpg
+  overlay_image: /assets/images/austin_eda/austin-banner3.jpeg
   overlay_filter: 0.5 
   actions:
     - label: "View the Web App" 
