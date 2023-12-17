@@ -66,7 +66,7 @@ feature_row2:
                   <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">ETL</button>
                   <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Javascript</button>
                                  </div> Austin Crime Data Analysis
-    url: "https://donniedata.github.io/post/austin-crime-project/"
+    url: "https://donniedata.github.io/post/post-austin-crime-project/"
     btn_label: "View Project"
     btn_class: "btn--primary" 
   - image_path: /assets/images/norm1.jpeg
