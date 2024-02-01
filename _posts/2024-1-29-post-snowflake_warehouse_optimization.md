@@ -26,11 +26,19 @@ notice: all charts are interactive, can be hovered over and clicked.
 With the advent of cloud computing and its related services such as cloud storage. data lifecyle ecosystems are going thorugh a big change. One common overhall hapening within companys due to this is going from onsite database and storage to cloud-based. With this comes a need for data related teams to have a better operational understanding. 
 A new concept is cloud pricing models and credit consumption. 
 
-This project will focus on query cost within Snowflake which is a Software as a Service(SaaS), offering cloud related services and tools.
+This project will focus on optimizing for query cost in Snowflake - a popular Software as a Service(SaaS) for cloud data services and tools. 
 
 ### Snowflake - Warehouses & Structure 
-- overview
-- warehouses and database and storage 
+
+As a quick overview...
+Snowflake operates in 3 layers that interact with each other: 
+- Storage Layer - Where data is stored
+-  Compute Layer -  Query handling, security, metadata, cloud compute services 
+-  Cloud Services Layer - 
+
+
+x is where warehouses are, y is where compute is 
+
 
 ### Snowflake 
 - test query
