@@ -26,19 +26,21 @@ notice: all charts are interactive, can be hovered over and clicked.
 With the advent of cloud computing and its related services such as cloud storage. data lifecyle ecosystems are going thorugh a big change. One common overhall hapening within companys due to this is going from onsite database and storage to cloud-based. With this comes a need for data related teams to have a better operational understanding. 
 A new concept is cloud pricing models and credit consumption. 
 
-This project will focus on optimizing for query cost in Snowflake - a popular Software as a Service(SaaS) for cloud data services and tools. 
+This project will focus on operation optimizing through warehouses for query cost in Snowflake - a popular Software as a Service(SaaS) for cloud data services and tools. 
 
 ### Snowflake - Warehouses & Structure 
 
 As a quick overview...
 Snowflake operates in 3 layers that interact with each other: 
-- Storage Layer - Where data is stored
--  Compute Layer -  Query handling, security, metadata, cloud compute services 
--  Cloud Services Layer - 
+- Storage Layer - Where data is stored in micro partitions, data storage billing calculation
+-  Compute Layer - virtual warehosues, compute credits/ consumption 
+-  Cloud Services Layer - management, Query handling, security, metadata, cloud compute services 
 
+We will focus on the compute layer, becuase it is where virtual warehouses are handled and how credit consumption is calcualted. 
 
-x is where warehouses are, y is where compute is 
+Running a virtual warehouse will cause spending credits to be consummed. Credit consumption is effected by various things but primarly determined by the size of a warehouse and ammount of time its running. Digging deeper the ammount of time it is running dpeends on the complexity of a query and the ammount of data being queried/ scanned  
 
+to 
 
 ### Snowflake 
 - test query
