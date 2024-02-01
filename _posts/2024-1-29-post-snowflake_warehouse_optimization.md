@@ -20,7 +20,7 @@ author_profile: True
 
 notice: all charts are interactive, can be hovered over and clicked. 
 
-### Project Overview 
+## Project Overview 
 - cost optimization
 
 With the advent of cloud computing and its related services such as cloud storage. data lifecyle ecosystems are going thorugh a big change. One common overhall hapening within companys due to this is going from onsite database and storage to cloud-based. With this comes a need for data related teams to have a better operational understanding. 
@@ -28,7 +28,7 @@ A new concept is cloud pricing models and credit consumption.
 
 This project will focus on operation optimizing through warehouses for query cost in Snowflake - a popular Software as a Service(SaaS) for cloud data services and tools. 
 
-### Snowflake - Warehouses & Structure 
+## Snowflake 
 
 As a quick overview...
 Snowflake operates in 3 layers that interact with each other: 
@@ -42,12 +42,15 @@ Running a virtual warehouse will cause spending credits to be consummed. Credit 
 
 Snowflake allows you to spin up numerous warehouses that auto suspend when not being used. This allows users to create differnet sized warehosues for differnt or specifc jobs, which allows us to optimize for time and speedi n query performance. 
 
-### Snowflake 
-- test query
+## Testing Warehosue Performance 
+
+### Warehouse setup 
+
+### test query
 - setting up warehouses
 - review query result stats 
 
-### Testing Query performaance
+### Results 
 - execute in warehouses collect result data 
 
 
