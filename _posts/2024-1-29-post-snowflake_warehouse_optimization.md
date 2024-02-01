@@ -22,7 +22,12 @@ notice: all charts are interactive, can be hovered over and clicked.
 
 ### Project Overview 
 - cost optimization
-- 
+
+With the advent of cloud computing and its related services such as cloud storage. data lifecyle ecosystems are going thorugh a big change. One common overhall hapening within companys due to this is going from onsite database and storage to cloud-based. With this comes a need for data related teams to have a better operational understanding. 
+A new concept is cloud pricing models and credit consumption. 
+
+This project will focus on query cost within Snowflake which is a Software as a Service(SaaS), offering cloud related services and tools.
+
 ### Snowflake - Warehouses & Structure 
 - overview
 - warehouses and database and storage 
