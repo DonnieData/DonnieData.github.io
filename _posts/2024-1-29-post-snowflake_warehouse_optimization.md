@@ -47,6 +47,7 @@ I will be using an enterprise edtition of snowflake with a US Central 1 (Iowa) s
 
 ### Warehouse setup 
 A standard warehouse for warehosues sizes xs - 4xl are setup:
+
 ![](https://github.com/DonnieData/snowflake_warehouse_op/blob/main/media/warehouses_in_snowsight.png)
 
 ### test query
@@ -57,12 +58,7 @@ The same [test query](https://github.com/DonnieData/snowflake_warehouse_op/blob/
 - setting up warehouses
 - review query result stats 
 
-### Results 
-- execute in warehouses collect result data 
-
-
-### Cost & Performance Analysis 
-- analyze 
+### Results - Cost & Performance Analysis 
 
 
 <iframe width="1000" height="550" src="https://lookerstudio.google.com/embed/reporting/225f4ea2-e3d9-482f-8125-9972eaceb14f/page/PTDoD" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
