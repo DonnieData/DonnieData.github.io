@@ -44,6 +44,8 @@ Snowflake allows you to spin up numerous warehouses that auto suspend when not b
 
 ## Testing Warehosue Performance 
 
+
+
 ### Warehouse setup 
 
 ### test query
