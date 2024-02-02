@@ -43,12 +43,17 @@ Running a virtual warehouse will cause spending credits to be consummed. Credit 
 Snowflake allows you to spin up numerous warehouses that auto suspend when not being used. This allows users to create differnet sized warehosues for differnt or specifc jobs, which allows us to optimize for time and speedi n query performance. 
 
 ## Testing Warehosue Performance 
-
-
+I will be using an enterprise edtition of snowflake with a US Central 1 (Iowa) storage region. For this setup 1 Snowflake credit = $3 USD 
 
 ### Warehouse setup 
+A standard warehouse for warehosues sizes xs - 4xl are setup:
+![](https://github.com/DonnieData/snowflake_warehouse_op/blob/main/media/warehouses_in_snowsight.png)
 
 ### test query
+For this project scenario we are testing a query which will be ran once a day and will query a large ammount of data that will be used for a company report.
+
+The same [test query](https://github.com/DonnieData/snowflake_warehouse_op/blob/main/SQL/project_test_query.sql) will be ran once for all of our warehouse sizes and we will track perfomance metrics. 
+
 - setting up warehouses
 - review query result stats 
 
