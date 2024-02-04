@@ -31,7 +31,7 @@ Snowflake operates in 3 primary layers that interact with each other:
 - Storage Layer - handles data storage in micro partitions, data storage billing
 - Compute Layer - handles virtual warehouse, compute credits, credit consumption 
 - Cloud Services Layer - handles account management, query execution, security, metadata, cloud compute services
-<!--- need to reduce auto line spacing from markdowns when using bullets-->
+
 #### Compute Layer & Virtual Warehouses
 The compute layer is where virtual warehouses are handled and how credit consumption is calcualted. Virtual warehouses are CPU's that allow the processesing/executions of jobs.
 
