@@ -80,7 +80,7 @@ where query_id in (
 '01b2011d-0001-adb9-0002-81260003a086'
 );
 ````
-<div class="notice">
+<div class="notice--info">
 <figure>
   <a href="/assets/images/snowflake_op/query_stats_shot1s.jpg"><img src="/assets/images/snowflake_op/query_stats_shot1s.jpg"></a>
 </figure>
