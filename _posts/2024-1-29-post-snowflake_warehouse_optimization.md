@@ -60,7 +60,7 @@ For this project scenario we are testing a query which will be ran once a day an
 
 The same [test query](https://github.com/DonnieData/snowflake_warehouse_op/blob/main/SQL/project_test_query.sql) will be ran once for all of our warehouse sizes and we will track perfomance metrics. 
 
-#### Results
+#### Execution Data
 To understand and be able to compare warehouse peroformance with the test query I will gather query execution metrics from snowflake. These metrics can be retrieved via the query_id which is a system generated unique id for each query. Using query id I get the metrics from the snowflake system by querying internal system tables `snowflake.account_usage.query_history`
 
 ```sql 
@@ -94,14 +94,14 @@ where query_id in (
 
 ##  Cost & Performance Analysis 
 
-<div class="notice">
+
 <iframe width="1000" height="550" src="https://lookerstudio.google.com/embed/reporting/225f4ea2-e3d9-482f-8125-9972eaceb14f/page/PTDoD" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
-</div>
+
 
 
 <div class="notice">
-- steady decline / dramatic decline in execution time with each increase of warehouse size 
-- there is also a clear decline in price ,showing that there  is alaso a finacnial upside to increasing warehouse size for our test report queery. 
+<li>steady decline / dramatic decline in execution time with each increase of warehouse size </li>
+<li>there is also a clear decline in price ,showing that there  is alaso a finacnial upside to increasing warehouse size for our test report queery. </li>
 </div>
 
 
@@ -132,7 +132,7 @@ For this optimization test to determine the best warehouse to handle this query.
 - However 2xl cost more but also significantly reduces the time so..
 
 
-## Next Steps / Future updates 
+## Future updates 
 
 
 
