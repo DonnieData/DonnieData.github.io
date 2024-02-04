@@ -53,12 +53,10 @@ A standard warehouse for ecah size betwen x-small to 4X-Large is setup:
 
 #### Test Query
 For this project scenario we are testing a query which will be ran once a day and will query a large ammount of data that will be used for a company report.
-
-
 The same [test query](https://github.com/DonnieData/snowflake_warehouse_op/blob/main/SQL/project_test_query.sql) will be ran once for all of our warehouse sizes and we will track perfomance metrics. 
 
 #### Execution Data
-To understand and be able to compare warehouse peroformance with the test query I will gather query execution metrics from snowflake. These metrics can be retrieved via the query_id which is a system generated unique id for each query. Using query id I get the metrics from the snowflake system by querying internal system tables `snowflake.account_usage.query_history`
+Query execution metrics metrics can be retrieved via the query_id which is a system generated unique id for each query. Using the query_id for each execution I get the metrics from the snowflake system by querying the internal system tables **snowflake.account_usage.query_history**.
 
 ```sql 
 select 
