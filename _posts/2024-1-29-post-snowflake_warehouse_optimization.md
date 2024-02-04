@@ -18,7 +18,7 @@ header:
 author_profile: True
 sidebar:
   title: "Navigation"
-  nav: sf1-navbar
+  nav: sf1-navbar1
 ---
 
 
