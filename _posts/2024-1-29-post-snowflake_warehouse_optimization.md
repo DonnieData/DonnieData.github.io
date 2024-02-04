@@ -61,8 +61,33 @@ The same [test query](https://github.com/DonnieData/snowflake_warehouse_op/blob/
 #### Results
 To understand and be able to compare warehouse peroformance with the test query I will gather query execution metrics from snowflake. These metrics can be retrieved via the query_id which is a system generated unique id for each query. Using query id I get the metrics from the snowflake system by querying internal system tables `snowflake.account_usage.query_history`
 
-
-<query> 
+```sql 
+select 
+query_id
+,session_id
+,credits_used_cloud_services
+,total_elapsed_time
+,bytes_scanned
+,execution_time
+,warehouse_name
+,warehouse_size
+from snowflake.account_usage.query_history
+where query_id in (
+'01b1fa62-0001-ad59-0002-81260002e02a',
+'01b1da24-0001-a992-0002-812600016096',
+'01b1dd9d-0001-a9b6-0002-81260001a026',
+'01b1ddd6-0001-a9c1-0002-81260001d042',
+'01b1ddff-0001-a9c1-0002-81260001d052',
+'01b1ea5f-0001-ab26-0002-812600027062',
+'01b1de5d-0001-aa23-0002-81260001e0a6',
+'01b2011d-0001-adb9-0002-81260003a086'
+);
+````
+<div class="notice">
+<figure>
+  <a href="/assets/images/snowflake_op/query_stats_shot1s.jpg"><img src="/assets/images/snowflake_op/query_stats_shot1s.jpg"></a>
+</figure>
+</div>
 
 
 ##  Cost & Performance Analysis 
