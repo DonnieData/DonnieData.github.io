@@ -18,7 +18,6 @@ header:
 author_profile: True 
 ---
 
-notice: all charts are interactive, can be hovered over and clicked. 
 
 ## Project Overview 
 With the advent of cloud computing and its related services such as cloud storage. data lifecyle ecosystems are going thorugh a big change. One common overhall hapening within companys due to this is going from onsite database and storage to cloud-based. With this comes a need for data related teams to have a better operational understanding. 
@@ -43,7 +42,7 @@ Snowflake allows you to spin up numerous warehouses that auto suspend when not b
 ## Testing Warehosue Performance 
 I will be using an enterprise edtition of snowflake with a US Central 1 (Iowa) storage region. For this setup 1 Snowflake credit = $3 USD 
 
-#### Warehouse setup 
+#### Warehouse Setup 
 A standard warehouse for ecah size betwen x-small to 4X-Large is setup:
 
 <div class="notice">
@@ -92,7 +91,14 @@ where query_id in (
 
 ##  Cost & Performance Analysis 
 
+<div class="notice">
 <iframe width="1000" height="550" src="https://lookerstudio.google.com/embed/reporting/225f4ea2-e3d9-482f-8125-9972eaceb14f/page/PTDoD" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+</div>
+- steady decline / dramatic decline in execution time with each increase of warehouse size 
+- there is also a clear decline in price ,showing that there  is alaso a finacnial upside to increasing warehouse size for our test report queery. 
+<div class="notice">
+  
+</div>
 
 
 <iframe width="1000" height="550" src="https://lookerstudio.google.com/embed/reporting/7e473c99-2c13-43b2-bb3b-d8e068e03b66/page/PTDoD" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
