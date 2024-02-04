@@ -5,6 +5,7 @@ main:
     url: /posts/
   - title: "About"
     url: /about/
+    
 sf-navbar1:
  - title: "Navigation"
     children:
@@ -16,6 +17,7 @@ sf-navbar1:
         url: /
       - title: "Section3"
         url: /
+        
 sf-navbar2:
  - title: "Overview"
     children:
