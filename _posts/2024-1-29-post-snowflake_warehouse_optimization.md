@@ -115,15 +115,22 @@ where query_id in (
 
 <iframe width="1000" height="550" src="https://lookerstudio.google.com/embed/reporting/5ee1d556-9e16-4e82-989f-d278e2a2d593/page/PTDoD" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
 
- - cost decreases all the way to extra large 
--cost increases going to 2xl, however this can be worth it in cost difference depending on severity /urgency the data is needed
-- given that  the 2 xl procvides alomst  a %50 percent time decrease for %2 in reporting. --> keep in mind that while we are dealing with minutes as queries get more complex or data increases the warehouses will provide a similiar relationship / trade off.
+ - cost decreases all the way to extra large warehouse
+- cost increases going from xl to  2xl, however this can be worth it in cost difference depending on severity /urgency the data is needed
+- given that the 2 xl provides  alomst a 50 %percent time decrease for 2% increase reporting. --> keep in mind that while we are dealing with minutes as queries get more complex or data increases the warehouses will provide a similiar relationship / trade off.
 
 for example if a xl warehouse takes an hour to run a query, a 2xl may significantly reduce that time for a minimal price increase. 
 
 In the case where time severity is not an issue and we are stricktly optimizing ofr cost and not performance then xl is the way to go 
 
 ## Outcome 
+
+For this optimization test to determine the best warehouse to handle this query.
+- it is between xl and 2xl. While xl and 2xl have higher costs, the ammount of time they need to be active is much smaller.
+- xl is the clear winner, it continues the trend of reducing execution time 50% or more as it should due to it being double the previous wrehouse size. it also is results in less cost.
+
+- However 2xl cost more but also significantly reduces the time so..
+
 
 ## Next Steps / Future updates 
 
