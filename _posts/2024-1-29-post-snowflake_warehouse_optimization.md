@@ -91,7 +91,7 @@ where query_id in (
 
 <iframe width="1000" height="550" src="https://lookerstudio.google.com/embed/reporting/225f4ea2-e3d9-482f-8125-9972eaceb14f/page/PTDoD" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
 
-<div class="notice" style="font:20px">
+<div class="notice">
 <li>Chart shows query exectuion time and cost of query execution by warehouse size from smallest to larges.</li>
 <li>We see a steep declines in execution time as we increase warehosue size</li>
 <li>There is also a clear decline in price ,showing that there  is also a finacnial upside to increasing warehouse size for our test report queery. </li>
@@ -109,7 +109,7 @@ where query_id in (
 <div style="background-color: #f2f3f3">
 - Chart shows query cost by warehouse size. Table shows change in cost as warehosue size increases.
 - We see cost decreases all the way to extra large warehouse.
-- Cost begins to increases going from X-Large to 2X-Large warehouse, 
+- Cost begins to increases going from X-Large to 2X-Large warehouse
 </div>
 
 # Conclusion 
