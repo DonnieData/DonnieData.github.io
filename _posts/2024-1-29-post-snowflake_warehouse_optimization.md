@@ -106,29 +106,27 @@ where query_id in (
 
 <iframe width="1000" height="550" src="https://lookerstudio.google.com/embed/reporting/7e473c99-2c13-43b2-bb3b-d8e068e03b66/page/PTDoD" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
 
-- chart shows execution time(miutes) for test query by  warehosue size.
-- table shows the percentage change in execution time(minutes) as the warehouse increases to the next size.
-- execution time decreases roughly 50% or more all the way down to 2XL - this is a good relationship considering with each ware hosue size increase CPU resources and credit 
-- 
+- Chart shows query execution time(miutes) by warehosue size.Table shows the percentage change in execution time(minutes) as the warehouse increases in size.
+- We see execution time decreases roughly 50% or more all the way up to 2X-Large wareosue size. 
 
 
 <iframe width="1000" height="550" src="https://lookerstudio.google.com/embed/reporting/5ee1d556-9e16-4e82-989f-d278e2a2d593/page/PTDoD" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
 
- - cost decreases all the way to extra large warehouse
-- cost increases going from xl to  2xl, however this can be worth it in cost difference depending on severity /urgency the data is needed
-- given that the 2 xl provides  alomst a 50 %percent time decrease for 2% increase reporting. --> keep in mind that while we are dealing with minutes as queries get more complex or data increases the warehouses will provide a similiar relationship / trade off.
-
-for example if a xl warehouse takes an hour to run a query, a 2xl may significantly reduce that time for a minimal price increase. 
-
-In the case where time severity is not an issue and we are stricktly optimizing ofr cost and not performance then xl is the way to go 
+- Chart shows query cost by warehouse size. Table shows change in cost as warehosue size increases.
+- We see cost decreases all the way to extra large warehouse.
+- Cost begins to increases going from X-Large to 2X-Large warehouse, 
 
 ## Outcome 
+For this optimization project I ran the same query in several warehouses and reviewed execution data to reveal which warehouse size is best for the job. 
 
-For this optimization test to determine the best warehouse to handle this query.
-- it is between xl and 2xl. While xl and 2xl have higher costs, the ammount of time they need to be active is much smaller.
-- xl is the clear winner, it continues the trend of reducing execution time 50% or more as it should due to it being double the previous wrehouse size. it also is results in less cost.
+Based on the data an X-large or 2X-large warehouse are the best choices for perfromance(execution time and cost). 
+The X-Large warehouse provides the best combiniation of time eficney and cost. 
+in a the scenario in which the need for updated data is urgent, we have 2X-Large warehouse as a secomdary option. In which this warehouse size almsot halfs execution time for a relativley small price increase(3%).
 
-- However 2xl cost more but also significantly reduces the time so..
+Although the execution time differnence of 5minutes between the X-Large and 2X-large can seem negligible at this scope level. It is important to note that this time and cost relationship will generally be maintained at scale. 
+Given a scenario in which a X-Large warehouse takes 1 hour to finish running, its likey that scaling up to 2X-large will reduce the execution time around 50%* for a cost increase of roughly 3%.
+
+
 
 
 ## Future updates 
