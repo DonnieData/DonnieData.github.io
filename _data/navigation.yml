@@ -6,22 +6,4 @@ main:
   - title: "About"
     url: /about/
     
-sf-navbar1:
- - title: "Navigation"
-    children:
-      - title: "Overview"
-        url: /
-      - title: "Section1"
-        url: /
-      - title: "Section2"
-        url: /
-      - title: "Section3"
-        url: /
-        
-sf-navbar2:
- - title: "Overview"
-    children:
-      - title: "Child Page A1"
-        url: /
-      - title: "Child Page A2"
-        url: /
+
