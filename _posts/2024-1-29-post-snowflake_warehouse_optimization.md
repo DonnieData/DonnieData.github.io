@@ -1,7 +1,7 @@
 ---
 title: "Snowflake Virtual Warehouse Scaling"
 excerpt: Analyzing query performance with Snowflake warehouses. 
-
+classes: wide
 categories:
   - Post
 tags:
