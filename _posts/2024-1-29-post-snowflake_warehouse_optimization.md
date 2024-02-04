@@ -97,10 +97,11 @@ where query_id in (
 <div class="notice">
 <iframe width="1000" height="550" src="https://lookerstudio.google.com/embed/reporting/225f4ea2-e3d9-482f-8125-9972eaceb14f/page/PTDoD" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
 </div>
+
+
+<div class="notice">
 - steady decline / dramatic decline in execution time with each increase of warehouse size 
 - there is also a clear decline in price ,showing that there  is alaso a finacnial upside to increasing warehouse size for our test report queery. 
-<div class="notice">
-  
 </div>
 
 
@@ -110,8 +111,6 @@ where query_id in (
 - table shows the percentage change in execution time(minutes) as the warehouse increases to the next size.
 - execution time decreases roughly 50% or more all the way down to 2XL - this is a good relationship considering with each ware hosue size increase CPU resources and credit 
 - 
-
-
 
 
 <iframe width="1000" height="550" src="https://lookerstudio.google.com/embed/reporting/5ee1d556-9e16-4e82-989f-d278e2a2d593/page/PTDoD" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
