@@ -16,17 +16,10 @@ header:
     - label: "GitHub Repo"
       url: ""
 author_profile: True
-sidebar:
-- title: "Sample Title"
-- nav:
-  children:
-  - title: "Child Page A1"
-    url: /
-
 ---
 
 
-# Prject Overview 
+# Project Overview 
 Snowflake is a Software as a Service(SaaS) for cloud data services and tools. 
 This project will focus on optimizing operations in Snowflake through warehouse scaling. Scaling by warehouse size and testing performance with the same query will allow me to gather metrics and analyze which is the best virutal warehouse for the job.
 
