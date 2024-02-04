@@ -21,8 +21,6 @@ author_profile: True
 notice: all charts are interactive, can be hovered over and clicked. 
 
 ## Project Overview 
-- cost optimization
-
 With the advent of cloud computing and its related services such as cloud storage. data lifecyle ecosystems are going thorugh a big change. One common overhall hapening within companys due to this is going from onsite database and storage to cloud-based. With this comes a need for data related teams to have a better operational understanding. 
 A new concept is cloud pricing models and credit consumption. 
 
@@ -45,9 +43,8 @@ Snowflake allows you to spin up numerous warehouses that auto suspend when not b
 ## Testing Warehosue Performance 
 I will be using an enterprise edtition of snowflake with a US Central 1 (Iowa) storage region. For this setup 1 Snowflake credit = $3 USD 
 
-### Warehouse setup 
-A standard warehouse for warehosues sizes xs - 4xl are setup:
-
+#### Warehouse setup 
+A standard warehouse for ecah size betwen x-small to 4X-Large is setup:
 
 <div class="notice">
 <figure>
@@ -55,19 +52,20 @@ A standard warehouse for warehosues sizes xs - 4xl are setup:
 </figure>
 </div>
 
-### test query
+#### Test Query
 For this project scenario we are testing a query which will be ran once a day and will query a large ammount of data that will be used for a company report.
 
 
 The same [test query](https://github.com/DonnieData/snowflake_warehouse_op/blob/main/SQL/project_test_query.sql) will be ran once for all of our warehouse sizes and we will track perfomance metrics. 
 
-- setting up warehouses
-- review query result stats 
-
-### Results - Cost & Performance Analysis 
+#### Results
+To understand and be able to compare warehouse peroformance with the test query I will gather query execution metrics from snowflake. These metrics can be retrieved via the query_id which is a system generated unique id for each query. Using query id I get the metrics from the snowflake system by querying internal system tables `snowflake.account_usage.query_history`
 
 
+<query> 
 
+
+##  Cost & Performance Analysis 
 
 <iframe width="1000" height="550" src="https://lookerstudio.google.com/embed/reporting/225f4ea2-e3d9-482f-8125-9972eaceb14f/page/PTDoD" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
 
