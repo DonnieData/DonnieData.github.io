@@ -17,7 +17,7 @@ header:
       url: ""
 author_profile: True
 sidebar:
-  title: "Sample Title"
+- title: "Sample Title"
   children:
       - title: "Child Page A1"
         url: /
