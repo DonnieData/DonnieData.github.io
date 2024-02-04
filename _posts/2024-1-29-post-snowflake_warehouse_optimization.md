@@ -31,7 +31,14 @@ As a quick overview...
 Snowflake operates in 3 layers that interact with each other: 
 - Storage Layer - Where data is stored in micro partitions, data storage billing calculation
 -  Compute Layer - virtual warehosues, compute credits/ consumption 
--  Cloud Services Layer - management, Query handling, security, metadata, cloud compute services 
+-  Cloud Services Layer - management, Query handling, security, metadata, cloud compute services
+
+Snowflake operates in 3 layers that interact with each other: 
+<ul style="padding-left:20px">
+    <li>Storage Layer - Where data is stored in micro partitions, data storage billing calculation</li>
+    <li>Compute Layer - virtual warehosues, compute credits/ consumption</li>
+    <li>Cloud Services Layer - management, Query handling, security, metadata, cloud compute services</li>
+</ul>
 
 We will focus on the compute layer, becuase it is where virtual warehouses are handled and how credit consumption is calcualted. 
 
