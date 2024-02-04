@@ -1,5 +1,5 @@
 ---
-title: "Snowflake Query & Warehouse Optimization"
+title: "Snowflake Virtual Warehouse Scaling"
 excerpt: Analyzing query performance with Snowflake warehouses. 
 classes: wide
 categories:
@@ -19,28 +19,24 @@ author_profile: True
 ---
 
 
-## Project Overview 
-With the advent of cloud computing and its related services such as cloud storage. data lifecyle ecosystems are going thorugh a big change. One common overhall hapening within companys due to this is going from onsite database and storage to cloud-based. With this comes a need for data related teams to have a better operational understanding. 
-A new concept is cloud pricing models and credit consumption. 
+## Prject Overview 
+Snowflake is a Software as a Service(SaaS) for cloud data services and tools. 
+This project will focus on optimizing operations in Snowflake through warehouse scaling. Scaling by warehouse size and testing performance with the same query will allow me to gather metrics and analyze which is the best virutal warehouse for the job.
 
-This project will focus on operation optimizing through warehouses for query cost in Snowflake - a popular Software as a Service(SaaS) for cloud data services and tools. 
-
-## Snowflake 
-
-As a quick overview...
-Snowflake operates in 3 layers that interact with each other: 
-- Storage Layer - Where data is stored in micro partitions, data storage billing calculation
-- Compute Layer - virtual warehosues, compute credits/ consumption 
-- Cloud Services Layer - management, Query handling, security, metadata, cloud compute services
+## Snowflake - Quick Overview 
+internal ecosystem
+Snowflake operates in 3 primary layers that interact with each other: 
+- Storage Layer - handles data storage in micro partitions, data storage billing
+- Compute Layer - handles virtual warehouse, compute credits, credit consumption 
+- Cloud Services Layer - handles account management, query execution, security, metadata, cloud compute services
 
 <!--- need to reduce auto line spacing from markdowns when using bullets-->
+**Compute Layer & Virtual Warehouses**
+The compute layer is where virtual warehouses are handled and how credit consumption is calcualted. Virtual warehouses are CPU's that allow the processesing/executions of jobs.
 
+Running a virtual warehouse will cause credits to be consummed. Credit consumption is effected by various things but primarly determined by the size of a warehouse and ammount of time its running. Digging deeper the ammount of time it is running dpeends on the complexity of a query and the ammount of data being queried/ scanned  
 
-We will focus on the compute layer, becuase it is where virtual warehouses are handled and how credit consumption is calcualted. 
-
-Running a virtual warehouse will cause spending credits to be consummed. Credit consumption is effected by various things but primarly determined by the size of a warehouse and ammount of time its running. Digging deeper the ammount of time it is running dpeends on the complexity of a query and the ammount of data being queried/ scanned  
-
-Snowflake allows you to spin up numerous warehouses that auto suspend when not being used. This allows users to create differnet sized warehosues for differnt or specifc jobs, which allows us to optimize for time and speedi n query performance. 
+Snowflake allows you to spin up numerous warehouses that auto suspend when not being used. This allows users to create differnet sized warehosues for a specifc jobs, which allows us to optimize for time and cost ofr jobs.
 
 ## Testing Warehosue Performance 
 I will be using an enterprise edtition of snowflake with a US Central 1 (Iowa) storage region. For this setup 1 Snowflake credit = $3 USD 
@@ -127,9 +123,6 @@ Although the execution time differnence of 5minutes between the X-Large and 2X-l
 Given a scenario in which a X-Large warehouse takes 1 hour to finish running, its likey that scaling up to 2X-large will reduce the execution time around 50%* for a cost increase of roughly 3%.
 
 
-
-
-## Future updates 
-
-
+## Future Updates 
+Testing Scaling up vs scaling out with multiple queries in same job block.
 
