@@ -15,7 +15,13 @@ header:
   actions:
     - label: "GitHub Repo"
       url: ""
-author_profile: True 
+author_profile: True
+sidebar:
+  title: "Sample Title"
+  children:
+      - title: "Child Page A1"
+        url: /
+
 ---
 
 
