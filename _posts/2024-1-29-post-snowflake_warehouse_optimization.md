@@ -97,7 +97,7 @@ where query_id in (
 
 <iframe width="1000" height="550" src="https://lookerstudio.google.com/embed/reporting/225f4ea2-e3d9-482f-8125-9972eaceb14f/page/PTDoD" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
 
-<div class="notice" style ="font-size:18px">
+<div class="notice" style="font-size:20px">
 <li>steady decline / dramatic decline in execution time with each increase of warehouse size </li>
 <li>there is also a clear decline in price ,showing that there  is alaso a finacnial upside to increasing warehouse size for our test report queery. </li>
 </div>
