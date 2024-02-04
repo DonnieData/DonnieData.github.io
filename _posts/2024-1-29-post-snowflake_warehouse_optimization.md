@@ -103,6 +103,13 @@ where query_id in (
 
 <iframe width="1000" height="550" src="https://lookerstudio.google.com/embed/reporting/7e473c99-2c13-43b2-bb3b-d8e068e03b66/page/PTDoD" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
 
+- chart shows execution time(miutes) for test query by  warehosue size.
+- table shows the percentage change in execution time(minutes) as the warehouse increases to the next size.
+- execution time decreases roughly 50% or more all the way down to 2XL - this is a good relationship considering with each ware hosue size increase CPU resources and credit 
+- 
+
+
+
 
 <iframe width="1000" height="550" src="https://lookerstudio.google.com/embed/reporting/5ee1d556-9e16-4e82-989f-d278e2a2d593/page/PTDoD" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
 
