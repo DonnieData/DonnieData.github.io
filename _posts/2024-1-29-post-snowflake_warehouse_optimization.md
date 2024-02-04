@@ -16,6 +16,10 @@ header:
     - label: "GitHub Repo"
       url: ""
 author_profile: True
+sidebar:
+- title: "Navigation"
+  text: "link 1"
+  url: "https://developer.mozilla.org/en-US/docs/Web/CSS/line-height"
 ---
 
 
