@@ -106,9 +106,9 @@ where query_id in (
 
 <iframe width="1000" height="550" src="https://lookerstudio.google.com/embed/reporting/5ee1d556-9e16-4e82-989f-d278e2a2d593/page/PTDoD" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
 
-<div style="background-color: #f2f3f3; padding:10px">
+<div style="background-color: #daedf1; padding:15px; border-radius: 10px;">
 <li>Chart shows query cost by warehouse size. Table shows change in cost as warehosue size increases</li>
-<li></li>We see cost decreases all the way to extra large warehouse</li>
+<li>We see cost decreases all the way to extra large warehouse</li>
 <li>Cost begins to increases going from X-Large to 2X-Large warehouse</li>
 </div>
 
