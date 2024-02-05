@@ -91,7 +91,7 @@ where query_id in (
 
 <iframe width="1000" height="550" src="https://lookerstudio.google.com/embed/reporting/225f4ea2-e3d9-482f-8125-9972eaceb14f/page/PTDoD" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
 
-<div style="background-color: #daedf1; padding:5px; border-radius: 10px;margin-bottom:10px">
+<div style="background-color: #daedf1; padding:5px; border-radius: 4px;margin-bottom:10px">
   <ul>
 <li>Chart shows query exectuion time and cost of query execution by warehouse size from smallest to larges.</li>
 <li>We see a steep declines in execution time as we increase warehosue size</li>
@@ -102,7 +102,7 @@ where query_id in (
 
 <iframe width="1000" height="550" src="https://lookerstudio.google.com/embed/reporting/7e473c99-2c13-43b2-bb3b-d8e068e03b66/page/PTDoD" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
 
-<div style="background-color: #daedf1; padding:5px; border-radius: 10px;margin-bottom:10px">
+<div style="background-color: #daedf1; padding:5px; border-radius:4px;margin-bottom:10px">
   <ul> 
 <li>Chart shows query execution time(miutes) by warehosue size.Table shows the percentage change in execution time(minutes) as the warehouse increases in size.</li>
 <li>We see execution time decreases roughly 50% or more all the way up to 2X-Large wareosue size </li>
@@ -111,7 +111,7 @@ where query_id in (
 
 <iframe width="1000" height="550" src="https://lookerstudio.google.com/embed/reporting/5ee1d556-9e16-4e82-989f-d278e2a2d593/page/PTDoD" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
 
-<div style="background-color: #daedf1; padding:5px; border-radius: 10px;margin-bottom:10px">
+<div style="background-color: #daedf1; padding:5px; border-radius: 4px;margin-bottom:10px">
   <ul>
 <li>Chart shows query cost by warehouse size. Table shows change in cost as warehosue size increases</li>
 <li>We see cost decreases all the way to extra large warehouse</li>
