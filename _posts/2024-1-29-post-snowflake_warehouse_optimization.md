@@ -18,7 +18,7 @@ header:
 author_profile: True
 sidebar:
   - title: "Navigation"
-    url: "https://mmistakes.github.io/minimal-mistakes/layout-sidebar-custom/"
+    text: <a href="https://docs.snowflake.com/en/user-guide/warehouses">"test contigo"</a>
 ---
 
 
