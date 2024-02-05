@@ -19,6 +19,7 @@ author_profile: True
 sidebar:
   - title: "Navigation"
     text: <a href="https://donniedata.github.io/post/post-snowflake_warehouse_optimization/#project-overview">Project Overview</a>
+    text: <a href="https://donniedata.github.io/post/post-snowflake_warehouse_optimization/#project-overview">Snowflake Overview</a>
 ---
 
 
@@ -26,7 +27,7 @@ sidebar:
 Snowflake is a Software as a Service(SaaS) for cloud data services and tools. 
 This project will focus on optimizing operations in Snowflake through warehouse scaling. Scaling by warehouse size and testing performance with the same query will allow me to gather metrics and analyze which is the best virutal warehouse for the job.
 
-# Snowflake - Quick Overview 
+# Snowflake Overview 
 Snowflake operates in 3 primary layers that interact with each other: 
 - Storage Layer - handles data storage in micro partitions, data storage billing
 - Compute Layer - handles virtual warehouse, compute credits, credit consumption 
