@@ -18,7 +18,7 @@ header:
 author_profile: True
 sidebar:
   - title: "Navigation"
-    text: <a href="https://donniedata.github.io/post/post-snowflake_warehouse_optimization/#project-overview">Project Overview</a>
+  - text: <a href="https://donniedata.github.io/post/post-snowflake_warehouse_optimization/#project-overview">Project Overview</a>
     text: <a href="https://donniedata.github.io/post/post-snowflake_warehouse_optimization/#project-overview">Snowflake Overview</a>
 ---
 
