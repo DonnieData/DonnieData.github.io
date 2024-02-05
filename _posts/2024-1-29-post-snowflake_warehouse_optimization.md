@@ -120,9 +120,16 @@ where query_id in (
 </div>
 
 # Conclusion 
+***
 For this optimization project I ran the same query in several warehouses and reviewed execution data to reveal which warehouse size is best for the job. 
 
-Based on the data an X-large or 2X-large warehouse are the best choices for perfromance(execution time and cost). 
+Based on the data an X-large or 2X-large warehouse are the best choices for perfromance(execution time and cost).
+
+
+![image](https://github.com/DonnieData/DonnieData.github.io/assets/55963911/ff38b04a-86c9-4a3e-b405-e00d516eaf9a)
+
+
+
 The X-Large warehouse provides the best combiniation of time eficney and cost. 
 in a the scenario in which the need for updated data is urgent, we have 2X-Large warehouse as a secomdary option. In which this warehouse size almsot halfs execution time for a relativley small price increase(3%).
 
