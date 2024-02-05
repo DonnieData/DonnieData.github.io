@@ -17,8 +17,8 @@ header:
       url: ""
 author_profile: True
 sidebar:
-  title: "Navigation"
-  nav: sf1-navbar1
+  - title: "Navigation"
+    url: "https://mmistakes.github.io/minimal-mistakes/layout-sidebar-custom/"
 ---
 
 
