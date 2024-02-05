@@ -125,8 +125,9 @@ For this optimization project I ran the same query in several warehouses and rev
 
 Based on the data an X-large or 2X-large warehouse are the best choices for perfromance(execution time and cost).
 
+![image](https://github.com/DonnieData/DonnieData.github.io/assets/55963911/dd72cb6d-5db6-4743-aab1-98351f3b7739)
 
-![image](https://github.com/DonnieData/DonnieData.github.io/assets/55963911/ff38b04a-86c9-4a3e-b405-e00d516eaf9a)
+
 
 
 
