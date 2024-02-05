@@ -19,7 +19,10 @@ author_profile: True
 sidebar:
   - title: "Navigation"
   - text: <a href="https://donniedata.github.io/post/post-snowflake_warehouse_optimization/#project-overview">Project Overview</a>
-  - text: <a href="https://donniedata.github.io/post/post-snowflake_warehouse_optimization/#project-overview">Snowflake Overview</a>
+  - text: <a href="https://donniedata.github.io/post/post-snowflake_warehouse_optimization/#snowflake-overview">Snowflake Overview</a>
+  - text: <a href="https://donniedata.github.io/post/post-snowflake_warehouse_optimization/#testing-warehosue-performance">Testing Warehouse Performance</a>
+  - text: <a href="https://donniedata.github.io/post/post-snowflake_warehouse_optimization/#cost--performance-analysis">Cost & Performance Analysis</a>
+  - text: <a href="https://donniedata.github.io/post/post-snowflake_warehouse_optimization/#conclusion">Conclusion</a>
 ---
 
 
