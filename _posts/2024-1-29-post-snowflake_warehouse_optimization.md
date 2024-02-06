@@ -14,7 +14,7 @@ header:
   overlay_image: /assets/images/snowflake_op/sf_op_house_base.jpg
   actions:
     - label: "GitHub Repo"
-      url: ""
+      url: "https://github.com/DonnieData/snowflake_warehouse_op"
 author_profile: True
 sidebar:
   - title: "Navigation"
