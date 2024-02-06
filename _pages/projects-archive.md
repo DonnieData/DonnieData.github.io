@@ -140,6 +140,20 @@ feature_row4:
     url: "#test-link"
     btn_label: "Work In Progress"
     btn_class: "btn--primary"
+
+  - image_path: /assets/images/snowflake_op/sf_op_house_base.jpg
+    alt: "placeholder image 1"
+    title: "Snowflake Virtual Warehouse Scaling" 
+    excerpt: <div style="margin:0px; margin-bottom:10px;"> 
+      <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Snowflake</button>
+      <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Warehouse Scaling</button>
+      <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">SQL</button>
+      </div> Testing virtual warehouse scaling to optimOptoimizing operations through testing virtual warehouse scaling. 
+                  
+         
+    url: "https://donniedata.github.io/post/post-snowflake_warehouse_optimization/"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
   
 ---
 
