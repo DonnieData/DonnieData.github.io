@@ -125,7 +125,7 @@ feature_row4:
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">ELT</button>
                                   </div> Using Python & Google Cloud Big Query to extract, load, and transform 311 Data for analyzing. 
                   
-       </div> Managing pipeline dependencies with scheduling frameworks.
+      
     url: "https://donniedata.github.io/post/post-python_in_gcp_ELT/"
     btn_label: "View Project"
     btn_class: "btn--primary"
