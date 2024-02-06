@@ -90,6 +90,12 @@ where query_id in (
 </figure>
 </div>
 
+<div class="notice">
+<figure>
+  <a href="/assets/images/snowflake_op/op_stats_snowflake_vid1g.gif"><img src="/assets/images/snowflake_op/op_stats_snowflake_vid1g.gif"></a>
+</figure>
+  </div>
+
 
 # Cost & Performance Analysis 
 
