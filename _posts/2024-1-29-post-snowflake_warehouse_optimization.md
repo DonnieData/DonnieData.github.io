@@ -11,7 +11,7 @@ tags:
   - Data Warehouse 
   - Data Modeling 
 header:
-  overlay_image: /assets/images/splash_project/phone_line.jpg
+  overlay_image: /assets/images/snowflake_op/sf_op_house_base.jpg
   actions:
     - label: "GitHub Repo"
       url: ""
