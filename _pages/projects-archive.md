@@ -143,15 +143,45 @@ feature_row4:
 
   - image_path: /assets/images/snowflake_op/sf_op_house_base.jpg
     alt: "placeholder image 1"
-    title: "Snowflake Virtual Warehouse Scaling" 
+    title: "Snowflake Virtual Warehouse Scaling"
+    
     excerpt: <div style="margin:0px; margin-bottom:10px;"> 
       <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Snowflake</button>
       <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Warehouse Scaling</button>
       <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">SQL</button>
       </div> Testing virtual warehouse scaling to optimOptoimizing operations through testing virtual warehouse scaling. 
                   
-         
     url: "https://donniedata.github.io/post/post-snowflake_warehouse_optimization/"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+
+feature_row5:
+
+  - image_path:
+    alt: "placeholder image 1"
+    title: "Staging & Loading data in Snowflake"
+    
+    excerpt: <div style="margin:0px; margin-bottom:10px;"> 
+      <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Snowflake</button>
+      <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Python</button>
+      <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">SQL</button>
+      </div> Developing script to manage and load large ammounts of data using local cpu with limited Ram. 
+                  
+    url: " "
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+    
+  - image_path:
+    alt: "placeholder image 1"
+    title: "Data engineering with DBT"
+    
+    excerpt: <div style="margin:0px; margin-bottom:10px;"> 
+      <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">DBT</button>
+      <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Data Model</button>
+      <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Version Control</button>
+      </div> Developing with DBT.
+                  
+    url: " "
     btn_label: "View Project"
     btn_class: "btn--primary"
   
@@ -166,4 +196,6 @@ feature_row4:
 {% include feature_row id="feature_row3" %}
 
 {% include feature_row id="feature_row4" %}
+
+{% include feature_row id="feature_row5" %}
 
