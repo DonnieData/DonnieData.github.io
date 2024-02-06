@@ -116,6 +116,7 @@ feature_row3:
     btn_class: "btn--primary" 
 
 feature_row4:
+
   - image_path: /assets/images/splash_project/phone_line.jpg
     alt: "placeholder image 1"
     title: "Python With Google Cloud" 
@@ -129,6 +130,7 @@ feature_row4:
     url: "https://donniedata.github.io/post/post-python_in_gcp_ELT/"
     btn_label: "View Project"
     btn_class: "btn--primary"
+    
   - image_path: 
     alt: "placeholder image 1"
     title: "Pipeline Dependencies" 
