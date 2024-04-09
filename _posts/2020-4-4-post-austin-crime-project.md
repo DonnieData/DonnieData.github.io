@@ -43,7 +43,7 @@ This full length project involves
 The fully interactive Web Application ca nbe viewed here
 
 # Future Updates
-
+- Analyze heat map further 
 
 
 
