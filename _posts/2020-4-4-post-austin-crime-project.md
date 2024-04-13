@@ -28,7 +28,12 @@ in an effort to challenge myself with working with this data -- I developed a we
 
 
 # Steps 
-
+<div class="notice" style="display:flex; justify-content: center; width:300;">
+<figure>
+  <a href="/assets/images/normalization/uniquedf.png"><img src="/assets/images/austin_eda/Austin_eda_project_steps.jpg"></a>
+</figure>
+  </div>
+  
 This full length project involves 
 - data discovery
     - research, rest api connectivity 
