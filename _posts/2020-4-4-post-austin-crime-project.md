@@ -29,8 +29,9 @@ in an effort to challenge myself with working with this data -- I developed a we
 
 # Steps 
 <div class="notice" style="display:flex; justify-content: center; width:300;">
+  <i>click to enlarge image</i>
 <figure>
-  <a href="/assets/images/normalization/uniquedf.png"><img src="/assets/images/austin_eda/Austin_eda_project_steps.jpg"></a>
+  <a href="/assets/images/austin_eda/Austin_eda_project_steps.jpg"><img src="/assets/images/austin_eda/Austin_eda_project_steps.jpg"></a>
 </figure>
   </div>
   
