@@ -16,9 +16,9 @@ feature_row:
     alt: "placeholder image 2"
     title: "Transform & Dynamically Visualizing Data"
     excerpt: <div style="margin:0px; margin-bottom:10px;"> 
-                <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">HTML</button>
-                <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Javascript</button>
-                <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">D3.js</button>
+                <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px">HTML</button>
+                <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px">Javascript</button>
+                <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px">D3.js</button>
                                   </div> Building a dynamic webpage to display and filter data using JavaScript
     url: "https://donniedata.github.io/post/post-ufo/"
     btn_label: "View Project"
