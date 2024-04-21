@@ -38,9 +38,12 @@ This detailed and extensive project involved many steps in the data life cycle f
   </div>
   
 # Future Updates
-- Analyze heat map further 
+- Analyze heat map further
 
-# Final Stage
+# Project Use Cases 
+
+
+# Project Review
 The fully interactive Web Application can be viewed here: 
 
 <div style="text-align: center"><a href="https://donniedata.github.io/austin_crime_EDA/"><button style="color:#ffffff; background-color:#6f777d; border: 1px solid gray; padding: 11px; border-radius: 3px;" type="button"
