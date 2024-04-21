@@ -37,22 +37,15 @@ This detailed and extensive project involved many steps in the data life cycle f
 </figure>
   </div>
   
-This full length project involves 
-- data discovery
-    - research, rest api connectivity 
-- dat engineering
-    - python , dataframes
-- front end developement UX desing
-    - html, css, javascript
-- data analysis
-  - provide key insights 
-
-# The Web App 
-The fully interactive Web Application ca nbe viewed here
-
 # Future Updates
 - Analyze heat map further 
 
+# Final Stage
+The fully interactive Web Application can be viewed here: 
+
+<div style="text-align: center"><a href="https://public.tableau.com/profile/donnie1554#!/vizhome/CitiBikeNYC_16117049991780/CitiBikeAugustTripsAnalysis?publish=yes"><button style="color:#FFFFFF; background-color:#FFFFFF; border: 1px solid gray; padding: 7px; border-radius: 3px;" type="button"
+onMouseOver="this.style.color='#4787F0'"
+   onMouseOut="this.style.color='#FFFFFF'"><b>Austin Crime Web App</b></button></a></div>
 
 
 
