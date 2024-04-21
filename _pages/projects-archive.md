@@ -14,7 +14,7 @@ intro:
 feature_row:
   - image_path: /assets/images/splash_project/nasa_splash_1.jpg
     alt: "placeholder image 2"
-    title: "Transform & Dynamically Visualizing Data"
+    title: 'Transform & Dynamically Visualizing Data <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; "><b>2020</b></button>'
     excerpt: <div style="margin:0px; margin-bottom:10px;">
                 <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px ;"><b>2020</b></button>
                 <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px">HTML</button>
