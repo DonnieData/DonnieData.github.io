@@ -9,6 +9,7 @@ tags:
   - Rest API
   - JSON
   - Javascript
+  -  Data Engineering
 header:
   overlay_image: /assets/images/austin_eda/austin-banner3.jpeg
   overlay_filter: 0.5 
@@ -44,6 +45,7 @@ Some future updates to further develop my project may involve:
 - Expanding the interactive map to share more data
 - Drawing more insights from the interactive heat map 
 - Further breaking out yearly time series data side by side for interactive comparison
+
 
 
 # Project Use Cases, Concepts & Tools
