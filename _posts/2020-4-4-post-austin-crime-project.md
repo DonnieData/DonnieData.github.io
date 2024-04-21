@@ -29,6 +29,7 @@ in an effort to challenge myself with working with this data -- I developed a we
 
 # Steps 
 This detailed and extensive project involved many steps in the data life cycle from start to finish.These can be summarized by the major Phases below: 
+
 <div class="notice" style="display:flex; justify-content: center; width:300;">
 <figure>
   <a href="/assets/images/austin_eda/Austin_eda_project_steps1.jpg"><img src="/assets/images/austin_eda/Austin_eda_project_steps1.jpg"></a>
