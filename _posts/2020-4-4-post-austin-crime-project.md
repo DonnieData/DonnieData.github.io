@@ -47,7 +47,7 @@ Some future updates to further develop my project may involve:
 
 
 # Project Use Cases & Concepts
-<button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px"> Javascript </button>
+<button type="button" style="background-color:#FFFFFF; padding: 10px; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:15px"> Javascript </button>
 <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px"> Javascript </button>
 <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px"> Javascript </button>
 
