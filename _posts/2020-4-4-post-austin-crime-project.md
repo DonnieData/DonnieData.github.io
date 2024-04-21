@@ -48,18 +48,18 @@ Some future updates to further develop my project may involve:
 
 # Project Use Cases, Concepts & Tools
 
-<button type="button" style="background-color:#FFFFFF; padding:5px 10px 5px 10px; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px"> Data Engineering </button>
-<button type="button" style="background-color:#FFFFFF; padding:5px 10px 5px 10px; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px"> Rest API </button>
-<button type="button" style="background-color:#FFFFFF; padding:5px 10px 5px 10px; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px"> Python </button>
-<button type="button" style="background-color:#FFFFFF; padding:5px 10px 5px 10px; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px"> Research & Development </button>
-<button type="button" style="background-color:#FFFFFF; padding:5px 10px 5px 10px; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px"> Geographical Data Model </button>
-<button type="button" style="background-color:#FFFFFF; padding:5px 10px 5px 10px; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px"> Public Database </button>
-<button type="button" style="background-color:#FFFFFF; padding:5px 10px 5px 10px; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px"> Data Modeling </button>
-<button type="button" style="background-color:#FFFFFF; padding:5px 10px 5px 10px; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px"> Javascript </button>
-<button type="button" style="background-color:#FFFFFF; padding:5px 10px 5px 10px; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px"> JSON </button>
-<button type="button" style="background-color:#FFFFFF; padding:5px 10px 5px 10px; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px"> HTML </button>
-<button type="button" style="background-color:#FFFFFF; padding:5px 10px 5px 10px; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px"> Exploratory Data Analysis </button>
-<button type="button" style="background-color:#FFFFFF; padding:5px 10px 5px 10px; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px"> UX Design </button>
+<button type="button" style="background-color:#FFFFFF;margin:0px 5px 7px 0px; padding:5px 10px 5px 10px; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px"> Data Engineering </button>
+<button type="button" style="background-color:#FFFFFF;margin:0px 5px 7px 0px; padding:5px 10px 5px 10px; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px"> Rest API </button>
+<button type="button" style="background-color:#FFFFFF;margin:0px 5px 7px 0px; padding:5px 10px 5px 10px; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px"> Python </button>
+<button type="button" style="background-color:#FFFFFF;margin:0px 5px 7px 0px; padding:5px 10px 5px 10px; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px"> Research & Development </button>
+<button type="button" style="background-color:#FFFFFF;margin:0px 5px 7px 0px; padding:5px 10px 5px 10px; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px"> Geographical Data Model </button>
+<button type="button" style="background-color:#FFFFFF;margin:0px 5px 7px 0px; padding:5px 10px 5px 10px; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px"> Public Database </button>
+<button type="button" style="background-color:#FFFFFF;margin:0px 5px 7px 0px; padding:5px 10px 5px 10px; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px"> Data Modeling </button>
+<button type="button" style="background-color:#FFFFFF;margin:0px 5px 7px 0px; padding:5px 10px 5px 10px; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px"> Javascript </button>
+<button type="button" style="background-color:#FFFFFF;margin:0px 5px 7px 0px; padding:5px 10px 5px 10px; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px"> JSON </button>
+<button type="button" style="background-color:#FFFFFF;margin:0px 5px 7px 0px; padding:5px 10px 5px 10px; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px"> HTML </button>
+<button type="button" style="background-color:#FFFFFF;margin:0px 5px 7px 0px; padding:5px 10px 5px 10px; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px"> Exploratory Data Analysis </button>
+<button type="button" style="background-color:#FFFFFF;margin:0px 5px 7px 0px; padding:5px 10px 5px 10px; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px"> UX Design </button>
 
 # Project Review
 The fully interactive Web Application can be viewed here: 
