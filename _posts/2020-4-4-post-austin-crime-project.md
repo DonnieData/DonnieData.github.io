@@ -29,7 +29,7 @@ in an effort to challenge myself with working with this data -- I developed a we
 
 # Steps 
 <div class="notice" style="display:flex; justify-content: center; width:300;">
-  <i>click to enlarge image</i>
+  <p><i>click to enlarge image</i></p>
 <figure>
   <a href="/assets/images/austin_eda/Austin_eda_project_steps.jpg"><img src="/assets/images/austin_eda/Austin_eda_project_steps.jpg"></a>
 </figure>
