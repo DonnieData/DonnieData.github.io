@@ -38,7 +38,13 @@ This detailed and extensive project involved many steps in the data life cycle f
   </div>
   
 # Future Updates
-- Analyze heat map further
+Projects are pieces of work that can be continuously revisited and developed.
+Some future updates to further develop my project may involve: 
+- Expanding on geographical data use 
+- Expanding the interactive map to share more data
+- Drawing more insights from the interactive heat map 
+- Further breaking out yearly time series data side by side for interactive comparison
+
 
 # Project Use Cases 
 
