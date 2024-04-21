@@ -16,7 +16,7 @@ feature_row:
     alt: "placeholder image 2"
     title: 'Transform & Dynamically Visualizing Data'
     excerpt: <div style="margin:0px; margin-bottom:10px;">
-                <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px ;"><b>YEAR</b></button>
+                <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px padding-left:13px; padding-right:13px;"><b>2020</b></button>
                 <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px">HTML</button>
                 <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px">Javascript</button>
                 <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px">D3.js</button>
@@ -29,7 +29,7 @@ feature_row:
     alt: "placeholder image 1"
     title: Exploring Data Through Custom Dashboards
     excerpt: <div style="margin:0px; margin-bottom:10px;">
-                  <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px ;"><b>YEAR</b></button>
+                  <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px ;"><b>2020</b></button>
                   <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Javascript</button>
                   <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">JSON</button>
                   <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">CSS</button>
@@ -41,7 +41,7 @@ feature_row:
     alt: "placeholder image 1"
     title: "Mapping GeoJson Data"
     excerpt: <div style="margin:0px; margin-bottom:10px;">
-                  <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px ;"><b>YEAR</b></button>
+                  <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px ;"><b>2020</b></button>
                   <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Javascript</button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">GEOjson</button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">HTML</button>
@@ -54,7 +54,7 @@ feature_row2:
     alt: "placeholder image 1"
     title: "Analyzing Bike-Sharing Data With Tableau"
     excerpt: <div style="margin:0px; margin-bottom:10px;">
-                  <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px ;"><b>YEAR</b></button>
+                  <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px ;"><b>2021</b></button>
                   <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Tableau</button>
                   <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Data Analysis</button>
                   <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">CSS</button>
@@ -66,7 +66,7 @@ feature_row2:
     alt: "placeholder image 1"
     title: "Austin Crime Data Analysis"
     excerpt: <div style="margin:0px; margin-bottom:10px;">
-                  <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px ;"><b>YEAR</b></button>
+                  <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px ;"><b>2021</b></button>
                   <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Python</button>
                   <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">ETL</button>
                   <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Javascript</button>
@@ -78,7 +78,7 @@ feature_row2:
     alt: "placeholder image 1"
     title: "Database Normalization"
     excerpt: <div style="margin:0px; margin-bottom:10px;">
-                  <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px ;"><b>YEAR</b></button>
+                  <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px ;"><b>2021</b></button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Automation</button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Data Modeling</button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">PostgreSQL</button>
@@ -91,7 +91,7 @@ feature_row3:
     alt: "placeholder image 1"
     title: "Scala App for API requests" 
     excerpt: <div style="margin:0px; margin-bottom:10px;">
-                  <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px ;"><b>YEAR</b></button>
+                  <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px ;"><b>2022</b></button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Scala</button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Packaging</button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Rest API</button>
@@ -103,7 +103,7 @@ feature_row3:
     alt: "placeholder image 1"
     title: "Creating Python Package"
     excerpt: <div style="margin:0px; margin-bottom:10px;">
-                  <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px ;"><b>YEAR</b></button>
+                  <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px ;"><b>2022</b></button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Python</button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">OOP</button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Packaging</button>
@@ -115,7 +115,7 @@ feature_row3:
     alt: "placeholder image 1"
     title: "Database Migration"
     excerpt: <div style="margin:0px; margin-bottom:10px;">
-                  <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px ;"><b>YEAR</b></button>
+                  <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px ;"><b>2023</b></button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">SQLite</button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Python</button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">PostgreSQL</button>
@@ -130,7 +130,7 @@ feature_row4:
     alt: "placeholder image 1"
     title: "Python With Google Cloud" 
     excerpt: <div style="margin:0px; margin-bottom:10px;">
-                  <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px ;"><b>YEAR</b></button>
+                  <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px ;"><b>2023</b></button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Google Cloud</button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Python</button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">ELT</button>
@@ -156,7 +156,7 @@ feature_row4:
     title: "Snowflake Virtual Warehouse Scaling"
     
     excerpt: <div style="margin:0px; margin-bottom:10px;">
-      <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px ;"><b>YEAR</b></button>
+      <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px ;"><b>2024</b></button>
       <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Snowflake</button>
       <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Warehouse Scaling</button>
       <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">SQL</button>
