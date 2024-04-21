@@ -43,9 +43,9 @@ This detailed and extensive project involved many steps in the data life cycle f
 # Final Stage
 The fully interactive Web Application can be viewed here: 
 
-<div style="text-align: center"><a href="https://donniedata.github.io/austin_crime_EDA/"><button style="color:#000000; background-color:#FFFFFF; border: 1px solid gray; padding: 7px; border-radius: 3px;" type="button"
+<div style="text-align: center"><a href="https://donniedata.github.io/austin_crime_EDA/"><button style="color:#ffffff; background-color:#000000; border: 1px solid gray; padding: 7px; border-radius: 3px;" type="button"
 onMouseOver="this.style.color='#4787F0'"
-   onMouseOut="this.style.color='#000000'"><b>View the Web App</b></button></a></div>
+   onMouseOut="this.style.color='#ffffff'"><b>View the Web App</b></button></a></div>
 
 
 
