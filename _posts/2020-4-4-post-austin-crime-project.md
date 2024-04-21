@@ -46,7 +46,10 @@ Some future updates to further develop my project may involve:
 - Further breaking out yearly time series data side by side for interactive comparison
 
 
-# Project Use Cases 
+# Project Use Cases & Concepts
+<button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px"> Javascript </button>
+<button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px"> Javascript </button>
+<button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px"> Javascript </button>
 
 
 # Project Review
