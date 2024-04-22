@@ -10,7 +10,7 @@ header:
 excerpt: "Benchmark Data Engineering projects that utilize a multitude of programing languages, tools, and concepts to transform and utilize data."
 author_profile: True
 intro: 
-  - excerpt: "<h1> Projects<h1>"
+  - excerpt: '<h1 style="font-size:30px"> Projects<h1>'
 feature_row:
   - image_path:
     alt: "placeholder image 1"
