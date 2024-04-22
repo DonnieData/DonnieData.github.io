@@ -22,7 +22,7 @@ feature_row:
       <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">SQL</button>
       </div> Developing script to manage and load large ammounts of data using local cpu with limited Ram.           
     url: " "
-    btn_label: "View Project"
+    btn_label: "Coming Soon"
     btn_class: "btn--primary"
     
   - image_path:
@@ -35,7 +35,7 @@ feature_row:
       <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Version Control</button>
       </div> Developing with DBT.         
     url: " "
-    btn_label: "View Project"
+    btn_label: "Coming Soon"
     btn_class: "btn--primary"
 
 
