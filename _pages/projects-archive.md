@@ -12,8 +12,6 @@ author_profile: True
 intro: 
   - excerpt: "<h1> Projects<h1>"
 feature_row:
-intro: 
-  - excerpt: "<h1> 2024<h1>"
   - image_path: /assets/images/splash_project/nasa_splash_1.jpg
     alt: "placeholder image 2"
     title: 'Transform & Dynamically Visualizing Data'
