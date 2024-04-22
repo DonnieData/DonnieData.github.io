@@ -10,10 +10,10 @@ header:
 excerpt: "Benchmark Data Engineering projects that utilize a multitude of programing languages, tools, and concepts to transform and utilize data."
 author_profile: True
 intro: 
-  - excerpt: '<h1 style="font-size:30px"> Projects<h1>'
+  - excerpt: '<p style="font-size:30px"> In Development </p>'
 feature_row:
-  - excerpt: '<h1 style="font-size:30px"> Projects<h1>'
-  - <hr>
+  - <p style="font-size:30px"> Developed Projects</p>
+  - <b><hr></b>
   - image_path:
     alt: "placeholder image 1"
     title: "Staging & Loading data in Snowflake"
