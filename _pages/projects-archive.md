@@ -12,6 +12,8 @@ author_profile: True
 intro: 
   - excerpt: "<h1> Projects<h1>"
 feature_row:
+intro: 
+  - excerpt: "<h1> 2024<h1>"
   - image_path: /assets/images/splash_project/nasa_splash_1.jpg
     alt: "placeholder image 2"
     title: 'Transform & Dynamically Visualizing Data'
@@ -170,7 +172,7 @@ feature_row5:
       </div> Developing script to manage and load large ammounts of data using local cpu with limited Ram. 
                   
     url: " "
-    btn_label: "View Project"
+    btn_label: "In Development"
     btn_class: "btn--primary"
     
   - image_path:
@@ -184,7 +186,7 @@ feature_row5:
       </div> Developing with DBT.
                   
     url: " "
-    btn_label: "View Project"
+    btn_label: "In Development"
     btn_class: "btn--primary"
   
 ---
