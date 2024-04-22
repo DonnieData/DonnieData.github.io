@@ -40,11 +40,12 @@ feature_row:
 
 
 feature_row2:
+
   - image_path: /assets/images/snowflake_op/sf_op_house_base.jpg
     alt: "placeholder image 1"
     title: "Snowflake Virtual Warehouse Scaling"
     excerpt: <div style="margin:0px; margin-bottom:10px;">
-      <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px ;"><b>2024</b></button>
+      <button type="button" style="background-color:#3d4144; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px; padding-left:13px; padding-right:13px;"><i class="fas fa-calendar-alt"></i> <b>2024</b></button>
       <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Snowflake</button>
       <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Warehouse Scaling</button>
       <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">SQL</button>
@@ -57,7 +58,7 @@ feature_row2:
     alt: "placeholder image 1"
     title: "Python With Google Cloud" 
     excerpt: <div style="margin:0px; margin-bottom:10px;">
-                  <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px ;"><b>2023</b></button>
+                  <button type="button" style="background-color:#3d4144; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px; padding-left:13px; padding-right:13px;"><i class="fas fa-calendar-alt"></i> <b>2023</b></button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Google Cloud</button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Python</button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">ELT</button>
@@ -70,7 +71,7 @@ feature_row2:
     alt: "placeholder image 1"
     title: "Database Migration"
     excerpt: <div style="margin:0px; margin-bottom:10px;">
-                  <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px ;"><b>2023</b></button>
+                  <button type="button" style="background-color:#3d4144; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px; padding-left:13px; padding-right:13px;"><i class="fas fa-calendar-alt"></i> <b>2023</b></button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">SQLite</button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Python</button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">PostgreSQL</button>
@@ -86,7 +87,7 @@ feature_row3:
     alt: "placeholder image 1"
     title: "Creating Python Package"
     excerpt: <div style="margin:0px; margin-bottom:10px;">
-                  <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px ;"><b>2022</b></button>
+                  <button type="button" style="background-color:#3d4144; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px; padding-left:13px; padding-right:13px;"><i class="fas fa-calendar-alt"></i> <b>2022</b></button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Python</button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">OOP</button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Packaging</button>
@@ -99,7 +100,7 @@ feature_row3:
     alt: "placeholder image 1"
     title: "Scala App for API requests" 
     excerpt: <div style="margin:0px; margin-bottom:10px;">
-                  <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px ;"><b>2022</b></button>
+                  <button type="button" style="background-color:#3d4144; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px; padding-left:13px; padding-right:13px;"><i class="fas fa-calendar-alt"></i> <b>2022</b></button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Scala</button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Packaging</button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Rest API</button>
@@ -112,7 +113,7 @@ feature_row3:
     alt: "placeholder image 1"
     title: "Database Normalization"
     excerpt: <div style="margin:0px; margin-bottom:10px;">
-                  <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px ;"><b>2021</b></button>
+                  <button type="button" style="background-color:#3d4144; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px; padding-left:13px; padding-right:13px;"><i class="fas fa-calendar-alt"></i> <b>2021</b></button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Automation</button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Data Modeling</button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">PostgreSQL</button>
