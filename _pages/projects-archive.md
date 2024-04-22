@@ -104,7 +104,8 @@ feature_row3:
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px">Scala</button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px">Packaging</button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px">Rest API</button>
-                                  </div>
+                                  </div> Using the Scala Programing language to develop a simple application
+
     url: "https://donniedata.github.io/post/post-scala_api_app/"
     btn_label: "View Project"
     btn_class: "btn--primary"
