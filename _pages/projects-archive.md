@@ -131,7 +131,7 @@ feature_row4:
     alt: "placeholder image 1"
     title: "Austin Crime Data Analysis"
     excerpt: <div style="margin:0px; margin-bottom:10px;">
-                  <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px ;"><b>2021</b></button>
+                  <button type="button" style="background-color:#3d4144; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px; padding-left:13px; padding-right:13px;"><i class="fas fa-calendar-alt"></i> <b>2021</b></button>
                   <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Python</button>
                   <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">ETL</button>
                   <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Javascript</button>
@@ -144,7 +144,7 @@ feature_row4:
     alt: "placeholder image 1"
     title: "Analyzing Bike-Sharing Data With Tableau"
     excerpt: <div style="margin:0px; margin-bottom:10px;">
-                  <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px ;"><b>2021</b></button>
+                  <button type="button" style="background-color:#3d4144; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px; padding-left:13px; padding-right:13px;"><i class="fas fa-calendar-alt"></i> <b>2021</b></button>
                   <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Tableau</button>
                   <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Data Analysis</button>
                   <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">CSS</button>
@@ -157,7 +157,7 @@ feature_row4:
     alt: "placeholder image 1"
     title: "Mapping GeoJson Data"
     excerpt: <div style="margin:0px; margin-bottom:10px;">
-                  <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px ;"><b>2020</b></button>
+                  <button type="button" style="background-color:#3d4144; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px; padding-left:13px; padding-right:13px;"><i class="fas fa-calendar-alt"></i> <b>2020</b></button>
                   <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Javascript</button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">GEOjson</button>
                   <button type="button" style="background-color:#FFFFFF;  color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">HTML</button>
@@ -176,7 +176,7 @@ feature_row5:
     alt: "placeholder image 1"
     title: Exploring Data Through Custom Dashboards
     excerpt: <div style="margin:0px; margin-bottom:10px;">
-                  <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px ;"><b>2020</b></button>
+                  <button type="button" style="background-color:#3d4144; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px; padding-left:13px; padding-right:13px;"><i class="fas fa-calendar-alt"></i> <b>2020</b></button>
                   <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">Javascript</button>
                   <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">JSON</button>
                   <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:13px">CSS</button>
