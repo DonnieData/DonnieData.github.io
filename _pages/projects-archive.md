@@ -16,11 +16,11 @@ feature_row:
     alt: "placeholder image 2"
     title: 'Transform & Dynamically Visualizing Data'
     excerpt: <div style="margin:0px; margin-bottom:10px;">
-                <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px; padding-left:13px; padding-right:13px;"><i class="fa fa-calendar"></i><b>2020</b></button>
+                <button type="button" style="background-color:#073763; color:#FFFFFF; border-radius:25px; border:1px solid gray; font-size:16px; padding-left:13px; padding-right:13px;"><i class="fa fa-calendar"></i> <b>2020</b></button>
                 <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px">HTML</button>
                 <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px">Javascript</button>
                 <button type="button" style="background-color:#FFFFFF; color:#0c4978; border-radius:3px; border:1px solid gray; font-size:16px">D3.js</button>
-                                  </div> Building a dynamic webpage to display and filter data using JavaScript
+                                  </div> Building a dynamic webpage to display and filter data using JavaScript <i class="fa fa-calendar"></i>
     url: "https://donniedata.github.io/post/post-ufo/"
     btn_label: "View Project"
     btn_class: "btn--primary"  
