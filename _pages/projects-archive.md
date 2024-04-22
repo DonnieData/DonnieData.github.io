@@ -12,6 +12,8 @@ author_profile: True
 intro: 
   - excerpt: '<h1 style="font-size:30px"> Projects<h1>'
 feature_row:
+  - excerpt: '<h1 style="font-size:30px"> Projects<h1>'
+  - <hr>
   - image_path:
     alt: "placeholder image 1"
     title: "Staging & Loading data in Snowflake"
