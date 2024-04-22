@@ -141,15 +141,6 @@ feature_row4:
     btn_label: "View Project"
     btn_class: "btn--primary"
     
-  - image_path: 
-    alt: "placeholder image 1"
-    title: "Pipeline Dependencies" 
-    excerpt: <div style="margin:0px; margin-bottom:10px;"> 
-                  
-       </div> Managing pipeline dependencies with scheduling frameworks.
-    url: "#test-link"
-    btn_label: "Work In Progress"
-    btn_class: "btn--primary"
 
   - image_path: /assets/images/snowflake_op/sf_op_house_base.jpg
     alt: "placeholder image 1"
