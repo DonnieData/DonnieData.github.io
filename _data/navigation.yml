@@ -4,5 +4,5 @@ main:
   - title: "About"
     url: /about/
   - title: "Exp"
-    url: /exp_dev/
+    url: https://donniedata.github.io/exp_timeline/
 
