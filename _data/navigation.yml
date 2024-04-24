@@ -3,6 +3,6 @@ main:
     url: /posts/
   - title: "About"
     url: /about/
-  - title: "Exp"
-    url: https://donniedata.github.io/exp_timeline/
+  #- title: "Exp"
+   # url: https://donniedata.github.io/exp_timeline/
 
