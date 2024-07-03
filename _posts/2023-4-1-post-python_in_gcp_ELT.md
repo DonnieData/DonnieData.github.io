@@ -14,9 +14,9 @@ header:
   overlay_image: /assets/images/splash_project/phone_line.jpg
   actions:
     - label: "View Dashboard" 
-      url: ""
+      url: "https://lookerstudio.google.com/embed/reporting/df6456f8-82b8-41d4-aab7-702870654ab4/page/p_kbk6ug9s4c" 
     - label: "GitHub Repo"
-      url: ""
+      url: "https://github.com/DonnieData"
 author_profile: True 
 ---
 ### Overview 
