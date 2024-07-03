@@ -11,7 +11,7 @@ tags:
   - Datawarehouse 
   - Data Modeling 
 header:
-  overlay_image: /assets/images/splash_project/phone_line.jpg
+  overlay_image: 
   actions:
     - label: "View Dashboard" 
       url: "https://lookerstudio.google.com/embed/reporting/df6456f8-82b8-41d4-aab7-702870654ab4/page/p_kbk6ug9s4c" 
